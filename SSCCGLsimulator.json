@@ -2,5201 +2,1301 @@
   {
     "id": 1,
     "category": "Quantitative Aptitude",
-    "question": "What is 11 + 1?",
+    "question": "A shopkeeper gains 20% profit by selling an item for ₹600. What is the cost price?",
     "options": [
-      "10",
-      "11",
-      "12",
-      "13"
+      "₹400",
+      "₹450",
+      "₹500",
+      "₹550"
     ],
-    "correct": "12",
-    "explanation": "11 + 1 = 12."
+    "correct": "₹500",
+    "explanation": "600/1.2 = 500."
   },
   {
     "id": 2,
     "category": "Quantitative Aptitude",
-    "question": "What is 12 + 2?",
+    "question": "A train covers 240 km in 4 hours. Find its speed.",
     "options": [
-      "12",
-      "13",
-      "14",
-      "15"
+      "40 km/h",
+      "50 km/h",
+      "60 km/h",
+      "70 km/h"
     ],
-    "correct": "14",
-    "explanation": "12 + 2 = 14."
+    "correct": "60 km/h",
+    "explanation": "240/4 = 60 km/h."
   },
   {
     "id": 3,
     "category": "Quantitative Aptitude",
-    "question": "What is 13 + 3?",
+    "question": "Find 25% of 640.",
     "options": [
-      "14",
-      "15",
-      "16",
-      "17"
+      "120",
+      "140",
+      "160",
+      "180"
     ],
-    "correct": "16",
-    "explanation": "13 + 3 = 16."
+    "correct": "160",
+    "explanation": "25% of 640 = 160."
   },
   {
     "id": 4,
     "category": "Quantitative Aptitude",
-    "question": "What is 14 + 4?",
+    "question": "Ratio of boys to girls is 5:3. Total students = 320. Number of girls?",
     "options": [
-      "16",
-      "17",
-      "18",
-      "19"
+      "100",
+      "120",
+      "140",
+      "160"
     ],
-    "correct": "18",
-    "explanation": "14 + 4 = 18."
+    "correct": "120",
+    "explanation": "3/8 × 320 = 120."
   },
   {
     "id": 5,
     "category": "Quantitative Aptitude",
-    "question": "What is 15 + 5?",
+    "question": "Simple Interest on ₹5000 at 8% p.a. for 3 years?",
     "options": [
-      "18",
-      "19",
-      "20",
-      "21"
+      "₹1000",
+      "₹1100",
+      "₹1200",
+      "₹1300"
     ],
-    "correct": "20",
-    "explanation": "15 + 5 = 20."
+    "correct": "₹1200",
+    "explanation": "SI=(5000×8×3)/100."
   },
   {
     "id": 6,
     "category": "Quantitative Aptitude",
-    "question": "What is 16 + 6?",
-    "options": [
-      "20",
-      "21",
-      "22",
-      "23"
-    ],
-    "correct": "22",
-    "explanation": "16 + 6 = 22."
-  },
-  {
-    "id": 7,
-    "category": "Quantitative Aptitude",
-    "question": "What is 17 + 7?",
-    "options": [
-      "22",
-      "23",
-      "24",
-      "25"
-    ],
-    "correct": "24",
-    "explanation": "17 + 7 = 24."
-  },
-  {
-    "id": 8,
-    "category": "Quantitative Aptitude",
-    "question": "What is 18 + 8?",
-    "options": [
-      "24",
-      "25",
-      "26",
-      "27"
-    ],
-    "correct": "26",
-    "explanation": "18 + 8 = 26."
-  },
-  {
-    "id": 9,
-    "category": "Quantitative Aptitude",
-    "question": "What is 19 + 9?",
-    "options": [
-      "26",
-      "27",
-      "28",
-      "29"
-    ],
-    "correct": "28",
-    "explanation": "19 + 9 = 28."
-  },
-  {
-    "id": 10,
-    "category": "Quantitative Aptitude",
-    "question": "What is 20 + 10?",
-    "options": [
-      "28",
-      "29",
-      "30",
-      "31"
-    ],
-    "correct": "30",
-    "explanation": "20 + 10 = 30."
-  },
-  {
-    "id": 11,
-    "category": "Quantitative Aptitude",
-    "question": "What is 21 + 11?",
-    "options": [
-      "30",
-      "31",
-      "32",
-      "33"
-    ],
-    "correct": "32",
-    "explanation": "21 + 11 = 32."
-  },
-  {
-    "id": 12,
-    "category": "Quantitative Aptitude",
-    "question": "What is 22 + 12?",
-    "options": [
-      "32",
-      "33",
-      "34",
-      "35"
-    ],
-    "correct": "34",
-    "explanation": "22 + 12 = 34."
-  },
-  {
-    "id": 13,
-    "category": "Quantitative Aptitude",
-    "question": "What is 23 + 13?",
-    "options": [
-      "34",
-      "35",
-      "36",
-      "37"
-    ],
-    "correct": "36",
-    "explanation": "23 + 13 = 36."
-  },
-  {
-    "id": 14,
-    "category": "Quantitative Aptitude",
-    "question": "What is 24 + 14?",
-    "options": [
-      "36",
-      "37",
-      "38",
-      "39"
-    ],
-    "correct": "38",
-    "explanation": "24 + 14 = 38."
-  },
-  {
-    "id": 15,
-    "category": "Quantitative Aptitude",
-    "question": "What is 25 + 15?",
-    "options": [
-      "38",
-      "39",
-      "40",
-      "41"
-    ],
-    "correct": "40",
-    "explanation": "25 + 15 = 40."
-  },
-  {
-    "id": 16,
-    "category": "Quantitative Aptitude",
-    "question": "What is 26 + 16?",
-    "options": [
-      "40",
-      "41",
-      "42",
-      "43"
-    ],
-    "correct": "42",
-    "explanation": "26 + 16 = 42."
-  },
-  {
-    "id": 17,
-    "category": "Quantitative Aptitude",
-    "question": "What is 27 + 17?",
-    "options": [
-      "42",
-      "43",
-      "44",
-      "45"
-    ],
-    "correct": "44",
-    "explanation": "27 + 17 = 44."
-  },
-  {
-    "id": 18,
-    "category": "Quantitative Aptitude",
-    "question": "What is 28 + 18?",
-    "options": [
-      "44",
-      "45",
-      "46",
-      "47"
-    ],
-    "correct": "46",
-    "explanation": "28 + 18 = 46."
-  },
-  {
-    "id": 19,
-    "category": "Quantitative Aptitude",
-    "question": "What is 29 + 19?",
-    "options": [
-      "46",
-      "47",
-      "48",
-      "49"
-    ],
-    "correct": "48",
-    "explanation": "29 + 19 = 48."
-  },
-  {
-    "id": 20,
-    "category": "Quantitative Aptitude",
-    "question": "What is 30 + 20?",
-    "options": [
-      "48",
-      "49",
-      "50",
-      "51"
-    ],
-    "correct": "50",
-    "explanation": "30 + 20 = 50."
-  },
-  {
-    "id": 21,
-    "category": "Quantitative Aptitude",
-    "question": "What is 31 + 21?",
-    "options": [
-      "50",
-      "51",
-      "52",
-      "53"
-    ],
-    "correct": "52",
-    "explanation": "31 + 21 = 52."
-  },
-  {
-    "id": 22,
-    "category": "Quantitative Aptitude",
-    "question": "What is 32 + 22?",
-    "options": [
-      "52",
-      "53",
-      "54",
-      "55"
-    ],
-    "correct": "54",
-    "explanation": "32 + 22 = 54."
-  },
-  {
-    "id": 23,
-    "category": "Quantitative Aptitude",
-    "question": "What is 33 + 23?",
-    "options": [
-      "54",
-      "55",
-      "56",
-      "57"
-    ],
-    "correct": "56",
-    "explanation": "33 + 23 = 56."
-  },
-  {
-    "id": 24,
-    "category": "Quantitative Aptitude",
-    "question": "What is 34 + 24?",
-    "options": [
-      "56",
-      "57",
-      "58",
-      "59"
-    ],
-    "correct": "58",
-    "explanation": "34 + 24 = 58."
-  },
-  {
-    "id": 25,
-    "category": "Quantitative Aptitude",
-    "question": "What is 35 + 25?",
-    "options": [
-      "58",
-      "59",
-      "60",
-      "61"
-    ],
-    "correct": "60",
-    "explanation": "35 + 25 = 60."
-  },
-  {
-    "id": 26,
-    "category": "Quantitative Aptitude",
-    "question": "What is 36 + 26?",
-    "options": [
-      "60",
-      "61",
-      "62",
-      "63"
-    ],
-    "correct": "62",
-    "explanation": "36 + 26 = 62."
-  },
-  {
-    "id": 27,
-    "category": "Quantitative Aptitude",
-    "question": "What is 37 + 27?",
-    "options": [
-      "62",
-      "63",
-      "64",
-      "65"
-    ],
-    "correct": "64",
-    "explanation": "37 + 27 = 64."
-  },
-  {
-    "id": 28,
-    "category": "Quantitative Aptitude",
-    "question": "What is 38 + 28?",
-    "options": [
-      "64",
-      "65",
-      "66",
-      "67"
-    ],
-    "correct": "66",
-    "explanation": "38 + 28 = 66."
-  },
-  {
-    "id": 29,
-    "category": "Quantitative Aptitude",
-    "question": "What is 39 + 29?",
-    "options": [
-      "66",
-      "67",
-      "68",
-      "69"
-    ],
-    "correct": "68",
-    "explanation": "39 + 29 = 68."
-  },
-  {
-    "id": 30,
-    "category": "Quantitative Aptitude",
-    "question": "What is 40 + 30?",
-    "options": [
-      "68",
-      "69",
-      "70",
-      "71"
-    ],
-    "correct": "70",
-    "explanation": "40 + 30 = 70."
-  },
-  {
-    "id": 31,
-    "category": "Quantitative Aptitude",
-    "question": "What is 41 + 31?",
-    "options": [
-      "70",
-      "71",
-      "72",
-      "73"
-    ],
-    "correct": "72",
-    "explanation": "41 + 31 = 72."
-  },
-  {
-    "id": 32,
-    "category": "Quantitative Aptitude",
-    "question": "What is 42 + 32?",
-    "options": [
-      "72",
-      "73",
-      "74",
-      "75"
-    ],
-    "correct": "74",
-    "explanation": "42 + 32 = 74."
-  },
-  {
-    "id": 33,
-    "category": "Quantitative Aptitude",
-    "question": "What is 43 + 33?",
-    "options": [
-      "74",
-      "75",
-      "76",
-      "77"
-    ],
-    "correct": "76",
-    "explanation": "43 + 33 = 76."
-  },
-  {
-    "id": 34,
-    "category": "Quantitative Aptitude",
-    "question": "What is 44 + 34?",
-    "options": [
-      "76",
-      "77",
-      "78",
-      "79"
-    ],
-    "correct": "78",
-    "explanation": "44 + 34 = 78."
-  },
-  {
-    "id": 35,
-    "category": "Quantitative Aptitude",
-    "question": "What is 45 + 35?",
-    "options": [
-      "78",
-      "79",
-      "80",
-      "81"
-    ],
-    "correct": "80",
-    "explanation": "45 + 35 = 80."
-  },
-  {
-    "id": 36,
-    "category": "Quantitative Aptitude",
-    "question": "What is 46 + 36?",
-    "options": [
-      "80",
-      "81",
-      "82",
-      "83"
-    ],
-    "correct": "82",
-    "explanation": "46 + 36 = 82."
-  },
-  {
-    "id": 37,
-    "category": "Quantitative Aptitude",
-    "question": "What is 47 + 37?",
-    "options": [
-      "82",
-      "83",
-      "84",
-      "85"
-    ],
-    "correct": "84",
-    "explanation": "47 + 37 = 84."
-  },
-  {
-    "id": 38,
-    "category": "Quantitative Aptitude",
-    "question": "What is 48 + 38?",
-    "options": [
-      "84",
-      "85",
-      "86",
-      "87"
-    ],
-    "correct": "86",
-    "explanation": "48 + 38 = 86."
-  },
-  {
-    "id": 39,
-    "category": "Quantitative Aptitude",
-    "question": "What is 49 + 39?",
-    "options": [
-      "86",
-      "87",
-      "88",
-      "89"
-    ],
-    "correct": "88",
-    "explanation": "49 + 39 = 88."
-  },
-  {
-    "id": 40,
-    "category": "Quantitative Aptitude",
-    "question": "What is 50 + 40?",
-    "options": [
-      "88",
-      "89",
-      "90",
-      "91"
-    ],
-    "correct": "90",
-    "explanation": "50 + 40 = 90."
-  },
-  {
-    "id": 41,
-    "category": "Quantitative Aptitude",
-    "question": "What is 51 + 41?",
-    "options": [
-      "90",
-      "91",
-      "92",
-      "93"
-    ],
-    "correct": "92",
-    "explanation": "51 + 41 = 92."
-  },
-  {
-    "id": 42,
-    "category": "Quantitative Aptitude",
-    "question": "What is 52 + 42?",
-    "options": [
-      "92",
-      "93",
-      "94",
-      "95"
-    ],
-    "correct": "94",
-    "explanation": "52 + 42 = 94."
-  },
-  {
-    "id": 43,
-    "category": "Quantitative Aptitude",
-    "question": "What is 53 + 43?",
-    "options": [
-      "94",
-      "95",
-      "96",
-      "97"
-    ],
-    "correct": "96",
-    "explanation": "53 + 43 = 96."
-  },
-  {
-    "id": 44,
-    "category": "Quantitative Aptitude",
-    "question": "What is 54 + 44?",
-    "options": [
-      "96",
-      "97",
-      "98",
-      "99"
-    ],
-    "correct": "98",
-    "explanation": "54 + 44 = 98."
-  },
-  {
-    "id": 45,
-    "category": "Quantitative Aptitude",
-    "question": "What is 55 + 45?",
-    "options": [
-      "98",
-      "99",
-      "100",
-      "101"
-    ],
-    "correct": "100",
-    "explanation": "55 + 45 = 100."
-  },
-  {
-    "id": 46,
-    "category": "Quantitative Aptitude",
-    "question": "What is 56 + 46?",
-    "options": [
-      "100",
-      "101",
-      "102",
-      "103"
-    ],
-    "correct": "102",
-    "explanation": "56 + 46 = 102."
-  },
-  {
-    "id": 47,
-    "category": "Quantitative Aptitude",
-    "question": "What is 57 + 47?",
-    "options": [
-      "102",
-      "103",
-      "104",
-      "105"
-    ],
-    "correct": "104",
-    "explanation": "57 + 47 = 104."
-  },
-  {
-    "id": 48,
-    "category": "Quantitative Aptitude",
-    "question": "What is 58 + 48?",
-    "options": [
-      "104",
-      "105",
-      "106",
-      "107"
-    ],
-    "correct": "106",
-    "explanation": "58 + 48 = 106."
-  },
-  {
-    "id": 49,
-    "category": "Quantitative Aptitude",
-    "question": "What is 59 + 49?",
-    "options": [
-      "106",
-      "107",
-      "108",
-      "109"
-    ],
-    "correct": "108",
-    "explanation": "59 + 49 = 108."
-  },
-  {
-    "id": 50,
-    "category": "Quantitative Aptitude",
-    "question": "What is 60 + 50?",
-    "options": [
-      "108",
-      "109",
-      "110",
-      "111"
-    ],
-    "correct": "110",
-    "explanation": "60 + 50 = 110."
-  },
-  {
-    "id": 51,
-    "category": "Quantitative Aptitude",
-    "question": "What is 61 + 51?",
-    "options": [
-      "110",
-      "111",
-      "112",
-      "113"
-    ],
-    "correct": "112",
-    "explanation": "61 + 51 = 112."
-  },
-  {
-    "id": 52,
-    "category": "Quantitative Aptitude",
-    "question": "What is 62 + 52?",
-    "options": [
-      "112",
-      "113",
-      "114",
-      "115"
-    ],
-    "correct": "114",
-    "explanation": "62 + 52 = 114."
-  },
-  {
-    "id": 53,
-    "category": "Quantitative Aptitude",
-    "question": "What is 63 + 53?",
-    "options": [
-      "114",
-      "115",
-      "116",
-      "117"
-    ],
-    "correct": "116",
-    "explanation": "63 + 53 = 116."
-  },
-  {
-    "id": 54,
-    "category": "Quantitative Aptitude",
-    "question": "What is 64 + 54?",
-    "options": [
-      "116",
-      "117",
-      "118",
-      "119"
-    ],
-    "correct": "118",
-    "explanation": "64 + 54 = 118."
-  },
-  {
-    "id": 55,
-    "category": "Quantitative Aptitude",
-    "question": "What is 65 + 55?",
-    "options": [
-      "118",
-      "119",
-      "120",
-      "121"
-    ],
-    "correct": "120",
-    "explanation": "65 + 55 = 120."
-  },
-  {
-    "id": 56,
-    "category": "Quantitative Aptitude",
-    "question": "What is 66 + 56?",
-    "options": [
-      "120",
-      "121",
-      "122",
-      "123"
-    ],
-    "correct": "122",
-    "explanation": "66 + 56 = 122."
-  },
-  {
-    "id": 57,
-    "category": "Quantitative Aptitude",
-    "question": "What is 67 + 57?",
-    "options": [
-      "122",
-      "123",
-      "124",
-      "125"
-    ],
-    "correct": "124",
-    "explanation": "67 + 57 = 124."
-  },
-  {
-    "id": 58,
-    "category": "Quantitative Aptitude",
-    "question": "What is 68 + 58?",
-    "options": [
-      "124",
-      "125",
-      "126",
-      "127"
-    ],
-    "correct": "126",
-    "explanation": "68 + 58 = 126."
-  },
-  {
-    "id": 59,
-    "category": "Quantitative Aptitude",
-    "question": "What is 69 + 59?",
-    "options": [
-      "126",
-      "127",
-      "128",
-      "129"
-    ],
-    "correct": "128",
-    "explanation": "69 + 59 = 128."
-  },
-  {
-    "id": 60,
-    "category": "Quantitative Aptitude",
-    "question": "What is 70 + 60?",
-    "options": [
-      "128",
-      "129",
-      "130",
-      "131"
-    ],
-    "correct": "130",
-    "explanation": "70 + 60 = 130."
-  },
-  {
-    "id": 61,
-    "category": "Quantitative Aptitude",
-    "question": "What is 71 + 61?",
-    "options": [
-      "130",
-      "131",
-      "132",
-      "133"
-    ],
-    "correct": "132",
-    "explanation": "71 + 61 = 132."
-  },
-  {
-    "id": 62,
-    "category": "Quantitative Aptitude",
-    "question": "What is 72 + 62?",
-    "options": [
-      "132",
-      "133",
-      "134",
-      "135"
-    ],
-    "correct": "134",
-    "explanation": "72 + 62 = 134."
-  },
-  {
-    "id": 63,
-    "category": "Quantitative Aptitude",
-    "question": "What is 73 + 63?",
-    "options": [
-      "134",
-      "135",
-      "136",
-      "137"
-    ],
-    "correct": "136",
-    "explanation": "73 + 63 = 136."
-  },
-  {
-    "id": 64,
-    "category": "Quantitative Aptitude",
-    "question": "What is 74 + 64?",
-    "options": [
-      "136",
-      "137",
-      "138",
-      "139"
-    ],
-    "correct": "138",
-    "explanation": "74 + 64 = 138."
-  },
-  {
-    "id": 65,
-    "category": "Quantitative Aptitude",
-    "question": "What is 75 + 65?",
-    "options": [
-      "138",
-      "139",
-      "140",
-      "141"
-    ],
-    "correct": "140",
-    "explanation": "75 + 65 = 140."
-  },
-  {
-    "id": 66,
-    "category": "Quantitative Aptitude",
-    "question": "What is 76 + 66?",
-    "options": [
-      "140",
-      "141",
-      "142",
-      "143"
-    ],
-    "correct": "142",
-    "explanation": "76 + 66 = 142."
-  },
-  {
-    "id": 67,
-    "category": "Quantitative Aptitude",
-    "question": "What is 77 + 67?",
-    "options": [
-      "142",
-      "143",
-      "144",
-      "145"
-    ],
-    "correct": "144",
-    "explanation": "77 + 67 = 144."
-  },
-  {
-    "id": 68,
-    "category": "Quantitative Aptitude",
-    "question": "What is 78 + 68?",
-    "options": [
-      "144",
-      "145",
-      "146",
-      "147"
-    ],
-    "correct": "146",
-    "explanation": "78 + 68 = 146."
-  },
-  {
-    "id": 69,
-    "category": "Quantitative Aptitude",
-    "question": "What is 79 + 69?",
-    "options": [
-      "146",
-      "147",
-      "148",
-      "149"
-    ],
-    "correct": "148",
-    "explanation": "79 + 69 = 148."
-  },
-  {
-    "id": 70,
-    "category": "Quantitative Aptitude",
-    "question": "What is 80 + 70?",
-    "options": [
-      "148",
-      "149",
-      "150",
-      "151"
-    ],
-    "correct": "150",
-    "explanation": "80 + 70 = 150."
-  },
-  {
-    "id": 71,
-    "category": "Quantitative Aptitude",
-    "question": "What is 81 + 71?",
-    "options": [
-      "150",
-      "151",
-      "152",
-      "153"
-    ],
-    "correct": "152",
-    "explanation": "81 + 71 = 152."
-  },
-  {
-    "id": 72,
-    "category": "Quantitative Aptitude",
-    "question": "What is 82 + 72?",
-    "options": [
-      "152",
-      "153",
-      "154",
-      "155"
-    ],
-    "correct": "154",
-    "explanation": "82 + 72 = 154."
-  },
-  {
-    "id": 73,
-    "category": "Quantitative Aptitude",
-    "question": "What is 83 + 73?",
-    "options": [
-      "154",
-      "155",
-      "156",
-      "157"
-    ],
-    "correct": "156",
-    "explanation": "83 + 73 = 156."
-  },
-  {
-    "id": 74,
-    "category": "Quantitative Aptitude",
-    "question": "What is 84 + 74?",
-    "options": [
-      "156",
-      "157",
-      "158",
-      "159"
-    ],
-    "correct": "158",
-    "explanation": "84 + 74 = 158."
-  },
-  {
-    "id": 75,
-    "category": "Quantitative Aptitude",
-    "question": "What is 85 + 75?",
-    "options": [
-      "158",
-      "159",
-      "160",
-      "161"
-    ],
-    "correct": "160",
-    "explanation": "85 + 75 = 160."
-  },
-  {
-    "id": 76,
-    "category": "Quantitative Aptitude",
-    "question": "What is 86 + 76?",
-    "options": [
-      "160",
-      "161",
-      "162",
-      "163"
-    ],
-    "correct": "162",
-    "explanation": "86 + 76 = 162."
-  },
-  {
-    "id": 77,
-    "category": "Quantitative Aptitude",
-    "question": "What is 87 + 77?",
-    "options": [
-      "162",
-      "163",
-      "164",
-      "165"
-    ],
-    "correct": "164",
-    "explanation": "87 + 77 = 164."
-  },
-  {
-    "id": 78,
-    "category": "Quantitative Aptitude",
-    "question": "What is 88 + 78?",
-    "options": [
-      "164",
-      "165",
-      "166",
-      "167"
-    ],
-    "correct": "166",
-    "explanation": "88 + 78 = 166."
-  },
-  {
-    "id": 79,
-    "category": "Quantitative Aptitude",
-    "question": "What is 89 + 79?",
-    "options": [
-      "166",
-      "167",
-      "168",
-      "169"
-    ],
-    "correct": "168",
-    "explanation": "89 + 79 = 168."
-  },
-  {
-    "id": 80,
-    "category": "Quantitative Aptitude",
-    "question": "What is 90 + 80?",
-    "options": [
-      "168",
-      "169",
-      "170",
-      "171"
-    ],
-    "correct": "170",
-    "explanation": "90 + 80 = 170."
-  },
-  {
-    "id": 81,
-    "category": "Quantitative Aptitude",
-    "question": "What is 91 + 81?",
-    "options": [
-      "170",
-      "171",
-      "172",
-      "173"
-    ],
-    "correct": "172",
-    "explanation": "91 + 81 = 172."
-  },
-  {
-    "id": 82,
-    "category": "Quantitative Aptitude",
-    "question": "What is 92 + 82?",
-    "options": [
-      "172",
-      "173",
-      "174",
-      "175"
-    ],
-    "correct": "174",
-    "explanation": "92 + 82 = 174."
-  },
-  {
-    "id": 83,
-    "category": "Quantitative Aptitude",
-    "question": "What is 93 + 83?",
-    "options": [
-      "174",
-      "175",
-      "176",
-      "177"
-    ],
-    "correct": "176",
-    "explanation": "93 + 83 = 176."
-  },
-  {
-    "id": 84,
-    "category": "Quantitative Aptitude",
-    "question": "What is 94 + 84?",
-    "options": [
-      "176",
-      "177",
-      "178",
-      "179"
-    ],
-    "correct": "178",
-    "explanation": "94 + 84 = 178."
-  },
-  {
-    "id": 85,
-    "category": "Quantitative Aptitude",
-    "question": "What is 95 + 85?",
-    "options": [
-      "178",
-      "179",
-      "180",
-      "181"
-    ],
-    "correct": "180",
-    "explanation": "95 + 85 = 180."
-  },
-  {
-    "id": 86,
-    "category": "Quantitative Aptitude",
-    "question": "What is 96 + 86?",
-    "options": [
-      "180",
-      "181",
-      "182",
-      "183"
-    ],
-    "correct": "182",
-    "explanation": "96 + 86 = 182."
-  },
-  {
-    "id": 87,
-    "category": "Quantitative Aptitude",
-    "question": "What is 97 + 87?",
-    "options": [
-      "182",
-      "183",
-      "184",
-      "185"
-    ],
-    "correct": "184",
-    "explanation": "97 + 87 = 184."
-  },
-  {
-    "id": 88,
-    "category": "Quantitative Aptitude",
-    "question": "What is 98 + 88?",
-    "options": [
-      "184",
-      "185",
-      "186",
-      "187"
-    ],
-    "correct": "186",
-    "explanation": "98 + 88 = 186."
-  },
-  {
-    "id": 89,
-    "category": "Quantitative Aptitude",
-    "question": "What is 99 + 89?",
-    "options": [
-      "186",
-      "187",
-      "188",
-      "189"
-    ],
-    "correct": "188",
-    "explanation": "99 + 89 = 188."
-  },
-  {
-    "id": 90,
-    "category": "Quantitative Aptitude",
-    "question": "What is 100 + 90?",
-    "options": [
-      "188",
-      "189",
-      "190",
-      "191"
-    ],
-    "correct": "190",
-    "explanation": "100 + 90 = 190."
-  },
-  {
-    "id": 91,
-    "category": "Quantitative Aptitude",
-    "question": "What is 101 + 91?",
-    "options": [
-      "190",
-      "191",
-      "192",
-      "193"
-    ],
-    "correct": "192",
-    "explanation": "101 + 91 = 192."
-  },
-  {
-    "id": 92,
-    "category": "Quantitative Aptitude",
-    "question": "What is 102 + 92?",
-    "options": [
-      "192",
-      "193",
-      "194",
-      "195"
-    ],
-    "correct": "194",
-    "explanation": "102 + 92 = 194."
-  },
-  {
-    "id": 93,
-    "category": "Quantitative Aptitude",
-    "question": "What is 103 + 93?",
-    "options": [
-      "194",
-      "195",
-      "196",
-      "197"
-    ],
-    "correct": "196",
-    "explanation": "103 + 93 = 196."
-  },
-  {
-    "id": 94,
-    "category": "Quantitative Aptitude",
-    "question": "What is 104 + 94?",
-    "options": [
-      "196",
-      "197",
-      "198",
-      "199"
-    ],
-    "correct": "198",
-    "explanation": "104 + 94 = 198."
-  },
-  {
-    "id": 95,
-    "category": "Quantitative Aptitude",
-    "question": "What is 105 + 95?",
-    "options": [
-      "198",
-      "199",
-      "200",
-      "201"
-    ],
-    "correct": "200",
-    "explanation": "105 + 95 = 200."
-  },
-  {
-    "id": 96,
-    "category": "Quantitative Aptitude",
-    "question": "What is 106 + 96?",
-    "options": [
-      "200",
-      "201",
-      "202",
-      "203"
-    ],
-    "correct": "202",
-    "explanation": "106 + 96 = 202."
-  },
-  {
-    "id": 97,
-    "category": "Quantitative Aptitude",
-    "question": "What is 107 + 97?",
-    "options": [
-      "202",
-      "203",
-      "204",
-      "205"
-    ],
-    "correct": "204",
-    "explanation": "107 + 97 = 204."
-  },
-  {
-    "id": 98,
-    "category": "Quantitative Aptitude",
-    "question": "What is 108 + 98?",
-    "options": [
-      "204",
-      "205",
-      "206",
-      "207"
-    ],
-    "correct": "206",
-    "explanation": "108 + 98 = 206."
-  },
-  {
-    "id": 99,
-    "category": "Quantitative Aptitude",
-    "question": "What is 109 + 99?",
-    "options": [
-      "206",
-      "207",
-      "208",
-      "209"
-    ],
-    "correct": "208",
-    "explanation": "109 + 99 = 208."
-  },
-  {
-    "id": 100,
-    "category": "Quantitative Aptitude",
-    "question": "What is 110 + 100?",
-    "options": [
-      "208",
-      "209",
-      "210",
-      "211"
-    ],
-    "correct": "210",
-    "explanation": "110 + 100 = 210."
-  },
-  {
-    "id": 101,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 1, 3, 5, 7, ?",
-    "options": [
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "correct": "9",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 102,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 2, 4, 6, 8, ?",
-    "options": [
-      "9",
-      "10",
-      "11",
-      "12"
-    ],
-    "correct": "10",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 103,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 3, 5, 7, 9, ?",
-    "options": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correct": "11",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 104,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 4, 6, 8, 10, ?",
-    "options": [
-      "11",
-      "12",
-      "13",
-      "14"
-    ],
-    "correct": "12",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 105,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 5, 7, 9, 11, ?",
-    "options": [
-      "12",
-      "13",
-      "14",
-      "15"
-    ],
-    "correct": "13",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 106,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 6, 8, 10, 12, ?",
-    "options": [
-      "13",
-      "14",
-      "15",
-      "16"
-    ],
-    "correct": "14",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 107,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 7, 9, 11, 13, ?",
-    "options": [
-      "14",
-      "15",
-      "16",
-      "17"
-    ],
-    "correct": "15",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 108,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 8, 10, 12, 14, ?",
-    "options": [
-      "15",
-      "16",
-      "17",
-      "18"
-    ],
-    "correct": "16",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 109,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 9, 11, 13, 15, ?",
-    "options": [
-      "16",
-      "17",
-      "18",
-      "19"
-    ],
-    "correct": "17",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 110,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 10, 12, 14, 16, ?",
-    "options": [
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "correct": "18",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 111,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 11, 13, 15, 17, ?",
-    "options": [
-      "18",
-      "19",
-      "20",
-      "21"
-    ],
-    "correct": "19",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 112,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 12, 14, 16, 18, ?",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
       "19",
       "20",
       "21",
       "22"
     ],
-    "correct": "20",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 113,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 13, 15, 17, 19, ?",
-    "options": [
-      "20",
-      "21",
-      "22",
-      "23"
-    ],
     "correct": "21",
-    "explanation": "The pattern increases by 2."
+    "explanation": "Average is 21."
   },
   {
-    "id": 114,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 14, 16, 18, 20, ?",
+    "id": 7,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "21",
-      "22",
-      "23",
-      "24"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "22",
-    "explanation": "The pattern increases by 2."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 115,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 15, 17, 19, 21, ?",
-    "options": [
-      "22",
-      "23",
-      "24",
-      "25"
-    ],
-    "correct": "23",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 116,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 16, 18, 20, 22, ?",
-    "options": [
-      "23",
-      "24",
-      "25",
-      "26"
-    ],
-    "correct": "24",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 117,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 17, 19, 21, 23, ?",
-    "options": [
-      "24",
-      "25",
-      "26",
-      "27"
-    ],
-    "correct": "25",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 118,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 18, 20, 22, 24, ?",
-    "options": [
-      "25",
-      "26",
-      "27",
-      "28"
-    ],
-    "correct": "26",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 119,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 19, 21, 23, 25, ?",
-    "options": [
-      "26",
-      "27",
-      "28",
-      "29"
-    ],
-    "correct": "27",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 120,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 20, 22, 24, 26, ?",
-    "options": [
-      "27",
-      "28",
-      "29",
-      "30"
-    ],
-    "correct": "28",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 121,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 21, 23, 25, 27, ?",
-    "options": [
-      "28",
-      "29",
-      "30",
-      "31"
-    ],
-    "correct": "29",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 122,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 22, 24, 26, 28, ?",
-    "options": [
-      "29",
-      "30",
-      "31",
-      "32"
-    ],
-    "correct": "30",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 123,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 23, 25, 27, 29, ?",
-    "options": [
-      "30",
-      "31",
-      "32",
-      "33"
-    ],
-    "correct": "31",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 124,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 24, 26, 28, 30, ?",
-    "options": [
-      "31",
-      "32",
-      "33",
-      "34"
-    ],
-    "correct": "32",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 125,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 25, 27, 29, 31, ?",
-    "options": [
-      "32",
-      "33",
-      "34",
-      "35"
-    ],
-    "correct": "33",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 126,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 26, 28, 30, 32, ?",
-    "options": [
-      "33",
-      "34",
-      "35",
-      "36"
-    ],
-    "correct": "34",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 127,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 27, 29, 31, 33, ?",
-    "options": [
-      "34",
-      "35",
-      "36",
-      "37"
-    ],
-    "correct": "35",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 128,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 28, 30, 32, 34, ?",
-    "options": [
-      "35",
-      "36",
-      "37",
-      "38"
-    ],
-    "correct": "36",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 129,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 29, 31, 33, 35, ?",
-    "options": [
-      "36",
-      "37",
-      "38",
-      "39"
-    ],
-    "correct": "37",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 130,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 30, 32, 34, 36, ?",
-    "options": [
-      "37",
-      "38",
-      "39",
-      "40"
-    ],
-    "correct": "38",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 131,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 31, 33, 35, 37, ?",
+    "id": 8,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
       "38",
-      "39",
       "40",
-      "41"
-    ],
-    "correct": "39",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 132,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 32, 34, 36, 38, ?",
-    "options": [
-      "39",
-      "40",
-      "41",
-      "42"
-    ],
-    "correct": "40",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 133,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 33, 35, 37, 39, ?",
-    "options": [
-      "40",
-      "41",
       "42",
-      "43"
-    ],
-    "correct": "41",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 134,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 34, 36, 38, 40, ?",
-    "options": [
-      "41",
-      "42",
-      "43",
       "44"
     ],
     "correct": "42",
-    "explanation": "The pattern increases by 2."
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 135,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 35, 37, 39, 41, ?",
+    "id": 9,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
+    ],
+    "correct": "EPH",
+    "explanation": "Each letter +1."
+  },
+  {
+    "id": 10,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Cannot say"
+    ],
+    "correct": "C",
+    "explanation": "C is shortest."
+  },
+  {
+    "id": 11,
+    "category": "English",
+    "question": "Synonym of Abundant",
+    "options": [
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
+    ],
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
+  },
+  {
+    "id": 12,
+    "category": "English",
+    "question": "Antonym of Victory",
+    "options": [
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
+    ],
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
+  },
+  {
+    "id": 13,
+    "category": "General Awareness",
+    "question": "Who wrote Discovery of India?",
+    "options": [
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
+    ],
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
+  },
+  {
+    "id": 14,
+    "category": "General Awareness",
+    "question": "Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
+  },
+  {
+    "id": 15,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
+    "options": [
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "correct": "21",
+    "explanation": "Average is 21."
+  },
+  {
+    "id": 16,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
+    "options": [
+      "115",
+      "120",
+      "125",
+      "130"
+    ],
+    "correct": "125",
+    "explanation": "225-100=125."
+  },
+  {
+    "id": 17,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
+    "options": [
+      "38",
+      "40",
       "42",
-      "43",
-      "44",
-      "45"
+      "44"
     ],
-    "correct": "43",
-    "explanation": "The pattern increases by 2."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 136,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 36, 38, 40, 42, ?",
+    "id": 18,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "43",
-      "44",
-      "45",
-      "46"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "44",
-    "explanation": "The pattern increases by 2."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 137,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 37, 39, 41, 43, ?",
+    "id": 19,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "44",
-      "45",
-      "46",
-      "47"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "45",
-    "explanation": "The pattern increases by 2."
+    "correct": "C",
+    "explanation": "C is shortest."
   },
   {
-    "id": 138,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 38, 40, 42, 44, ?",
+    "id": 20,
+    "category": "English",
+    "question": "Synonym of Abundant",
     "options": [
-      "45",
-      "46",
-      "47",
-      "48"
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
     ],
-    "correct": "46",
-    "explanation": "The pattern increases by 2."
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
   },
   {
-    "id": 139,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 39, 41, 43, 45, ?",
+    "id": 21,
+    "category": "English",
+    "question": "Antonym of Victory",
     "options": [
-      "46",
-      "47",
-      "48",
-      "49"
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
     ],
-    "correct": "47",
-    "explanation": "The pattern increases by 2."
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
   },
   {
-    "id": 140,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 40, 42, 44, 46, ?",
-    "options": [
-      "47",
-      "48",
-      "49",
-      "50"
-    ],
-    "correct": "48",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 141,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 41, 43, 45, 47, ?",
-    "options": [
-      "48",
-      "49",
-      "50",
-      "51"
-    ],
-    "correct": "49",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 142,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 42, 44, 46, 48, ?",
-    "options": [
-      "49",
-      "50",
-      "51",
-      "52"
-    ],
-    "correct": "50",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 143,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 43, 45, 47, 49, ?",
-    "options": [
-      "50",
-      "51",
-      "52",
-      "53"
-    ],
-    "correct": "51",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 144,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 44, 46, 48, 50, ?",
-    "options": [
-      "51",
-      "52",
-      "53",
-      "54"
-    ],
-    "correct": "52",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 145,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 45, 47, 49, 51, ?",
-    "options": [
-      "52",
-      "53",
-      "54",
-      "55"
-    ],
-    "correct": "53",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 146,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 46, 48, 50, 52, ?",
-    "options": [
-      "53",
-      "54",
-      "55",
-      "56"
-    ],
-    "correct": "54",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 147,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 47, 49, 51, 53, ?",
-    "options": [
-      "54",
-      "55",
-      "56",
-      "57"
-    ],
-    "correct": "55",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 148,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 48, 50, 52, 54, ?",
-    "options": [
-      "55",
-      "56",
-      "57",
-      "58"
-    ],
-    "correct": "56",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 149,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 49, 51, 53, 55, ?",
-    "options": [
-      "56",
-      "57",
-      "58",
-      "59"
-    ],
-    "correct": "57",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 150,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 50, 52, 54, 56, ?",
-    "options": [
-      "57",
-      "58",
-      "59",
-      "60"
-    ],
-    "correct": "58",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 151,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 51, 53, 55, 57, ?",
-    "options": [
-      "58",
-      "59",
-      "60",
-      "61"
-    ],
-    "correct": "59",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 152,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 52, 54, 56, 58, ?",
-    "options": [
-      "59",
-      "60",
-      "61",
-      "62"
-    ],
-    "correct": "60",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 153,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 53, 55, 57, 59, ?",
-    "options": [
-      "60",
-      "61",
-      "62",
-      "63"
-    ],
-    "correct": "61",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 154,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 54, 56, 58, 60, ?",
-    "options": [
-      "61",
-      "62",
-      "63",
-      "64"
-    ],
-    "correct": "62",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 155,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 55, 57, 59, 61, ?",
-    "options": [
-      "62",
-      "63",
-      "64",
-      "65"
-    ],
-    "correct": "63",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 156,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 56, 58, 60, 62, ?",
-    "options": [
-      "63",
-      "64",
-      "65",
-      "66"
-    ],
-    "correct": "64",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 157,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 57, 59, 61, 63, ?",
-    "options": [
-      "64",
-      "65",
-      "66",
-      "67"
-    ],
-    "correct": "65",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 158,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 58, 60, 62, 64, ?",
-    "options": [
-      "65",
-      "66",
-      "67",
-      "68"
-    ],
-    "correct": "66",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 159,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 59, 61, 63, 65, ?",
-    "options": [
-      "66",
-      "67",
-      "68",
-      "69"
-    ],
-    "correct": "67",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 160,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 60, 62, 64, 66, ?",
-    "options": [
-      "67",
-      "68",
-      "69",
-      "70"
-    ],
-    "correct": "68",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 161,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 61, 63, 65, 67, ?",
-    "options": [
-      "68",
-      "69",
-      "70",
-      "71"
-    ],
-    "correct": "69",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 162,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 62, 64, 66, 68, ?",
-    "options": [
-      "69",
-      "70",
-      "71",
-      "72"
-    ],
-    "correct": "70",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 163,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 63, 65, 67, 69, ?",
-    "options": [
-      "70",
-      "71",
-      "72",
-      "73"
-    ],
-    "correct": "71",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 164,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 64, 66, 68, 70, ?",
-    "options": [
-      "71",
-      "72",
-      "73",
-      "74"
-    ],
-    "correct": "72",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 165,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 65, 67, 69, 71, ?",
-    "options": [
-      "72",
-      "73",
-      "74",
-      "75"
-    ],
-    "correct": "73",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 166,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 66, 68, 70, 72, ?",
-    "options": [
-      "73",
-      "74",
-      "75",
-      "76"
-    ],
-    "correct": "74",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 167,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 67, 69, 71, 73, ?",
-    "options": [
-      "74",
-      "75",
-      "76",
-      "77"
-    ],
-    "correct": "75",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 168,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 68, 70, 72, 74, ?",
-    "options": [
-      "75",
-      "76",
-      "77",
-      "78"
-    ],
-    "correct": "76",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 169,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 69, 71, 73, 75, ?",
-    "options": [
-      "76",
-      "77",
-      "78",
-      "79"
-    ],
-    "correct": "77",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 170,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 70, 72, 74, 76, ?",
-    "options": [
-      "77",
-      "78",
-      "79",
-      "80"
-    ],
-    "correct": "78",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 171,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 71, 73, 75, 77, ?",
-    "options": [
-      "78",
-      "79",
-      "80",
-      "81"
-    ],
-    "correct": "79",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 172,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 72, 74, 76, 78, ?",
-    "options": [
-      "79",
-      "80",
-      "81",
-      "82"
-    ],
-    "correct": "80",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 173,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 73, 75, 77, 79, ?",
-    "options": [
-      "80",
-      "81",
-      "82",
-      "83"
-    ],
-    "correct": "81",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 174,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 74, 76, 78, 80, ?",
-    "options": [
-      "81",
-      "82",
-      "83",
-      "84"
-    ],
-    "correct": "82",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 175,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 75, 77, 79, 81, ?",
-    "options": [
-      "82",
-      "83",
-      "84",
-      "85"
-    ],
-    "correct": "83",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 176,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 76, 78, 80, 82, ?",
-    "options": [
-      "83",
-      "84",
-      "85",
-      "86"
-    ],
-    "correct": "84",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 177,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 77, 79, 81, 83, ?",
-    "options": [
-      "84",
-      "85",
-      "86",
-      "87"
-    ],
-    "correct": "85",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 178,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 78, 80, 82, 84, ?",
-    "options": [
-      "85",
-      "86",
-      "87",
-      "88"
-    ],
-    "correct": "86",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 179,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 79, 81, 83, 85, ?",
-    "options": [
-      "86",
-      "87",
-      "88",
-      "89"
-    ],
-    "correct": "87",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 180,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 80, 82, 84, 86, ?",
-    "options": [
-      "87",
-      "88",
-      "89",
-      "90"
-    ],
-    "correct": "88",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 181,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 81, 83, 85, 87, ?",
-    "options": [
-      "88",
-      "89",
-      "90",
-      "91"
-    ],
-    "correct": "89",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 182,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 82, 84, 86, 88, ?",
-    "options": [
-      "89",
-      "90",
-      "91",
-      "92"
-    ],
-    "correct": "90",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 183,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 83, 85, 87, 89, ?",
-    "options": [
-      "90",
-      "91",
-      "92",
-      "93"
-    ],
-    "correct": "91",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 184,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 84, 86, 88, 90, ?",
-    "options": [
-      "91",
-      "92",
-      "93",
-      "94"
-    ],
-    "correct": "92",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 185,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 85, 87, 89, 91, ?",
-    "options": [
-      "92",
-      "93",
-      "94",
-      "95"
-    ],
-    "correct": "93",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 186,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 86, 88, 90, 92, ?",
-    "options": [
-      "93",
-      "94",
-      "95",
-      "96"
-    ],
-    "correct": "94",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 187,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 87, 89, 91, 93, ?",
-    "options": [
-      "94",
-      "95",
-      "96",
-      "97"
-    ],
-    "correct": "95",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 188,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 88, 90, 92, 94, ?",
-    "options": [
-      "95",
-      "96",
-      "97",
-      "98"
-    ],
-    "correct": "96",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 189,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 89, 91, 93, 95, ?",
-    "options": [
-      "96",
-      "97",
-      "98",
-      "99"
-    ],
-    "correct": "97",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 190,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 90, 92, 94, 96, ?",
-    "options": [
-      "97",
-      "98",
-      "99",
-      "100"
-    ],
-    "correct": "98",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 191,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 91, 93, 95, 97, ?",
-    "options": [
-      "98",
-      "99",
-      "100",
-      "101"
-    ],
-    "correct": "99",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 192,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 92, 94, 96, 98, ?",
-    "options": [
-      "99",
-      "100",
-      "101",
-      "102"
-    ],
-    "correct": "100",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 193,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 93, 95, 97, 99, ?",
-    "options": [
-      "100",
-      "101",
-      "102",
-      "103"
-    ],
-    "correct": "101",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 194,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 94, 96, 98, 100, ?",
-    "options": [
-      "101",
-      "102",
-      "103",
-      "104"
-    ],
-    "correct": "102",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 195,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 95, 97, 99, 101, ?",
-    "options": [
-      "102",
-      "103",
-      "104",
-      "105"
-    ],
-    "correct": "103",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 196,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 96, 98, 100, 102, ?",
-    "options": [
-      "103",
-      "104",
-      "105",
-      "106"
-    ],
-    "correct": "104",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 197,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 97, 99, 101, 103, ?",
-    "options": [
-      "104",
-      "105",
-      "106",
-      "107"
-    ],
-    "correct": "105",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 198,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 98, 100, 102, 104, ?",
-    "options": [
-      "105",
-      "106",
-      "107",
-      "108"
-    ],
-    "correct": "106",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 199,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 99, 101, 103, 105, ?",
-    "options": [
-      "106",
-      "107",
-      "108",
-      "109"
-    ],
-    "correct": "107",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 200,
-    "category": "General Intelligence & Reasoning",
-    "question": "Find the next number: 100, 102, 104, 106, ?",
-    "options": [
-      "107",
-      "108",
-      "109",
-      "110"
-    ],
-    "correct": "108",
-    "explanation": "The pattern increases by 2."
-  },
-  {
-    "id": 201,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 1).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 202,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 2).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 203,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 3).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 204,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 4).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 205,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 5).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 206,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 6).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 207,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 7).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 208,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 8).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 209,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 9).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 210,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 10).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 211,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 11).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 212,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 12).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 213,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 13).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 214,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 14).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 215,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 15).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 216,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 16).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 217,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 17).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 218,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 18).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 219,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 19).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 220,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 20).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 221,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 21).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 222,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 22).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 223,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 23).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 224,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 24).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 225,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 25).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 226,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 26).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 227,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 27).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 228,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 28).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 229,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 29).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 230,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 30).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 231,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 31).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 232,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 32).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 233,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 33).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 234,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 34).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 235,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 35).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 236,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 36).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 237,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 37).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 238,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 38).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 239,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 39).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 240,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 40).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 241,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 41).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 242,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 42).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 243,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 43).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 244,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 44).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 245,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 45).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 246,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 46).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 247,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 47).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 248,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 48).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 249,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 49).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 250,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 50).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 251,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 51).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 252,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 52).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 253,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 53).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 254,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 54).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 255,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 55).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 256,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 56).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 257,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 57).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 258,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 58).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 259,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 59).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 260,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 60).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 261,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 61).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 262,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 62).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 263,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 63).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 264,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 64).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 265,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 65).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 266,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 66).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 267,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 67).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 268,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 68).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 269,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 69).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 270,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 70).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 271,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 71).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 272,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 72).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 273,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 73).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 274,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 74).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 275,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 75).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 276,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 76).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 277,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 77).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 278,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 78).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 279,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 79).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 280,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 80).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 281,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 81).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 282,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 82).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 283,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 83).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 284,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 84).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 285,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 85).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 286,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 86).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 287,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 87).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 288,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 88).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 289,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 89).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 290,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 90).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 291,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 91).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 292,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 92).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 293,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 93).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 294,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 94).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 295,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 95).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 296,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 96).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 297,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 97).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 298,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 98).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 299,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 99).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 300,
-    "category": "English Comprehension",
-    "question": "Choose the correct synonym of 'Happy' (Set 100).",
-    "options": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful",
-    "explanation": "Joyful is a synonym of Happy."
-  },
-  {
-    "id": 301,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 1: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 302,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 2: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 303,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 3: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 304,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 4: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 305,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 5: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 306,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 6: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 307,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 7: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 308,
+    "id": 22,
     "category": "General Awareness",
-    "question": "General Knowledge Question 8: What is the capital of India?",
+    "question": "Who wrote Discovery of India?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
   },
   {
-    "id": 309,
+    "id": 23,
     "category": "General Awareness",
-    "question": "General Knowledge Question 9: What is the capital of India?",
+    "question": "Red Planet?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
   },
   {
-    "id": 310,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 10: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 311,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 11: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 312,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 12: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 313,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 13: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 314,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 14: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 315,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 15: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 316,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 16: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 317,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 17: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 318,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 18: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 319,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 19: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 320,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 20: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 321,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 21: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 322,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 22: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 323,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 23: What is the capital of India?",
+    "id": 24,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "19",
+      "20",
+      "21",
+      "22"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "21",
+    "explanation": "Average is 21."
   },
   {
-    "id": 324,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 24: What is the capital of India?",
+    "id": 25,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 325,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 25: What is the capital of India?",
+    "id": 26,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 326,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 26: What is the capital of India?",
+    "id": 27,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 327,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 27: What is the capital of India?",
+    "id": 28,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "C",
+    "explanation": "C is shortest."
   },
   {
-    "id": 328,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 28: What is the capital of India?",
+    "id": 29,
+    "category": "English",
+    "question": "Synonym of Abundant",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
   },
   {
-    "id": 329,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 29: What is the capital of India?",
+    "id": 30,
+    "category": "English",
+    "question": "Antonym of Victory",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
   },
   {
-    "id": 330,
+    "id": 31,
     "category": "General Awareness",
-    "question": "General Knowledge Question 30: What is the capital of India?",
+    "question": "Who wrote Discovery of India?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
   },
   {
-    "id": 331,
+    "id": 32,
     "category": "General Awareness",
-    "question": "General Knowledge Question 31: What is the capital of India?",
+    "question": "Red Planet?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
   },
   {
-    "id": 332,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 32: What is the capital of India?",
+    "id": 33,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "19",
+      "20",
+      "21",
+      "22"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "21",
+    "explanation": "Average is 21."
   },
   {
-    "id": 333,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 33: What is the capital of India?",
+    "id": 34,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 334,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 34: What is the capital of India?",
+    "id": 35,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 335,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 35: What is the capital of India?",
+    "id": 36,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 336,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 36: What is the capital of India?",
+    "id": 37,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "C",
+    "explanation": "C is shortest."
   },
   {
-    "id": 337,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 37: What is the capital of India?",
+    "id": 38,
+    "category": "English",
+    "question": "Synonym of Abundant",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
   },
   {
-    "id": 338,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 38: What is the capital of India?",
+    "id": 39,
+    "category": "English",
+    "question": "Antonym of Victory",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
   },
   {
-    "id": 339,
+    "id": 40,
     "category": "General Awareness",
-    "question": "General Knowledge Question 39: What is the capital of India?",
+    "question": "Who wrote Discovery of India?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
   },
   {
-    "id": 340,
+    "id": 41,
     "category": "General Awareness",
-    "question": "General Knowledge Question 40: What is the capital of India?",
+    "question": "Red Planet?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
   },
   {
-    "id": 341,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 41: What is the capital of India?",
+    "id": 42,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "19",
+      "20",
+      "21",
+      "22"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "21",
+    "explanation": "Average is 21."
   },
   {
-    "id": 342,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 42: What is the capital of India?",
+    "id": 43,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 343,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 43: What is the capital of India?",
+    "id": 44,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 344,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 44: What is the capital of India?",
+    "id": 45,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 345,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 45: What is the capital of India?",
+    "id": 46,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "C",
+    "explanation": "C is shortest."
   },
   {
-    "id": 346,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 46: What is the capital of India?",
+    "id": 47,
+    "category": "English",
+    "question": "Synonym of Abundant",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
   },
   {
-    "id": 347,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 47: What is the capital of India?",
+    "id": 48,
+    "category": "English",
+    "question": "Antonym of Victory",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
   },
   {
-    "id": 348,
+    "id": 49,
     "category": "General Awareness",
-    "question": "General Knowledge Question 48: What is the capital of India?",
+    "question": "Who wrote Discovery of India?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
   },
   {
-    "id": 349,
+    "id": 50,
     "category": "General Awareness",
-    "question": "General Knowledge Question 49: What is the capital of India?",
+    "question": "Red Planet?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
   },
   {
-    "id": 350,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 50: What is the capital of India?",
+    "id": 51,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "19",
+      "20",
+      "21",
+      "22"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "21",
+    "explanation": "Average is 21."
   },
   {
-    "id": 351,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 51: What is the capital of India?",
+    "id": 52,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 352,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 52: What is the capital of India?",
+    "id": 53,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 353,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 53: What is the capital of India?",
+    "id": 54,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 354,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 54: What is the capital of India?",
+    "id": 55,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "C",
+    "explanation": "C is shortest."
   },
   {
-    "id": 355,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 55: What is the capital of India?",
+    "id": 56,
+    "category": "English",
+    "question": "Synonym of Abundant",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
   },
   {
-    "id": 356,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 56: What is the capital of India?",
+    "id": 57,
+    "category": "English",
+    "question": "Antonym of Victory",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
   },
   {
-    "id": 357,
+    "id": 58,
     "category": "General Awareness",
-    "question": "General Knowledge Question 57: What is the capital of India?",
+    "question": "Who wrote Discovery of India?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
   },
   {
-    "id": 358,
+    "id": 59,
     "category": "General Awareness",
-    "question": "General Knowledge Question 58: What is the capital of India?",
+    "question": "Red Planet?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
   },
   {
-    "id": 359,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 59: What is the capital of India?",
+    "id": 60,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "19",
+      "20",
+      "21",
+      "22"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "21",
+    "explanation": "Average is 21."
   },
   {
-    "id": 360,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 60: What is the capital of India?",
+    "id": 61,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 361,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 61: What is the capital of India?",
+    "id": 62,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 362,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 62: What is the capital of India?",
+    "id": 63,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 363,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 63: What is the capital of India?",
+    "id": 64,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "C",
+    "explanation": "C is shortest."
   },
   {
-    "id": 364,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 64: What is the capital of India?",
+    "id": 65,
+    "category": "English",
+    "question": "Synonym of Abundant",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
   },
   {
-    "id": 365,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 65: What is the capital of India?",
+    "id": 66,
+    "category": "English",
+    "question": "Antonym of Victory",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
   },
   {
-    "id": 366,
+    "id": 67,
     "category": "General Awareness",
-    "question": "General Knowledge Question 66: What is the capital of India?",
+    "question": "Who wrote Discovery of India?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
   },
   {
-    "id": 367,
+    "id": 68,
     "category": "General Awareness",
-    "question": "General Knowledge Question 67: What is the capital of India?",
+    "question": "Red Planet?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
   },
   {
-    "id": 368,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 68: What is the capital of India?",
+    "id": 69,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "19",
+      "20",
+      "21",
+      "22"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "21",
+    "explanation": "Average is 21."
   },
   {
-    "id": 369,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 69: What is the capital of India?",
+    "id": 70,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 370,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 70: What is the capital of India?",
+    "id": 71,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 371,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 71: What is the capital of India?",
+    "id": 72,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 372,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 72: What is the capital of India?",
+    "id": 73,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "C",
+    "explanation": "C is shortest."
   },
   {
-    "id": 373,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 73: What is the capital of India?",
+    "id": 74,
+    "category": "English",
+    "question": "Synonym of Abundant",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
   },
   {
-    "id": 374,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 74: What is the capital of India?",
+    "id": 75,
+    "category": "English",
+    "question": "Antonym of Victory",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
   },
   {
-    "id": 375,
+    "id": 76,
     "category": "General Awareness",
-    "question": "General Knowledge Question 75: What is the capital of India?",
+    "question": "Who wrote Discovery of India?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
   },
   {
-    "id": 376,
+    "id": 77,
     "category": "General Awareness",
-    "question": "General Knowledge Question 76: What is the capital of India?",
+    "question": "Red Planet?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
   },
   {
-    "id": 377,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 77: What is the capital of India?",
+    "id": 78,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "19",
+      "20",
+      "21",
+      "22"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "21",
+    "explanation": "Average is 21."
   },
   {
-    "id": 378,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 78: What is the capital of India?",
+    "id": 79,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 379,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 79: What is the capital of India?",
+    "id": 80,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 380,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 80: What is the capital of India?",
+    "id": 81,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 381,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 81: What is the capital of India?",
+    "id": 82,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "C",
+    "explanation": "C is shortest."
   },
   {
-    "id": 382,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 82: What is the capital of India?",
+    "id": 83,
+    "category": "English",
+    "question": "Synonym of Abundant",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
   },
   {
-    "id": 383,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 83: What is the capital of India?",
+    "id": 84,
+    "category": "English",
+    "question": "Antonym of Victory",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
   },
   {
-    "id": 384,
+    "id": 85,
     "category": "General Awareness",
-    "question": "General Knowledge Question 84: What is the capital of India?",
+    "question": "Who wrote Discovery of India?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
   },
   {
-    "id": 385,
+    "id": 86,
     "category": "General Awareness",
-    "question": "General Knowledge Question 85: What is the capital of India?",
+    "question": "Red Planet?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
   },
   {
-    "id": 386,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 86: What is the capital of India?",
+    "id": 87,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "19",
+      "20",
+      "21",
+      "22"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "21",
+    "explanation": "Average is 21."
   },
   {
-    "id": 387,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 87: What is the capital of India?",
+    "id": 88,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 388,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 88: What is the capital of India?",
+    "id": 89,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 389,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 89: What is the capital of India?",
+    "id": 90,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 390,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 90: What is the capital of India?",
+    "id": 91,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "C",
+    "explanation": "C is shortest."
   },
   {
-    "id": 391,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 91: What is the capital of India?",
+    "id": 92,
+    "category": "English",
+    "question": "Synonym of Abundant",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Rare",
+      "Plenty",
+      "Scarce",
+      "Empty"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Plenty",
+    "explanation": "Means plentiful."
   },
   {
-    "id": 392,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 92: What is the capital of India?",
+    "id": 93,
+    "category": "English",
+    "question": "Antonym of Victory",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Success",
+      "Win",
+      "Defeat",
+      "Triumph"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Defeat",
+    "explanation": "Opposite of victory."
   },
   {
-    "id": 393,
+    "id": 94,
     "category": "General Awareness",
-    "question": "General Knowledge Question 93: What is the capital of India?",
+    "question": "Who wrote Discovery of India?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Gandhi",
+      "Nehru",
+      "Tagore",
+      "Patel"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Nehru",
+    "explanation": "Written by Jawaharlal Nehru."
   },
   {
-    "id": 394,
+    "id": 95,
     "category": "General Awareness",
-    "question": "General Knowledge Question 94: What is the capital of India?",
+    "question": "Red Planet?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "Mars",
+    "explanation": "Mars is called the Red Planet."
   },
   {
-    "id": 395,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 95: What is the capital of India?",
+    "id": 96,
+    "category": "Quantitative Aptitude",
+    "question": "Average of 12,18,20,25,30?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "19",
+      "20",
+      "21",
+      "22"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "21",
+    "explanation": "Average is 21."
   },
   {
-    "id": 396,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 96: What is the capital of India?",
+    "id": 97,
+    "category": "Quantitative Aptitude",
+    "question": "15² − 10² = ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "115",
+      "120",
+      "125",
+      "130"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "125",
+    "explanation": "225-100=125."
   },
   {
-    "id": 397,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 97: What is the capital of India?",
+    "id": 98,
+    "category": "Reasoning",
+    "question": "Next number: 2,6,12,20,30, ?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "42",
+    "explanation": "Differences increase by 2."
   },
   {
-    "id": 398,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 98: What is the capital of India?",
+    "id": 99,
+    "category": "Reasoning",
+    "question": "If CAT=DBU then DOG=?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "EOH",
+      "EPH",
+      "DPH",
+      "FQI"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "EPH",
+    "explanation": "Each letter +1."
   },
   {
-    "id": 399,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 99: What is the capital of India?",
+    "id": 100,
+    "category": "Reasoning",
+    "question": "A>B>C. Who is shortest?",
     "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
+      "A",
+      "B",
+      "C",
+      "Cannot say"
     ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
-  },
-  {
-    "id": 400,
-    "category": "General Awareness",
-    "question": "General Knowledge Question 100: What is the capital of India?",
-    "options": [
-      "Mumbai",
-      "New Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "New Delhi",
-    "explanation": "New Delhi is the capital of India."
+    "correct": "C",
+    "explanation": "C is shortest."
   }
 ]
