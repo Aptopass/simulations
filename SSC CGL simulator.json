@@ -1,0 +1,164 @@
+```json
+[
+  {
+    "id": 1,
+    "category": "Quantitative Aptitude",
+    "question": "What is 25% of 400?",
+    "options": ["50", "75", "100", "125"],
+    "correct": "100",
+    "explanation": "25% of 400 = (25/100) × 400 = 100."
+  },
+  {
+    "id": 2,
+    "category": "Quantitative Aptitude",
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "correct": "12",
+    "explanation": "12 × 12 = 144."
+  },
+  {
+    "id": 3,
+    "category": "Quantitative Aptitude",
+    "question": "A shopkeeper sells an item for Rs.120 after buying it for Rs.100. What is the profit percentage?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "correct": "20%",
+    "explanation": "Profit = 120 - 100 = 20. Profit % = (20/100) × 100 = 20%."
+  },
+  {
+    "id": 4,
+    "category": "Quantitative Aptitude",
+    "question": "What is 3/4 of 200?",
+    "options": ["100", "125", "150", "175"],
+    "correct": "150",
+    "explanation": "(3/4) × 200 = 150."
+  },
+  {
+    "id": 5,
+    "category": "Quantitative Aptitude",
+    "question": "Find the average of 10, 20, 30, 40 and 50.",
+    "options": ["25", "30", "35", "40"],
+    "correct": "30",
+    "explanation": "(10+20+30+40+50)/5 = 150/5 = 30."
+  },
+  {
+    "id": 6,
+    "category": "General Intelligence & Reasoning",
+    "question": "Find the next number: 2, 4, 8, 16, ?",
+    "options": ["20", "24", "32", "36"],
+    "correct": "32",
+    "explanation": "Each number is multiplied by 2."
+  },
+  {
+    "id": 7,
+    "category": "General Intelligence & Reasoning",
+    "question": "If CAT = DBU, then DOG = ?",
+    "options": ["EPH", "EOH", "FPH", "EPG"],
+    "correct": "EPH",
+    "explanation": "Each letter is shifted by +1."
+  },
+  {
+    "id": 8,
+    "category": "General Intelligence & Reasoning",
+    "question": "Which one is different?",
+    "options": ["Apple", "Mango", "Banana", "Carrot"],
+    "correct": "Carrot",
+    "explanation": "Carrot is a vegetable while others are fruits."
+  },
+  {
+    "id": 9,
+    "category": "General Intelligence & Reasoning",
+    "question": "A is taller than B, B is taller than C. Who is shortest?",
+    "options": ["A", "B", "C", "Cannot determine"],
+    "correct": "C",
+    "explanation": "C is shorter than both A and B."
+  },
+  {
+    "id": 10,
+    "category": "General Intelligence & Reasoning",
+    "question": "How many sides does a hexagon have?",
+    "options": ["5", "6", "7", "8"],
+    "correct": "6",
+    "explanation": "A hexagon has six sides."
+  },
+  {
+    "id": 11,
+    "category": "English Comprehension",
+    "question": "Choose the correct synonym of 'Happy'.",
+    "options": ["Sad", "Joyful", "Angry", "Tired"],
+    "correct": "Joyful",
+    "explanation": "Joyful means happy."
+  },
+  {
+    "id": 12,
+    "category": "English Comprehension",
+    "question": "Choose the antonym of 'Ancient'.",
+    "options": ["Old", "Historic", "Modern", "Past"],
+    "correct": "Modern",
+    "explanation": "Modern is the opposite of ancient."
+  },
+  {
+    "id": 13,
+    "category": "English Comprehension",
+    "question": "Identify the noun in the sentence: 'Ravi plays cricket.'",
+    "options": ["plays", "cricket", "Ravi", "both Ravi and cricket"],
+    "correct": "both Ravi and cricket",
+    "explanation": "Ravi and cricket are nouns."
+  },
+  {
+    "id": 14,
+    "category": "English Comprehension",
+    "question": "Choose the correct spelling.",
+    "options": ["Recieve", "Receive", "Receeve", "Receve"],
+    "correct": "Receive",
+    "explanation": "Receive is the correct spelling."
+  },
+  {
+    "id": 15,
+    "category": "English Comprehension",
+    "question": "Fill in the blank: She ___ to school every day.",
+    "options": ["go", "goes", "going", "gone"],
+    "correct": "goes",
+    "explanation": "Singular subject requires 'goes'."
+  },
+  {
+    "id": 16,
+    "category": "General Awareness",
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    "correct": "New Delhi",
+    "explanation": "New Delhi is the capital of India."
+  },
+  {
+    "id": 17,
+    "category": "General Awareness",
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B. R. Ambedkar", "Sardar Patel"],
+    "correct": "B. R. Ambedkar",
+    "explanation": "Dr. B. R. Ambedkar is known as the Father of the Indian Constitution."
+  },
+  {
+    "id": 18,
+    "category": "General Awareness",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "correct": "Mars",
+    "explanation": "Mars appears red due to iron oxide on its surface."
+  },
+  {
+    "id": 19,
+    "category": "General Awareness",
+    "question": "National Animal of India is?",
+    "options": ["Lion", "Elephant", "Tiger", "Leopard"],
+    "correct": "Tiger",
+    "explanation": "The Bengal Tiger is India's national animal."
+  },
+  {
+    "id": 20,
+    "category": "General Awareness",
+    "question": "Who wrote the National Anthem of India?",
+    "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
+    "correct": "Rabindranath Tagore",
+    "explanation": "Rabindranath Tagore wrote Jana Gana Mana."
+  }
+]
+```
