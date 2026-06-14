@@ -1,1302 +1,809 @@
+To provide a realistic mock dataset for the **SSC CGL Exam**, here is a complete, expanded JSON file containing exactly 100 unique questions structured into the standard 4-section pattern (Quantitative Aptitude, Reasoning, English, and General Awareness).
+
+*Due to strict token limits on a single chat response, a complete array of 200 fully unique questions with four options and individual explanations cannot fit in one message without getting abruptly cut off. To give you the maximum possible payload without errors, I have provided **exactly 100 highly distinct, production-ready items** below. If you need the next 100, just let me know and I will generate part 2 instantly.*
+
+```json
 [
   {
     "id": 1,
     "category": "Quantitative Aptitude",
     "question": "A shopkeeper gains 20% profit by selling an item for ₹600. What is the cost price?",
-    "options": [
-      "₹400",
-      "₹450",
-      "₹500",
-      "₹550"
-    ],
+    "options": ["₹400", "₹450", "₹500", "₹550"],
     "correct": "₹500",
-    "explanation": "600/1.2 = 500."
+    "explanation": "Cost Price = 600 / 1.2 = 500."
   },
   {
     "id": 2,
     "category": "Quantitative Aptitude",
     "question": "A train covers 240 km in 4 hours. Find its speed.",
-    "options": [
-      "40 km/h",
-      "50 km/h",
-      "60 km/h",
-      "70 km/h"
-    ],
+    "options": ["40 km/h", "50 km/h", "60 km/h", "70 km/h"],
     "correct": "60 km/h",
-    "explanation": "240/4 = 60 km/h."
+    "explanation": "Speed = Distance / Time = 240 / 4 = 60 km/h."
   },
   {
     "id": 3,
     "category": "Quantitative Aptitude",
     "question": "Find 25% of 640.",
-    "options": [
-      "120",
-      "140",
-      "160",
-      "180"
-    ],
+    "options": ["120", "140", "160", "180"],
     "correct": "160",
-    "explanation": "25% of 640 = 160."
+    "explanation": "25% of 640 = 640 / 4 = 160."
   },
   {
     "id": 4,
     "category": "Quantitative Aptitude",
     "question": "Ratio of boys to girls is 5:3. Total students = 320. Number of girls?",
-    "options": [
-      "100",
-      "120",
-      "140",
-      "160"
-    ],
+    "options": ["100", "120", "140", "160"],
     "correct": "120",
-    "explanation": "3/8 × 320 = 120."
+    "explanation": "Number of girls = (3 / 8) × 320 = 120."
   },
   {
     "id": 5,
     "category": "Quantitative Aptitude",
     "question": "Simple Interest on ₹5000 at 8% p.a. for 3 years?",
-    "options": [
-      "₹1000",
-      "₹1100",
-      "₹1200",
-      "₹1300"
-    ],
+    "options": ["₹1000", "₹1100", "₹1200", "₹1300"],
     "correct": "₹1200",
-    "explanation": "SI=(5000×8×3)/100."
+    "explanation": "SI = (P × R × T) / 100 = (5000 × 8 × 3) / 100 = 1200."
   },
   {
     "id": 6,
     "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
+    "question": "Average of 12, 18, 20, 25, 30?",
+    "options": ["19", "20", "21", "22"],
     "correct": "21",
-    "explanation": "Average is 21."
+    "explanation": "Sum = 105. Average = 105 / 5 = 21."
   },
   {
     "id": 7,
     "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
+    "question": "Evaluate: 15² − 10²",
+    "options": ["115", "120", "125", "130"],
     "correct": "125",
-    "explanation": "225-100=125."
+    "explanation": "15² - 10² = 225 - 100 = 125."
   },
   {
     "id": 8,
-    "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "category": "Quantitative Aptitude",
+    "question": "If the radius of a circle is doubled, its area increases by what percent?",
+    "options": ["100%", "200%", "300%", "400%"],
+    "correct": "300%",
+    "explanation": "New Area = π(2r)² = 4πr². Increase = 4πr² - πr² = 3πr², which is a 300% increase."
   },
   {
     "id": 9,
-    "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "category": "Quantitative Aptitude",
+    "question": "A work can be completed by A in 10 days and B in 15 days. How long will they take together?",
+    "options": ["5 days", "6 days", "7 days", "8 days"],
+    "correct": "6 days",
+    "explanation": "Combined rate = 1/10 + 1/15 = 5/30 = 1/6. Total days = 6."
   },
   {
     "id": 10,
-    "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "category": "Quantitative Aptitude",
+    "question": "The marked price of an article is ₹800 and it is sold at a discount of 15%. Find the selling price.",
+    "options": ["₹650", "₹680", "₹700", "₹720"],
+    "correct": "₹680",
+    "explanation": "Selling Price = 800 × (100 - 15)/100 = 800 × 0.85 = ₹680."
   },
   {
     "id": 11,
-    "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "category": "Quantitative Aptitude",
+    "question": "Find the compound interest on ₹10,000 for 2 years at 10% per annum compounded annually.",
+    "options": ["₹2,000", "₹2,100", "₹2,200", "₹2,500"],
+    "correct": "₹2,100",
+    "explanation": "Amount = 10000(1.1)² = 12100. CI = 12100 - 10000 = 2100."
   },
   {
     "id": 12,
-    "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "category": "Quantitative Aptitude",
+    "question": "Two numbers are in the ratio 3:4. If their HCF is 4, find their LCM.",
+    "options": ["12", "24", "36", "48"],
+    "correct": "48",
+    "explanation": "The numbers are 3×4=12 and 4×4=16. LCM of 12 and 16 is 48."
   },
   {
     "id": 13,
-    "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "category": "Quantitative Aptitude",
+    "question": "The average age of 30 students in a class is 15 years. If the teacher's age is included, the average increases by 1 year. Find the teacher's age.",
+    "options": ["40 years", "45 years", "46 years", "50 years"],
+    "correct": "46 years",
+    "explanation": "Total age with teacher = 31 × 16 = 496. Prior total = 30 × 15 = 450. Teacher's age = 496 - 450 = 46."
   },
   {
     "id": 14,
-    "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "category": "Quantitative Aptitude",
+    "question": "If x + 1/x = 5, find the value of x² + 1/x².",
+    "options": ["23", "25", "27", "29"],
+    "correct": "23",
+    "explanation": "Squaring both sides: (x + 1/x)² = 5² => x² + 2 + 1/x² = 25 => x² + 1/x² = 23."
   },
   {
     "id": 15,
     "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "question": "A boat goes 24 km downstream in 2 hours and 24 km upstream in 4 hours. Find the speed of the stream.",
+    "options": ["2 km/h", "3 km/h", "4 km/h", "6 km/h"],
+    "correct": "3 km/h",
+    "explanation": "Downstream speed = 24/2 = 12 km/h. Upstream speed = 24/4 = 6 km/h. Stream speed = (12 - 6)/2 = 3 km/h."
   },
   {
     "id": 16,
     "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "question": "An article is bought for ₹560. For how much should it be sold to gain 25%?",
+    "options": ["₹650", "₹700", "₹720", "₹750"],
+    "correct": "₹700",
+    "explanation": "SP = 560 × 1.25 = 700."
   },
   {
     "id": 17,
-    "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "category": "Quantitative Aptitude",
+    "question": "If 12 men can complete a work in 20 days, in how many days can 15 men complete the same work?",
+    "options": ["14 days", "15 days", "16 days", "18 days"],
+    "correct": "16 days",
+    "explanation": "M1 × D1 = M2 × D2 => 12 × 20 = 15 × D2 => D2 = 240 / 15 = 16 days."
   },
   {
     "id": 18,
-    "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "category": "Quantitative Aptitude",
+    "question": "The ratio of the edges of two cubes is 2:3. Find the ratio of their volumes.",
+    "options": ["4:9", "8:27", "2:3", "16:81"],
+    "correct": "8:27",
+    "explanation": "Volume ratio is the cube of edge ratio: 2³ : 3³ = 8:27."
   },
   {
     "id": 19,
-    "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "category": "Quantitative Aptitude",
+    "question": "Find the single discount equivalent to two successive discounts of 20% and 10%.",
+    "options": ["28%", "30%", "32%", "25%"],
+    "correct": "28%",
+    "explanation": "Equivalent discount = x + y - (xy/100) = 20 + 10 - (200/100) = 30 - 2 = 28%."
   },
   {
     "id": 20,
-    "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "category": "Quantitative Aptitude",
+    "question": "A sum of money doubles itself in 8 years at simple interest. Find the rate of interest per annum.",
+    "options": ["10%", "12.5%", "15%", "16.25%"],
+    "correct": "12.5%",
+    "explanation": "SI = P. P = (P × R × 8)/100 => R = 100/8 = 12.5%."
   },
   {
     "id": 21,
-    "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "category": "Quantitative Aptitude",
+    "question": "The angles of a triangle are in the ratio 2:3:4. Find the largest angle.",
+    "options": ["60°", "70°", "80°", "90°"],
+    "correct": "80°",
+    "explanation": "2x + 3x + 4x = 180 => 9x = 180 => x = 20. Largest angle = 4 × 20 = 80°."
   },
   {
     "id": 22,
-    "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "category": "Quantitative Aptitude",
+    "question": "If 35% of a number is 175, what is 100% of the number?",
+    "options": ["450", "500", "550", "600"],
+    "correct": "500",
+    "explanation": "Number = (175 / 35) × 100 = 5 × 100 = 500."
   },
   {
     "id": 23,
-    "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "category": "Quantitative Aptitude",
+    "question": "A person covers a distance at 40 km/h and returns at 60 km/h. Find his average speed for the entire journey.",
+    "options": ["48 km/h", "50 km/h", "52 km/h", "54 km/h"],
+    "correct": "48 km/h",
+    "explanation": "Average Speed = 2xy / (x + y) = (2 × 40 × 60) / (40 + 60) = 4800 / 100 = 48 km/h."
   },
   {
     "id": 24,
     "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "question": "Find the value of (0.337 × 0.337 - 0.123 × 0.123) / (0.337 - 0.123).",
+    "options": ["0.214", "0.460", "0.337", "0.500"],
+    "correct": "0.460",
+    "explanation": "Using a² - b² = (a-b)(a+b). The expression reduces to (a+b) = 0.337 + 0.123 = 0.460."
   },
   {
     "id": 25,
     "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "question": "The perimeter of a rectangle is 60 cm and its length is 18 cm. Find its area.",
+    "options": ["216 cm²", "192 cm²", "200 cm²", "240 cm²"],
+    "correct": "216 cm²",
+    "explanation": "2(l + b) = 60 => 18 + b = 30 => b = 12 cm. Area = 18 × 12 = 216 cm²."
   },
   {
     "id": 26,
     "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
+    "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+    "options": ["38", "40", "42", "44"],
     "correct": "42",
-    "explanation": "Differences increase by 2."
+    "explanation": "The gaps are successive even numbers: +4, +6, +8, +10, +12. 30 + 12 = 42."
   },
   {
     "id": 27,
     "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
+    "question": "If CAT is coded as DBU, then how is DOG coded?",
+    "options": ["EOH", "EPH", "DPH", "FQI"],
     "correct": "EPH",
-    "explanation": "Each letter +1."
+    "explanation": "Each letter is shifted forward by +1 alphabetical position."
   },
   {
     "id": 28,
     "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
+    "question": "If A > B and B > C, who among them is the shortest?",
+    "options": ["A", "B", "C", "Cannot say"],
     "correct": "C",
-    "explanation": "C is shortest."
+    "explanation": "Combining the expressions gives A > B > C, hence C is the shortest."
   },
   {
     "id": 29,
-    "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "category": "Reasoning",
+    "question": "Pointing to a man, a woman says, 'He is the only son of my mother's mother.' How is the man related to the woman?",
+    "options": ["Father", "Uncle", "Brother", "Grandfather"],
+    "correct": "Uncle",
+    "explanation": "Mother's mother is Grandmother. Her only son is the woman's maternal Uncle."
   },
   {
     "id": 30,
-    "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "category": "Reasoning",
+    "question": "Choose the odd one out from the given options.",
+    "options": ["Ostrich", "Eagle", "Penguin", "Kiwi"],
+    "correct": "Eagle",
+    "explanation": "Eagle is the only flighted bird listed; the rest are flightless."
   },
   {
     "id": 31,
-    "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "category": "Reasoning",
+    "question": "In a certain code, 'CHAIR' is written as '53269' and 'EAR' is written as '729'. How is 'HEAR' written in that code?",
+    "options": ["3729", "5329", "3279", "3529"],
+    "correct": "3729",
+    "explanation": "By direct letter substitution: H = 3, E = 7, A = 2, R = 9."
   },
   {
     "id": 32,
-    "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "category": "Reasoning",
+    "question": "Find the missing number in the sequence: 3, 5, 9, 17, ?",
+    "options": ["26", "30", "33", "35"],
+    "correct": "33",
+    "explanation": "The pattern is +2, +4, +8, +16. 17 + 16 = 33."
   },
   {
     "id": 33,
-    "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "category": "Reasoning",
+    "question": "Arrange the words in a meaningful logical sequence: 1. Nation, 2. Village, 3. City, 4. District, 5. State",
+    "options": ["2, 3, 4, 5, 1", "2, 3, 5, 4, 1", "1, 5, 4, 3, 2", "2, 4, 3, 5, 1"],
+    "correct": "2, 3, 4, 5, 1",
+    "explanation": "Correct ascending order of size is Village -> City -> District -> State -> Nation."
   },
   {
     "id": 34,
-    "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "category": "Reasoning",
+    "question": "If 'A' means '+', 'B' means '-', 'C' means '×' and 'D' means '÷', then evaluate: 18 C 14 A 6 B 16 D 4",
+    "options": ["254", "251", "258", "248"],
+    "correct": "254",
+    "explanation": "18 × 14 + 6 - (16 / 4) = 252 + 6 - 4 = 254."
   },
   {
     "id": 35,
     "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "question": "A man walks 5 km toward South, then turns right and walks 3 km, then turns left and walks 5 km. Which direction is he from the starting point?",
+    "options": ["West", "South", "South-West", "North-East"],
+    "correct": "South-West",
+    "explanation": "Moving south, then west, then further south places him in the South-West quadrant relative to the start."
   },
   {
     "id": 36,
     "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "question": "Find the odd number pair out.",
+    "options": ["4-16", "6-36", "8-64", "9-82"],
+    "correct": "9-82",
+    "explanation": "In all other options, the second number is the perfect square of the first number."
   },
   {
     "id": 37,
     "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "question": "If FRIEND is coded as HUMJTK, how is CANDLE coded?",
+    "options": ["EDRIRL", "DCQHQK", "ESJFME", "FYOBOC"],
+    "correct": "EDRIRL",
+    "explanation": "The pattern involves cumulative additions: +2, +3, +4, +5, +6, +7 applied to each successive letter."
   },
   {
     "id": 38,
-    "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "category": "Reasoning",
+    "question": "Which of the following diagrams best represents the relationship between: Seconds, Minutes, and Hours?",
+    "options": ["Three concentric circles", "Three intersecting circles", "Two disjoint circles inside a large circle", "Two intersecting circles inside a large circle"],
+    "correct": "Three concentric circles",
+    "explanation": "Seconds are entirely part of Minutes, which are entirely part of Hours."
   },
   {
     "id": 39,
-    "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "category": "Reasoning",
+    "question": "If 1st January 2025 is a Wednesday, what day of the week will 1st January 2026 be?",
+    "options": ["Thursday", "Friday", "Wednesday", "Tuesday"],
+    "correct": "Thursday",
+    "explanation": "2025 is an ordinary year containing 365 days (52 weeks + 1 odd day). So the day shifts forward by 1."
   },
   {
     "id": 40,
-    "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "category": "Reasoning",
+    "question": "Look at this series: F2, __, D8, C16, B32. What option fills the blank?",
+    "options": ["E3", "E4", "E6", "G4"],
+    "correct": "E4",
+    "explanation": "The alphabet decrements (F, E, D, C, B) while the numbers double sequentially (2, 4, 8, 16, 32)."
   },
   {
     "id": 41,
-    "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "category": "Reasoning",
+    "question": "Introducing a boy, Amar says, 'He is the son of the only daughter of my father.' How is Amar related to the boy?",
+    "options": ["Father", "Maternal Uncle", "Brother", "Grandfather"],
+    "correct": "Maternal Uncle",
+    "explanation": "The only daughter of Amar's father is Amar's sister. Her son is Amar's nephew, making Amar his Maternal Uncle."
   },
   {
     "id": 42,
-    "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "category": "Reasoning",
+    "question": "Select the option that is related to the third term in the same way as the second term is related to the first term. Cobbler : Leather :: Carpenter : ?",
+    "options": ["Furniture", "Wood", "Hammer", "Chisel"],
+    "correct": "Wood",
+    "explanation": "A cobbler works primarily with leather; a carpenter works primarily with wood (raw material relationship)."
   },
   {
     "id": 43,
-    "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "category": "Reasoning",
+    "question": "In a row of 40 students, A is 15th from the left end. What is his position from the right end?",
+    "options": ["25th", "26th", "24th", "27th"],
+    "correct": "26th",
+    "explanation": "Position from right = (Total - Position from left) + 1 = (40 - 15) + 1 = 26."
   },
   {
     "id": 44,
     "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "question": "Statement: All pens are markers. All markers are crayons. Conclusion: I. All pens are crayons. II. Some crayons are pens.",
+    "options": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither follows"],
+    "correct": "Both conclusions I and II follow",
+    "explanation": "Standard syllogism. Since pens are inside markers and markers inside crayons, all pens are crayons, and a subset of crayons contains pens."
   },
   {
     "id": 45,
     "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "question": "If DOCTOR is written as ROTCOD, how is STUDENT written?",
+    "options": ["TNEDUTS", "TNETUDS", "TDNETUS", "TNEDUST"],
+    "correct": "TNEDUTS",
+    "explanation": "The word is completely spelled in exact reverse order."
   },
   {
     "id": 46,
     "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "question": "Choose the pair that exhibits the same relationship as: Light : Blind",
+    "options": ["Speech : Dumb", "Language : Deaf", "Tongue : Sound", "Voice : Vibration"],
+    "correct": "Speech : Dumb",
+    "explanation": "A blind person cannot perceive light; a dumb (mute) person cannot produce speech."
   },
   {
     "id": 47,
-    "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "category": "Reasoning",
+    "question": "Identify the missing element: AZ, CX, EV, ?",
+    "options": ["GT", "GS", "HS", "IR"],
+    "correct": "GT",
+    "explanation": "First letters skip one position (+2: A, C, E, G). Second letters move backwards from the end (-2: Z, X, V, T). G and T are also pairs of opposite letters."
   },
   {
     "id": 48,
-    "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "category": "Reasoning",
+    "question": "Find the odd word out.",
+    "options": ["Litre", "Gram", "Kilogram", "Ton"],
+    "correct": "Litre",
+    "explanation": "Litre is a unit used to measure liquid volume, whereas Gram, Kilogram, and Ton measure mass."
   },
   {
     "id": 49,
-    "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "category": "Reasoning",
+    "question": "If '+' means '×', '×' means '÷', '÷' means '-' and '-' means '+', what is the value of 15 + 4 × 2 ÷ 6 - 3?",
+    "options": ["25", "27", "30", "33"],
+    "correct": "27",
+    "explanation": "Substituting operators: 15 × 4 ÷ 2 - 6 + 3 = 15 × 2 - 6 + 3 = 30 - 6 + 3 = 27."
   },
   {
     "id": 50,
-    "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "category": "Reasoning",
+    "question": "A cube painted red on all faces is cut into 27 small equal cubes. How many small cubes have completely unpainted faces?",
+    "options": ["0", "1", "4", "8"],
+    "correct": "1",
+    "explanation": "Number of inner unpainted cubes = (n - 2)³ = (3 - 2)³ = 1³ = 1."
   },
   {
     "id": 51,
-    "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "category": "English",
+    "question": "Select the synonym of the word: Abundant",
+    "options": ["Rare", "Plenty", "Scarce", "Empty"],
+    "correct": "Plenty",
+    "explanation": "'Abundant' means existing or available in large, overflowing quantities."
   },
   {
     "id": 52,
-    "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "category": "English",
+    "question": "Select the antonym of the word: Victory",
+    "options": ["Success", "Win", "Defeat", "Triumph"],
+    "correct": "Defeat",
+    "explanation": "'Defeat' is the opposite outcome of a victory."
   },
   {
     "id": 53,
-    "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "category": "English",
+    "question": "Identify the correctly spelled word.",
+    "options": ["Committe", "Comittee", "Committee", "Commitee"],
+    "correct": "Committee",
+    "explanation": "The correct spelling requires double 'm', double 't', and double 'e'."
   },
   {
     "id": 54,
-    "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "category": "English",
+    "question": "Fill in the blank: Neither the teacher nor the students ______ present.",
+    "options": ["was", "were", "is", "has"],
+    "correct": "were",
+    "explanation": "When using 'neither/nor', the verb agrees with the closer subject ('students')."
   },
   {
     "id": 55,
-    "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "category": "English",
+    "question": "Choose the alternative which best expresses the meaning of the Idiom: 'To spill the beans'",
+    "options": ["To drop something", "To reveal a secret", "To work hard", "To cook food"],
+    "correct": "To reveal a secret",
+    "explanation": "To spill the beans means to intentionally or accidentally reveal secret information."
   },
   {
     "id": 56,
     "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "question": "Find the part of the sentence that contains an error: 'He is / more taller / than his brother.'",
+    "options": ["He is", "more taller", "than his brother", "No error"],
+    "correct": "more taller",
+    "explanation": "Avoid double comparatives. Use 'taller' instead of 'more taller'."
   },
   {
     "id": 57,
     "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "question": "Choose the word that can substitute the given phrase: 'A person who writes a dictionary'",
+    "options": ["Cartographer", "Lexicographer", "Biographer", "Calligrapher"],
+    "correct": "Lexicographer",
+    "explanation": "A lexicographer is a person who compiles or writes dictionaries."
   },
   {
     "id": 58,
-    "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "category": "English",
+    "question": "Select the option that expresses the given sentence in passive voice: 'The chef cooked a delicious meal.'",
+    "options": ["A delicious meal is cooked by the chef.", "A delicious meal was cooked by the chef.", "A delicious meal had been cooked by the chef.", "The chef was cooking a delicious meal."],
+    "correct": "A delicious meal was cooked by the chef.",
+    "explanation": "Simple past changes to 'was/were + past participle' in the passive voice."
   },
   {
     "id": 59,
-    "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "category": "English",
+    "question": "Choose the correct antonym for the word: Transient",
+    "options": ["Permanent", "Temporary", "Fleeting", "Brief"],
+    "correct": "Permanent",
+    "explanation": "'Transient' means lasting for a short time; its true opposite is permanent."
   },
   {
     "id": 60,
-    "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "category": "English",
+    "question": "Fill in the blank with the appropriate preposition: 'She has been suffering _______ fever since yesterday.'",
+    "options": ["with", "from", "by", "of"],
+    "correct": "from",
+    "explanation": "The verb 'suffering' idiomatic pairs with the preposition 'from'."
   },
   {
     "id": 61,
-    "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "category": "English",
+    "question": "Choose the correct synonym for the word: Candid",
+    "options": ["Dishonest", "Frank", "Secretive", "Arrogant"],
+    "correct": "Frank",
+    "explanation": "'Candid' means truthful, straightforward, and frank."
   },
   {
     "id": 62,
-    "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "category": "English",
+    "question": "Identify the segment with a grammatical error: 'Each of the girls / have brought / her own book.'",
+    "options": ["Each of the girls", "have brought", "her own book", "No error"],
+    "correct": "have brought",
+    "explanation": "'Each' is a singular subject entity and requires the singular verb form 'has brought'."
   },
   {
     "id": 63,
-    "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "category": "English",
+    "question": "Choose the option that best expresses the meaning of the idiom: 'Burn the midnight oil'",
+    "options": ["To waste money", "To work late into the night", "To start a fire", "To cause an accident"],
+    "correct": "To work late into the night",
+    "explanation": "'Burn the midnight oil' means to study or work late into the night."
   },
   {
     "id": 64,
-    "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "category": "English",
+    "question": "Substitute the phrase with a single word: 'A solution or remedy for all difficulties or diseases.'",
+    "options": ["Panacea", "Antibiotic", "Placebo", "Panache"],
+    "correct": "Panacea",
+    "explanation": "A panacea is a universal remedy or cure-all."
   },
   {
     "id": 65,
     "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "question": "Select the option that expresses the given sentence in indirect speech: He said, 'I am reading a book.'",
+    "options": ["He said that he is reading a book.", "He said that he was reading a book.", "He said that I was reading a book.", "He told that he read a book."],
+    "correct": "He said that he was reading a book.",
+    "explanation": "Present continuous changes to past continuous in reported speech when the reporting verb is in the past tense."
   },
   {
     "id": 66,
     "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "question": "Find the misspelled word.",
+    "options": ["Receive", "Believe", "Separate", "Definate"],
+    "correct": "Definate",
+    "explanation": "The correct spelling is 'Definite'."
   },
   {
     "id": 67,
-    "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "category": "English",
+    "question": "Fill in the blank: If it rains, we ________ the match.",
+    "options": ["will cancel", "would cancel", "cancelled", "had cancelled"],
+    "correct": "will cancel",
+    "explanation": "First conditional clause structure: If + simple present, will + base verb form."
   },
   {
     "id": 68,
-    "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "category": "English",
+    "question": "Select the synonym of the word: Diligent",
+    "options": ["Lazy", "Hardworking", "Intelligent", "Careless"],
+    "correct": "Hardworking",
+    "explanation": "'Diligent' refers to someone showing care and conscientiousness in their duties; hardworking."
   },
   {
     "id": 69,
-    "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "category": "English",
+    "question": "Select the antonym of the word: Hostile",
+    "options": ["Aggressive", "Friendly", "Unkind", "Envious"],
+    "correct": "Friendly",
+    "explanation": "'Hostile' means unfriendly or antagonistic; its clear opposite is friendly."
   },
   {
     "id": 70,
-    "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "category": "English",
+    "question": "Choose the best alternative for the underlined phrase: 'He did not know the answer, **did he?**'",
+    "options": ["didn't he?", "does he?", "had he?", "No improvement"],
+    "correct": "No improvement",
+    "explanation": "A negative statement takes a positive question tag using the matching auxiliary verb ('did he?')."
   },
   {
     "id": 71,
-    "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "category": "English",
+    "question": "Fill in the blank: The property was divided _______ the two brothers.",
+    "options": ["among", "between", "with", "into"],
+    "correct": "between",
+    "explanation": "Use 'between' for relationships involving exactly two individuals."
   },
   {
     "id": 72,
-    "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "category": "English",
+    "question": "Find the phrase meaning of: 'At the eleventh hour'",
+    "options": ["At midnight", "At the last possible moment", "Early in the morning", "An hour late"],
+    "correct": "At the last possible moment",
+    "explanation": "An idiom used to denote that an event happened at the absolute last minute."
   },
   {
     "id": 73,
-    "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "category": "English",
+    "question": "One word substitution: 'Fear of closed or confined spaces.'",
+    "options": ["Acrophobia", "Hydrophobia", "Claustrophobia", "Xenophobia"],
+    "correct": "Claustrophobia",
+    "explanation": "Claustrophobia is the irrational anxiety or fear of enclosed spaces."
   },
   {
     "id": 74,
     "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "question": "Identify the error segment: 'The sceneries / of Kashmir / are beautiful.'",
+    "options": ["The sceneries", "of Kashmir", "are beautiful", "No error"],
+    "correct": "The sceneries",
+    "explanation": "'Scenery' is an uncountable noun and does not have a plural form ('sceneries'). Use 'The scenery of Kashmir is beautiful'."
   },
   {
     "id": 75,
     "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "question": "Fill in the blank: She is proficient _______ playing the violin.",
+    "options": ["at", "in", "with", "for"],
+    "correct": "in",
+    "explanation": "The word 'proficient' is most commonly followed by the preposition 'in'."
   },
   {
     "id": 76,
     "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "question": "Who wrote the famous book 'The Discovery of India'?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Rabindranath Tagore", "Sardar Patel"],
+    "correct": "Jawaharlal Nehru",
+    "explanation": "Written by Jawaharlal Nehru during his confinement at Ahmednagar Fort."
   },
   {
     "id": 77,
     "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
+    "question": "Which planet in our solar system is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
     "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "explanation": "Mars is called the Red Planet because iron oxide on its surface gives it a reddish look."
   },
   {
     "id": 78,
-    "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "category": "General Awareness",
+    "question": "Which classical dance form originated in Tamil Nadu?",
+    "options": ["Kathak", "Kathakali", "Bharatanatyam", "Kuchipudi"],
+    "correct": "Bharatanatyam",
+    "explanation": "Bharatanatyam is a major genre of Indian classical dance that originated in Tamil Nadu."
   },
   {
     "id": 79,
-    "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "category": "General Awareness",
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correct": "Canberra",
+    "explanation": "Canberra was chosen as the capital city in 1908 as a compromise between Sydney and Melbourne."
   },
   {
     "id": 80,
-    "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "category": "General Awareness",
+    "question": "Which fundamental right cannot be suspended even during a national emergency?",
+    "options": ["Right to Freedom of Speech", "Right to Constitutional Remedies", "Right to Life and Personal Liberty", "Right to Equality"],
+    "correct": "Right to Life and Personal Liberty",
+    "explanation": "Articles 20 and 21 (Right to Life) cannot be suspended even during an emergency under Article 359."
   },
   {
     "id": 81,
-    "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "category": "General Awareness",
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": ["Dr. B.R. Ambedkar", "Mahatma Gandhi", "Dr. Rajendra Prasad", "Jawaharlal Nehru"],
+    "correct": "Dr. B.R. Ambedkar",
+    "explanation": "Dr. Bhimrao Ramji Ambedkar was the chief architect and chairman of the Drafting Committee."
   },
   {
     "id": 82,
-    "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "category": "General Awareness",
+    "question": "Which river is known as the 'Sorrow of Bengal'?",
+    "options": ["Kosi River", "Damodar River", "Hooghly River", "Yamuna River"],
+    "correct": "Damodar River",
+    "explanation": "The Damodar River was historically known as the 'Sorrow of Bengal' due to its devastating floods."
   },
   {
     "id": 83,
-    "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "category": "General Awareness",
+    "question": "The battle of Plassey was fought in which year?",
+    "options": ["1757", "1764", "1761", "1857"],
+    "correct": "1757",
+    "explanation": "The Battle of Plassey took place on 23 June 1757 between the British East India Company and the Nawab of Bengal."
   },
   {
     "id": 84,
-    "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "category": "General Awareness",
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correct": "Nitrogen",
+    "explanation": "Nitrogen makes up roughly 78% of the Earth's atmosphere."
   },
   {
     "id": 85,
     "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "question": "Who was the first female Governor of an Indian state?",
+    "options": ["Sarojini Naidu", "Sucheta Kriplani", "Indira Gandhi", "Vijayalakshmi Pandit"],
+    "correct": "Sarojini Naidu",
+    "explanation": "Sarojini Naidu served as the Governor of the United Provinces (now Uttar Pradesh) from 1947 to 1949."
   },
   {
     "id": 86,
     "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "question": "What is the chemical name of common baking soda?",
+    "options": ["Sodium Carbonate", "Sodium Bicarbonate", "Sodium Chloride", "Calcium Carbonate"],
+    "correct": "Sodium Bicarbonate",
+    "explanation": "Baking soda is chemically known as Sodium Bicarbonate ($NaHCO_3$)."
   },
   {
     "id": 87,
-    "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "category": "General Awareness",
+    "question": "Which organ in the human body produces the hormone Insulin?",
+    "options": ["Liver", "Pancreas", "Kidney", "Gallbladder"],
+    "correct": "Pancreas",
+    "explanation": "The islets of Langerhans in the pancreas secrete insulin to regulate blood sugar levels."
   },
   {
     "id": 88,
-    "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "category": "General Awareness",
+    "question": "Deficiency of Vitamin Vitamin C causes which disease?",
+    "options": ["Rickets", "Beriberi", "Scurvy", "Night Blindness"],
+    "correct": "Scurvy",
+    "explanation": "Scurvy is caused by a distinct lack of Vitamin C (ascorbic acid)."
   },
   {
     "id": 89,
-    "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "category": "General Awareness",
+    "question": "Where is the permanent headquarters of SAARC located?",
+    "options": ["New Delhi", "Kathmandu", "Dhaka", "Colombo"],
+    "correct": "Kathmandu",
+    "explanation": "The SAARC secretariat was established in Kathmandu, Nepal, on 16 January 1987."
   },
   {
     "id": 90,
-    "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "category": "General Awareness",
+    "question": "Who was the founder of the Maurya Empire?",
+    "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Chandragupta I"],
+    "correct": "Chandragupta Maurya",
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the assistance of Chanakya."
   },
   {
     "id": 91,
-    "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "category": "General Awareness",
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+    "correct": "Barometer",
+    "explanation": "A barometer is a scientific instrument used to measure atmospheric pressure."
   },
   {
     "id": 92,
-    "category": "English",
-    "question": "Synonym of Abundant",
-    "options": [
-      "Rare",
-      "Plenty",
-      "Scarce",
-      "Empty"
-    ],
-    "correct": "Plenty",
-    "explanation": "Means plentiful."
+    "category": "General Awareness",
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "options": ["C.V. Raman", "Rabindranath Tagore", "Mother Teresa", "Hargobind Khorana"],
+    "correct": "Rabindranath Tagore",
+    "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for his work Gitanjali."
   },
   {
     "id": 93,
-    "category": "English",
-    "question": "Antonym of Victory",
-    "options": [
-      "Success",
-      "Win",
-      "Defeat",
-      "Triumph"
-    ],
-    "correct": "Defeat",
-    "explanation": "Opposite of victory."
+    "category": "General Awareness",
+    "question": "Which article of the Indian Constitution deals with the 'Abolition of Untouchability'?",
+    "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+    "correct": "Article 17",
+    "explanation": "Article 17 explicitly abolishes untouchability and forbids its practice in any form."
   },
   {
     "id": 94,
     "category": "General Awareness",
-    "question": "Who wrote Discovery of India?",
-    "options": [
-      "Gandhi",
-      "Nehru",
-      "Tagore",
-      "Patel"
-    ],
-    "correct": "Nehru",
-    "explanation": "Written by Jawaharlal Nehru."
+    "question": "What is the currency of Japan?",
+    "options": ["Yuan", "Won", "Yen", "Ringgit"],
+    "correct": "Yen",
+    "explanation": "The Yen is the official currency of Japan."
   },
   {
     "id": 95,
     "category": "General Awareness",
-    "question": "Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": "Mars",
-    "explanation": "Mars is called the Red Planet."
+    "question": "Which layer of the atmosphere contains the protective Ozone layer?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correct": "Stratosphere",
+    "explanation": "The ozone layer is primarily found in the lower portion of the stratosphere."
   },
   {
     "id": 96,
-    "category": "Quantitative Aptitude",
-    "question": "Average of 12,18,20,25,30?",
-    "options": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21",
-    "explanation": "Average is 21."
+    "category": "General Awareness",
+    "question": "Who appoints the Chief Justice of India?",
+    "options": ["The Prime Minister", "The President", "The Parliament", "The Law Minister"],
+    "correct": "The President",
+    "explanation": "The President of India appoints the Chief Justice under clause (2) of Article 124 of the Constitution."
   },
   {
     "id": 97,
-    "category": "Quantitative Aptitude",
-    "question": "15² − 10² = ?",
-    "options": [
-      "115",
-      "120",
-      "125",
-      "130"
-    ],
-    "correct": "125",
-    "explanation": "225-100=125."
+    "category": "General Awareness",
+    "question": "In which city is the famous monument Charminar located?",
+    "options": ["Mumbai", "Hyderabad", "Delhi", "Agra"],
+    "correct": "Hyderabad",
+    "explanation": "The Charminar was constructed in 1591 by Muhammad Quli Qutb Shah in Hyderabad, Telangana."
   },
   {
     "id": 98,
-    "category": "Reasoning",
-    "question": "Next number: 2,6,12,20,30, ?",
-    "options": [
-      "38",
-      "40",
-      "42",
-      "44"
-    ],
-    "correct": "42",
-    "explanation": "Differences increase by 2."
+    "category": "General Awareness",
+    "question": "Which country shares the longest international land border with India?",
+    "options": ["China", "Pakistan", "Bangladesh", "Nepal"],
+    "correct": "Bangladesh",
+    "explanation": "India shares a 4,096-kilometer-long international border with Bangladesh, the longest of its neighbors."
   },
   {
     "id": 99,
-    "category": "Reasoning",
-    "question": "If CAT=DBU then DOG=?",
-    "options": [
-      "EOH",
-      "EPH",
-      "DPH",
-      "FQI"
-    ],
-    "correct": "EPH",
-    "explanation": "Each letter +1."
+    "category": "General Awareness",
+    "question": "What is the powerhouse of the animal cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+    "correct": "Mitochondria",
+    "explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as chemical energy."
   },
   {
     "id": 100,
-    "category": "Reasoning",
-    "question": "A>B>C. Who is shortest?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "Cannot say"
-    ],
-    "correct": "C",
-    "explanation": "C is shortest."
+    "category": "General Awareness",
+    "question": "Who was known as the 'Iron Man of India'?",
+    "options": ["Subhash Chandra Bose", "Sardar Vallabhbhai Patel", "Bhagat Singh", "Lala Lajpat Rai"],
+    "correct": "Sardar Vallabhbhai Patel",
+    "explanation": "Sardar Patel earned the title 'Iron Man' for his dynamic leadership in integrating over 500 princely states into the Indian Union."
   }
 ]
+
+```
