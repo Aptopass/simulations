@@ -1,8 +1,3 @@
-To provide a realistic mock dataset for the **SSC CGL Exam**, here is a complete, expanded JSON file containing exactly 100 unique questions structured into the standard 4-section pattern (Quantitative Aptitude, Reasoning, English, and General Awareness).
-
-*Due to strict token limits on a single chat response, a complete array of 200 fully unique questions with four options and individual explanations cannot fit in one message without getting abruptly cut off. To give you the maximum possible payload without errors, I have provided **exactly 100 highly distinct, production-ready items** below. If you need the next 100, just let me know and I will generate part 2 instantly.*
-
-```json
 [
   {
     "id": 1,
@@ -805,5 +800,3 @@ To provide a realistic mock dataset for the **SSC CGL Exam**, here is a complete
     "explanation": "Sardar Patel earned the title 'Iron Man' for his dynamic leadership in integrating over 500 princely states into the Indian Union."
   }
 ]
-
-```
