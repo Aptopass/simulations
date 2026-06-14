@@ -798,5 +798,805 @@
     "options": ["Subhash Chandra Bose", "Sardar Vallabhbhai Patel", "Bhagat Singh", "Lala Lajpat Rai"],
     "correct": "Sardar Vallabhbhai Patel",
     "explanation": "Sardar Patel earned the title 'Iron Man' for his dynamic leadership in integrating over 500 princely states into the Indian Union."
+  },
+  {
+    "id": 101,
+    "category": "Quantitative Aptitude",
+    "question": "The ratio of two numbers is 4:5 and their LCM is 120. Find the smaller number.",
+    "options": ["24", "30", "36", "40"],
+    "correct": "24",
+    "explanation": "Let numbers be 4x and 5x. LCM = 20x = 120 => x = 6. Smaller number = 4 × 6 = 24."
+  },
+  {
+    "id": 102,
+    "category": "Quantitative Aptitude",
+    "question": "A person sells an article at a loss of 10%. If he had sold it for ₹75 more, he would have gained 5%. Find the cost price.",
+    "options": ["₹450", "₹500", "₹550", "₹600"],
+    "correct": "₹500",
+    "explanation": "Difference in percentage = 5% - (-10%) = 15%. 15% of CP = 75 => CP = (75 / 15) × 100 = 500."
+  },
+  {
+    "id": 103,
+    "category": "Quantitative Aptitude",
+    "question": "A sum of ₹12,000 deposited at compound interest becomes double after 5 years. How much will it be after 20 years?",
+    "options": ["₹48,000", "₹96,000", "₹1,92,000", "₹2,40,000"],
+    "correct": "₹1,92,000",
+    "explanation": "In 20 years, there are four 5-year periods. The sum doubles 4 times: 12000 × 2⁴ = 12000 × 16 = 1,92,000."
+  },
+  {
+    "id": 104,
+    "category": "Quantitative Aptitude",
+    "question": "The average of 7 consecutive numbers is 20. Find the largest of these numbers.",
+    "options": ["20", "22", "23", "24"],
+    "correct": "23",
+    "explanation": "In consecutive numbers, the average is the middle (4th) term. The numbers are 17, 18, 19, 20, 21, 22, 23. Largest is 23."
+  },
+  {
+    "id": 105,
+    "category": "Quantitative Aptitude",
+    "question": "If 15% of A is equal to 20% of B, then find the ratio A:B.",
+    "options": ["3:4", "4:3", "5:4", "4:5"],
+    "correct": "4:3",
+    "explanation": "0.15A = 0.20B => A/B = 0.20 / 0.15 = 20/15 = 4/3."
+  },
+  {
+    "id": 106,
+    "category": "Quantitative Aptitude",
+    "question": "A tank can be filled by pipe A in 6 hours and emptied by pipe B in 8 hours. If both pipes are opened together, how long will it take to fill the tank?",
+    "options": ["14 hours", "20 hours", "24 hours", "28 hours"],
+    "correct": "24 hours",
+    "explanation": "Net work per hour = 1/6 - 1/8 = (4 - 3)/24 = 1/24. Total time = 24 hours."
+  },
+  {
+    "id": 107,
+    "category": "Quantitative Aptitude",
+    "question": "Find the value of √64 + √0.64 + √0.0064.",
+    "options": ["8.88", "8.96", "8.088", "8.808"],
+    "correct": "8.88",
+    "explanation": "√64 = 8, √0.64 = 0.8, √0.0064 = 0.08. Sum = 8 + 0.8 + 0.08 = 8.88."
+  },
+  {
+    "id": 108,
+    "category": "Quantitative Aptitude",
+    "question": "A cricketer has a certain average for 10 innings. In the 11th inning, he scores 108 runs, thereby increasing his average by 6 runs. What is his new average?",
+    "options": ["42", "44", "48", "52"],
+    "correct": "48",
+    "explanation": "Let old average be x. 10x + 108 = 11(x + 6) => 10x + 108 = 11x + 66 => x = 42. New average = 42 + 6 = 48."
+  },
+  {
+    "id": 109,
+    "category": "Quantitative Aptitude",
+    "question": "The income of A is 25% more than that of B. How much percent is B's income less than A's income?",
+    "options": ["20%", "25%", "30%", "16.66%"],
+    "correct": "20%",
+    "explanation": "Percentage less = [r / (100 + r)] × 100 = (25 / 125) × 100 = 20%."
+  },
+  {
+    "id": 110,
+    "category": "Quantitative Aptitude",
+    "question": "A train 150 meters long passes a telegraph post in 12 seconds. Find the speed of the train in km/h.",
+    "options": ["45 km/h", "50 km/h", "54 km/h", "60 km/h"],
+    "correct": "45 km/h",
+    "explanation": "Speed = 150 / 12 = 12.5 m/s. In km/h = 12.5 × (18 / 5) = 45 km/h."
+  },
+  {
+    "id": 111,
+    "category": "Quantitative Aptitude",
+    "question": "The lengths of diagonals of a rhombus are 16 cm and 12 cm. Find its perimeter.",
+    "options": ["32 cm", "40 cm", "48 cm", "52 cm"],
+    "correct": "40 cm",
+    "explanation": "Side of rhombus = √[(d1/2)² + (d2/2)²] = √[8² + 6²] = √100 = 10 cm. Perimeter = 4 × 10 = 40 cm."
+  },
+  {
+    "id": 112,
+    "category": "Quantitative Aptitude",
+    "question": "If x:y = 3:4, find the value of (5x + 3y) : (7x - 2y).",
+    "options": ["27:13", "13:27", "21:11", "11:21"],
+    "correct": "27:13",
+    "explanation": "Substitute x=3 and y=4: (5(3) + 3(4)) : (7(3) - 2(4)) = (15 + 12) : (21 - 8) = 27:13."
+  },
+  {
+    "id": 113,
+    "category": "Quantitative Aptitude",
+    "question": "By selling 33 meters of cloth, a person gains the cost price of 11 meters. Find his gain percentage.",
+    "options": ["25%", "33.33%", "50%", "20%"],
+    "correct": "33.33%",
+    "explanation": "Gain% = (Gain / CP Quantity) × 100 = (11 / 33) × 100 = 33.33%."
+  },
+  {
+    "id": 114,
+    "category": "Quantitative Aptitude",
+    "question": "What is the unit digit in the product (2467)^153?",
+    "options": ["1", "3", "7", "9"],
+    "correct": "7",
+    "explanation": "Unit digit depends on 7. Cyclicity of 7 is 4. Remainder of 153/4 is 1. 7¹ = 7."
+  },
+  {
+    "id": 115,
+    "category": "Quantitative Aptitude",
+    "question": "Find the value of x if 20% of 300 + x% of 500 = 140.",
+    "options": ["12", "14", "16", "18"],
+    "correct": "16",
+    "explanation": "60 + 5x = 140 => 5x = 80 => x = 16."
+  },
+  {
+    "id": 116,
+    "category": "Quantitative Aptitude",
+    "question": "A man buys an item for ₹1200 and spends ₹300 on its repairs. If he sells it for ₹1800, find his profit percentage.",
+    "options": ["15%", "20%", "25%", "30%"],
+    "correct": "20%",
+    "explanation": "Total CP = 1200 + 300 = 1500. Profit = 1800 - 1500 = 300. Profit% = (300 / 1500) × 100 = 20%."
+  },
+  {
+    "id": 117,
+    "category": "Quantitative Aptitude",
+    "question": "The side of an equilateral triangle is 8 cm. Find its area.",
+    "options": ["12√3 cm²", "16√3 cm²", "24√3 cm²", "32√3 cm²"],
+    "correct": "16√3 cm²",
+    "explanation": "Area = (√3 / 4) × side² = (√3 / 4) × 64 = 16√3 cm²."
+  },
+  {
+    "id": 118,
+    "category": "Quantitative Aptitude",
+    "question": "The difference between compound interest and simple interest on a sum for 2 years at 10% per annum is ₹50. Find the sum.",
+    "options": ["₹4,000", "₹5,000", "₹6,000", "₹7,500"],
+    "correct": "₹5,000",
+    "explanation": "For 2 years, Difference = P(R/100)² => 50 = P(10/100)² => 50 = P/100 => P = ₹5,000."
+  },
+  {
+    "id": 119,
+    "category": "Quantitative Aptitude",
+    "question": "A container contains 40 liters of milk. Out of this, 4 liters of milk is replaced with water. This process is repeated one more time. How much milk is left now?",
+    "options": ["32 liters", "32.4 liters", "34 liters", "36 liters"],
+    "correct": "32.4 liters",
+    "explanation": "Remaining milk = 40 × (1 - 4/40)² = 40 × (9/10)² = 40 × 81/100 = 32.4 liters."
+  },
+  {
+    "id": 120,
+    "category": "Quantitative Aptitude",
+    "question": "If a regular polygon has 10 sides, find the measure of its each interior angle.",
+    "options": ["135°", "140°", "144°", "150°"],
+    "correct": "144°",
+    "explanation": "Each interior angle = ((n - 2) × 180) / n = (8 × 180) / 10 = 144°."
+  },
+  {
+    "id": 121,
+    "category": "Quantitative Aptitude",
+    "question": "Find the sum of all interior angles of a hexagon.",
+    "options": ["360°", "540°", "720°", "900°"],
+    "correct": "720°",
+    "explanation": "Sum of interior angles = (n - 2) × 180° = (6 - 2) × 180° = 4 × 180° = 720°."
+  },
+  {
+    "id": 122,
+    "category": "Quantitative Aptitude",
+    "question": "If 7 observations have an average of 35 and 3 other observations have an average of 45, find the combined average.",
+    "options": ["37", "38", "39", "40"],
+    "correct": "38",
+    "explanation": "Total sum = (7 × 35) + (3 × 45) = 245 + 135 = 380. Total observations = 10. Combined average = 380 / 10 = 38."
+  },
+  {
+    "id": 123,
+    "category": "Quantitative Aptitude",
+    "question": "A worker's salary was reduced by 20%. By what percent should his new salary be raised to bring it back to original?",
+    "options": ["20%", "25%", "30%", "33.33%"],
+    "correct": "25%",
+    "explanation": "Increase required = [r / (100 - r)] × 100 = (20 / 80) × 100 = 25%."
+  },
+  {
+    "id": 124,
+    "category": "Quantitative Aptitude",
+    "question": "The base and height of a triangle are in the ratio 3:4. If its area is 96 cm², find its base.",
+    "options": ["8 cm", "12 cm", "16 cm", "20 cm"],
+    "correct": "12 cm",
+    "explanation": "Area = 0.5 × 3x × 4x = 96 => 6x² = 96 => x² = 16 => x = 4. Base = 3x = 12 cm."
+  },
+  {
+    "id": 125,
+    "category": "Quantitative Aptitude",
+    "question": "Find the compound interest on ₹8000 at 5% per annum for 1 year, compounded half-yearly.",
+    "options": ["₹400", "₹405", "₹410", "₹420"],
+    "correct": "₹405",
+    "explanation": "Rate = 5/2 = 2.5%, Time = 2 periods. Amount = 8000(1 + 2.5/100)² = 8000 × (41/40)² = 8405. CI = 8405 - 8000 = 405."
+  },
+  {
+    "id": 126,
+    "category": "Reasoning",
+    "question": "Find the missing number in the sequence: 4, 9, 19, 39, ?",
+    "options": ["69", "75", "79", "89"],
+    "correct": "79",
+    "explanation": "The pattern is (Previous Number × 2) + 1. 39 × 2 + 1 = 79."
+  },
+  {
+    "id": 127,
+    "category": "Reasoning",
+    "question": "If MEAT is coded as 13-5-1-20, how will ZEAL be coded?",
+    "options": ["26-5-1-12", "26-5-2-12", "25-5-1-12", "26-4-1-11"],
+    "correct": "26-5-1-12",
+    "explanation": "Each letter is represented directly by its standard chronological rank position in the alphabet."
+  },
+  {
+    "id": 128,
+    "category": "Reasoning",
+    "question": "Five boys are sitting in a circle facing the center. A is to the left of B, C is between B and D. Who is sitting to the immediate right of A?",
+    "options": ["B", "C", "D", "Cannot say"],
+    "correct": "D",
+    "explanation": "Arrangement matches counter-clockwise sequence: A, B, C, D, and the remaining space goes to the 5th person, making D sit next to A on the right."
+  },
+  {
+    "id": 129,
+    "category": "Reasoning",
+    "question": "Pointing to a photograph, a man says, 'She is the daughter of my father's only son.' How is the woman in the photo related to the man?",
+    "options": ["Sister", "Daughter", "Niece", "Mother"],
+    "correct": "Daughter",
+    "explanation": "'My father's only son' is the man himself. Therefore, she is the man's daughter."
+  },
+  {
+    "id": 130,
+    "category": "Reasoning",
+    "question": "Choose the odd geometric shape out from the choices.",
+    "options": ["Sphere", "Cube", "Cylinder", "Circle"],
+    "correct": "Circle",
+    "explanation": "Circle is a flat 2D shape, whereas Sphere, Cube, and Cylinder are 3D solid figures."
+  },
+  {
+    "id": 131,
+    "category": "Reasoning",
+    "question": "If TEMPLE is coded as VHQROH, how is CHURCH coded?",
+    "options": ["EKWVFK", "EJWVTK", "EKWVTK", "DKWVTK"],
+    "correct": "EKWVTK",
+    "explanation": "The shifting pattern changes incrementally for each successive letter position: +2, +3, +4, +5, +6, +7."
+  },
+  {
+    "id": 132,
+    "category": "Reasoning",
+    "question": "Find the wrong term in the given number series: 1, 8, 27, 64, 124, 216",
+    "options": ["8", "64", "124", "216"],
+    "correct": "124",
+    "explanation": "The series consists of perfect cubes: 1³, 2³, 3³, 4³, 5³ (which should be 125 instead of 124), 6³."
+  },
+  {
+    "id": 133,
+    "category": "Reasoning",
+    "question": "Arrange the items logically: 1. Key, 2. Door, 3. Lock, 4. Room, 5. Switch on",
+    "options": ["1, 3, 2, 4, 5", "1, 2, 3, 4, 5", "4, 2, 1, 3, 5", "1, 3, 4, 2, 5"],
+    "correct": "1, 3, 2, 4, 5",
+    "explanation": "The chronological order of actions is: Key -> Lock -> Door -> Room -> Switch on."
+  },
+  {
+    "id": 134,
+    "category": "Reasoning",
+    "question": "If P denotes '÷', Q denotes '×', R denotes '+' and S denotes '-', then what is the value of 16 Q 4 R 12 P 3 S 5?",
+    "options": ["58", "63", "65", "71"],
+    "correct": "63",
+    "explanation": "16 × 4 + (12 / 3) - 5 = 64 + 4 - 5 = 63."
+  },
+  {
+    "id": 135,
+    "category": "Reasoning",
+    "question": "A person starts walking north. After walking 4 km, he turns left and walks 3 km. How far is he now from his initial starting position?",
+    "options": ["5 km", "6 km", "7 km", "8 km"],
+    "correct": "5 km",
+    "explanation": "Forms a right-angled triangle. Hypotenuse = √(4² + 3²) = √25 = 5 km."
+  },
+  {
+    "id": 136,
+    "category": "Reasoning",
+    "question": "Find the missing number pair: 7 : 56 :: 9 : ?",
+    "options": ["72", "81", "90", "99"],
+    "correct": "90",
+    "explanation": "The pattern is n : n(n+1). So 7 : 7×8=56, and 9 : 9×10=90."
+  },
+  {
+    "id": 137,
+    "category": "Reasoning",
+    "question": "If 'blue' is called 'green', 'green' is called 'white', and 'white' is called 'black', what is the color of clear grass?",
+    "options": ["blue", "green", "white", "black"],
+    "correct": "white",
+    "explanation": "Grass is green, and according to the code, 'green' is called 'white'."
+  },
+  {
+    "id": 138,
+    "category": "Reasoning",
+    "question": "Which set best represents the logical union of: Doctors, Human Beings, Cows?",
+    "options": ["One small circle and one disjoint circle inside a large circle", "Three separate disjoint circles", "Three intersecting circles", "Two concentric circles and one completely disjoint circle"],
+    "correct": "Two concentric circles and one completely disjoint circle",
+    "explanation": "All Doctors are Human Beings (concentric circles), while Cows are completely separate and disjoint."
+  },
+  {
+    "id": 139,
+    "category": "Reasoning",
+    "question": "How many times do the hands of a clock overlap (coincide) in a full 24-hour day?",
+    "options": ["20", "21", "22", "24"],
+    "correct": "22",
+    "explanation": "Clock hands overlap exactly 11 times every 12 hours, which results in 22 times over 24 hours."
+  },
+  {
+    "id": 140,
+    "category": "Reasoning",
+    "question": "Find the missing alphanumeric term: B2D, E5G, H8J, ?",
+    "options": ["K11M", "K10M", "L11N", "J11M"],
+    "correct": "K11M",
+    "explanation": "First letters add +3 (B, E, H, K). Numbers add +3 (2, 5, 8, 11). Third letters add +3 (D, G, J, M)."
+  },
+  {
+    "id": 141,
+    "category": "Reasoning",
+    "question": "A is the brother of B. B is the daughter of C. D is the father of A. How is C related to D?",
+    "options": ["Sister", "Wife", "Mother", "Daughter"],
+    "correct": "Wife",
+    "explanation": "A and B are siblings. D is their father, and C is the mother since B is her daughter. C is D's wife."
+  },
+  {
+    "id": 142,
+    "category": "Reasoning",
+    "question": "Choose the best verbal analogy link: Pen : Write :: Knife : ?",
+    "options": ["Cut", "Sharp", "Steel", "Handle"],
+    "correct": "Cut",
+    "explanation": "A pen is functionally used to write; a knife is functionally used to cut."
+  },
+  {
+    "id": 143,
+    "category": "Reasoning",
+    "question": "In a class rank list, Sunita is 11th from the top and 27th from the bottom. Find the total number of students in the class.",
+    "options": ["37", "38", "39", "40"],
+    "correct": "37",
+    "explanation": "Total = Top + Bottom - 1 = 11 + 27 - 1 = 37."
+  },
+  {
+    "id": 144,
+    "category": "Reasoning",
+    "question": "Statements: Some actors are singers. All singers are dancers. Conclusion: I. Some actors are dancers. II. No singer is an actor.",
+    "options": ["Only conclusion I follows", "Only conclusion II follows", "Both follow", "Neither follows"],
+    "correct": "Only conclusion I follows",
+    "explanation": "Since some actors are singers and all singers are dancers, those specific singing actors are also dancers. Conclusion II is false."
+  },
+  {
+    "id": 145,
+    "category": "Reasoning",
+    "question": "If BOMBAY is written as MYMYMY, how will TAMILNADU be written?",
+    "options": ["TIUTIUTIU", "MNDMNDMND", "ALUALUALU", "TAUTAUTAU"],
+    "correct": "MNDMNDMND",
+    "explanation": "The pattern takes the 3rd, 6th, and 9th letters (M, N, D) and repeats them three times."
+  },
+  {
+    "id": 146,
+    "category": "Reasoning",
+    "question": "Find the relationship pair match: Scale : Length :: Odometer : ?",
+    "options": ["Speed", "Distance", "Time", "Current"],
+    "correct": "Distance",
+    "explanation": "A scale measures length; an odometer measures distance traveled by a vehicle."
+  },
+  {
+    "id": 147,
+    "category": "Reasoning",
+    "question": "Identify the missing block: BY, EV, GT, ?",
+    "options": ["IR", "KP", "JQ", "LO"],
+    "correct": "JQ",
+    "explanation": "First letters skip odd alphabet counts (+3, +2... or matching prime movements). B(+3)=E, E(+2)=G, G(+3)=J. Companion letters are opposites: J paired with Q."
+  },
+  {
+    "id": 148,
+    "category": "Reasoning",
+    "question": "Find the odd parameters group.",
+    "options": ["January", "March", "May", "June"],
+    "correct": "June",
+    "explanation": "January, March, and May all contain 31 days, whereas June contains only 30 days."
+  },
+  {
+    "id": 149,
+    "category": "Reasoning",
+    "question": "If 'A' is substituted by 1, 'B' by 2 and so on, what is total sum value of the letters in the word 'BAG'?",
+    "options": ["9", "10", "11", "12"],
+    "correct": "10",
+    "explanation": "B = 2, A = 1, G = 7. Total sum = 2 + 1 + 7 = 10."
+  },
+  {
+    "id": 150,
+    "category": "Reasoning",
+    "question": "How many meaningful independent English words can be formed from the word 'LAPTOP' without altering the sequence of letters?",
+    "options": ["One", "Two", "Three", "None"],
+    "correct": "Two",
+    "explanation": "The two distinct standalone words embedded are 'Lap' and 'Top'."
+  },
+  {
+    "id": 151,
+    "category": "English",
+    "question": "Select the synonym of the word: Eternal",
+    "options": ["Temporary", "Perpetual", "Short", "Ending"],
+    "correct": "Perpetual",
+    "explanation": "'Eternal' means lasting or existing forever; perpetual."
+  },
+  {
+    "id": 152,
+    "category": "English",
+    "question": "Select the antonym of the word: Despair",
+    "options": ["Hope", "Misery", "Gloom", "Sadness"],
+    "correct": "Hope",
+    "explanation": "'Despair' is the complete loss or absence of hope; its antonym is hope."
+  },
+  {
+    "id": 153,
+    "category": "English",
+    "question": "Identify the correctly spelled word.",
+    "options": ["Occurred", "Ocured", "Occured", "Occurrd"],
+    "correct": "Occurred",
+    "explanation": "The correct spelling requires double 'c' and double 'r'."
+  },
+  {
+    "id": 154,
+    "category": "English",
+    "question": "Fill in the blank: The team _______ playing well in the tournament.",
+    "options": ["is", "are", "were", "have"],
+    "correct": "is",
+    "explanation": "Collective nouns like 'team' take a singular verb when operating as a single unified body."
+  },
+  {
+    "id": 155,
+    "category": "English",
+    "question": "Choose the alternative which best expresses the meaning of the Idiom: 'Blessing in disguise'",
+    "options": ["A good thing that seemed bad at first", "A visible problem", "To dress up beautifully", "To help someone secretly"],
+    "correct": "A good thing that seemed bad at first",
+    "explanation": "A blessing in disguise is a misfortune that eventually results in a positive outcome."
+  },
+  {
+    "id": 156,
+    "category": "English",
+    "question": "Find the part of the sentence that contains an error: 'He has been / working here / since five years.'",
+    "options": ["He has been", "working here", "since five years", "No error"],
+    "correct": "since five years",
+    "explanation": "Use 'for' instead of 'since' when indicating a total duration of time (five years)."
+  },
+  {
+    "id": 157,
+    "category": "English",
+    "question": "Choose the word that can substitute the given phrase: 'A person who does not believe in God'",
+    "options": ["Theist", "Atheist", "Agnostic", "Ascetic"],
+    "correct": "Atheist",
+    "explanation": "An atheist is a person who disbelieves or lacks belief in the existence of God."
+  },
+  {
+    "id": 158,
+    "category": "English",
+    "question": "Select the passive voice form: 'The boy broke the window.'",
+    "options": ["The window is broken by the boy.", "The window was broken by the boy.", "The window had been broken by the boy.", "The window breaks by the boy."],
+    "correct": "The window was broken by the boy.",
+    "explanation": "Simple past voice structure converts to 'was/were + past participle'."
+  },
+  {
+    "id": 159,
+    "category": "English",
+    "question": "Choose the correct antonym for the word: Obscure",
+    "options": ["Clear", "Hidden", "Vague", "Dark"],
+    "correct": "Clear",
+    "explanation": "'Obscure' means uncertain, unclear, or hidden; its opposite is clear."
+  },
+  {
+    "id": 160,
+    "category": "English",
+    "question": "Fill in the blank: He jumped _______ the river to save the drowning child.",
+    "options": ["in", "into", "on", "to"],
+    "correct": "into",
+    "explanation": "Use 'into' to show motion from the outside toward the inside of a space."
+  },
+  {
+    "id": 161,
+    "category": "English",
+    "question": "Choose the correct synonym for the word: Courteous",
+    "options": ["Rude", "Polite", "Arrogant", "Impatient"],
+    "correct": "Polite",
+    "explanation": "'Courteous' means polite, respectful, and considerate in manner."
+  },
+  {
+    "id": 162,
+    "category": "English",
+    "question": "Identify the segment with an error: 'One of my friends / are / a doctor.'",
+    "options": ["One of my friends", "are", "a doctor", "No error"],
+    "correct": "are",
+    "explanation": "The true subject is 'One', which is singular and requires the singular verb 'is'."
+  },
+  {
+    "id": 163,
+    "category": "English",
+    "question": "Choose the option that best expresses the meaning of the idiom: 'Bite the bullet'",
+    "options": ["To get defeated", "To face a difficult situation with courage", "To act foolishly", "To make a loud noise"],
+    "correct": "To face a difficult situation with courage",
+    "explanation": "'Bite the bullet' means to endure a painful or difficult situation that is unavoidable."
+  },
+  {
+    "id": 164,
+    "category": "English",
+    "question": "Substitute the phrase with a single word: 'A life history of a person written by himself.'",
+    "options": ["Biography", "Autobiography", "Memoir", "History"],
+    "correct": "Autobiography",
+    "explanation": "An autobiography is a self-written account of one's own life history."
+  },
+  {
+    "id": 165,
+    "category": "English",
+    "question": "Select the indirect speech version: She said, 'I will leave tomorrow.'",
+    "options": ["She said that she will leave tomorrow.", "She said that she would leave the next day.", "She said that I would leave tomorrow.", "She told she is leaving tomorrow."],
+    "correct": "She said that she would leave the next day.",
+    "explanation": "'Will' changes to 'would' and 'tomorrow' changes to 'the next day' or 'the following day' in indirect speech."
+  },
+  {
+    "id": 166,
+    "category": "English",
+    "question": "Find the misspelled word.",
+    "options": ["Knowledge", "Maintenance", "Millennium", "Calender"],
+    "correct": "Calender",
+    "explanation": "The correct spelling for the system of organizing days is 'Calendar'."
+  },
+  {
+    "id": 167,
+    "category": "English",
+    "question": "Fill in the blank: Hard work is the key _______ success.",
+    "options": ["to", "for", "of", "with"],
+    "correct": "to",
+    "explanation": "The noun phrase 'key to success' is an established idiomatic expression."
+  },
+  {
+    "id": 168,
+    "category": "English",
+    "question": "Select the synonym of the word: Exquisite",
+    "options": ["Ugly", "Beautiful", "Common", "Rough"],
+    "correct": "Beautiful",
+    "explanation": "'Exquisite' means extremely beautiful and delicate."
+  },
+  {
+    "id": 169,
+    "category": "English",
+    "question": "Select the antonym of the word: Intentional",
+    "options": ["Accidental", "Deliberate", "Planned", "Calculated"],
+    "correct": "Accidental",
+    "explanation": "'Intentional' means done on purpose; its exact antonym is accidental."
+  },
+  {
+    "id": 170,
+    "category": "English",
+    "question": "Choose the best correction for the underline: She is **senior than** me in office.",
+    "options": ["senior to", "senior from", "more senior than", "No improvement"],
+    "correct": "senior to",
+    "explanation": "Adjectives ending in '-ior' like senior, junior, and superior take the preposition 'to' instead of 'than'."
+  },
+  {
+    "id": 171,
+    "category": "English",
+    "question": "Fill in the blank: He targets his work _______ great precision.",
+    "options": ["with", "by", "at", "for"],
+    "correct": "with",
+    "explanation": "The preposition 'with' correctly links the manner of action ('with great precision')."
+  },
+  {
+    "id": 172,
+    "category": "English",
+    "question": "Find the phrase meaning of: 'Cold comfort'",
+    "options": ["Slight satisfaction", "Absurd statement", "Very soothing feeling", "Severe sickness"],
+    "correct": "Slight satisfaction",
+    "explanation": "'Cold comfort' refers to poor or inadequate consolation that offers virtually no comfort."
+  },
+  {
+    "id": 173,
+    "category": "English",
+    "question": "One word substitution: 'An office with high salary but no work.'",
+    "options": ["Honorary", "Sinecure", "Insolvent", "Autocracy"],
+    "correct": "Sinecure",
+    "explanation": "A sinecure is a position requiring little or no work but providing a financial benefit."
+  },
+  {
+    "id": 174,
+    "category": "English",
+    "question": "Identify the error segment: 'The cattle / is grazing / in the field.'",
+    "options": ["The cattle", "is grazing", "in the field", "No error"],
+    "correct": "is grazing",
+    "explanation": "'Cattle' is a collective plural noun and therefore requires the plural verb 'are grazing'."
+  },
+  {
+    "id": 175,
+    "category": "English",
+    "question": "Fill in the blank: He is blind _______ his own faults.",
+    "options": ["to", "with", "of", "for"],
+    "correct": "to",
+    "explanation": "'Blind to' is an idiomatic phrase meaning refusing to notice or acknowledge something."
+  },
+  {
+    "id": 176,
+    "category": "General Awareness",
+    "question": "Which empire built the famous temples at Khajuraho?",
+    "options": ["Chola Empire", "Chandela Dynasty", "Maurya Empire", "Gupta Empire"],
+    "correct": "Chandela Dynasty",
+    "explanation": "The temples at Khajuraho were constructed by the Chandela Rajput dynasty between 950 and 1050 CE."
+  },
+  {
+    "id": 177,
+    "category": "General Awareness",
+    "question": "Which layer of the Earth is liquid or semi-fluid?",
+    "options": ["Crust", "Outer Core", "Inner Core", "Lithosphere"],
+    "correct": "Outer Core",
+    "explanation": "The Earth's outer core is a fluid layer composed of iron and nickel."
+  },
+  {
+    "id": 178,
+    "category": "General Awareness",
+    "question": "Sattriya is a traditional classical dance form of which Indian state?",
+    "options": ["Assam", "Manipur", "Odisha", "Kerala"],
+    "correct": "Assam",
+    "explanation": "Sattriya is an Indian classical dance form originating in the monasteries of Assam."
+  },
+  {
+    "id": 179,
+    "category": "General Awareness",
+    "question": "Which country is called the 'Land of White Elephants'?",
+    "options": ["India", "Thailand", "Kenya", "Sri Lanka"],
+    "correct": "Thailand",
+    "explanation": "Thailand is known as the Land of White Elephants because these animals are considered sacred royal symbols there."
+  },
+  {
+    "id": 180,
+    "category": "General Awareness",
+    "question": "Who acts as the ex-officio Chairman of the Rajya Sabha in India?",
+    "options": ["The President", "The Vice-President", "The Prime Minister", "The Speaker of Lok Sabha"],
+    "correct": "The Vice-President",
+    "explanation": "Article 64 states that the Vice-President of India shall be the ex-officio Chairman of the Rajya Sabha."
+  },
+  {
+    "id": 181,
+    "category": "General Awareness",
+    "question": "Who was the primary designer and architect of New Delhi?",
+    "options": ["Le Corbusier", "Sir Edwin Lutyens", "Shah Jahan", "Christopher Wren"],
+    "correct": "Sir Edwin Lutyens",
+    "explanation": "Sir Edwin Lutyens, along with Sir Herbert Baker, designed the administrative core of New Delhi."
+  },
+  {
+    "id": 182,
+    "category": "General Awareness",
+    "question": "Which water body connects the Mediterranean Sea to the Red Sea?",
+    "options": ["Panama Canal", "Suez Canal", "Palk Strait", "Gibraltar Strait"],
+    "correct": "Suez Canal",
+    "explanation": "The Suez Canal is an artificial sea-level waterway in Egypt connecting the Mediterranean Sea to the Red Sea."
+  },
+  {
+    "id": 183,
+    "category": "General Awareness",
+    "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in which year?",
+    "options": ["1915", "1920", "1930", "1942"],
+    "correct": "1920",
+    "explanation": "The Non-Cooperation Movement was organized by Mahatma Gandhi on 4 September 1920 following the Jallianwala Bagh massacre."
+  },
+  {
+    "id": 184,
+    "category": "General Awareness",
+    "question": "What is the common name for the chemical Compound 'Calcium Oxychloride'?",
+    "options": ["Baking Soda", "Bleaching Powder", "Washing Soda", "Plaster of Paris"],
+    "correct": "Bleaching Powder",
+    "explanation": "Calcium Oxychloride ($CaOCl_2$) is commonly known as bleaching powder."
+  },
+  {
+    "id": 185,
+    "category": "General Awareness",
+    "question": "Who was the first Indian woman to climb Mount Everest?",
+    "options": ["Santosh Yadav", "Bachendri Pal", "Arunima Sinha", "Premlata Agarwal"],
+    "correct": "Bachendri Pal",
+    "explanation": "Bachendri Pal became the first Indian woman to reach the summit of Mount Everest in 1984."
+  },
+  {
+    "id": 186,
+    "category": "General Awareness",
+    "question": "Which economic dynamic describes a situation of high inflation accompanied by low growth or recession?",
+    "options": ["Deflation", "Stagflation", "Hyperinflation", "Reflation"],
+    "correct": "Stagflation",
+    "explanation": "Stagflation is a combination of stagnant economic growth, high unemployment, and high inflation."
+  },
+  {
+    "id": 187,
+    "category": "General Awareness",
+    "question": "Which organ in the human body cleanses metabolic wastes from the blood stream?",
+    "options": ["Heart", "Lungs", "Kidneys", "Stomach"],
+    "correct": "Kidneys",
+    "explanation": "The kidneys act as biological filters that extract metabolic waste products from the blood."
+  },
+  {
+    "id": 188,
+    "category": "General Awareness",
+    "question": "Deficiency of iron in the human body typically leads to which condition?",
+    "options": ["Goitre", "Anemia", "Scurvy", "Rickets"],
+    "correct": "Anemia",
+    "explanation": "Iron deficiency results in lowered hemoglobin production, leading to anemia."
+  },
+  {
+    "id": 189,
+    "category": "General Awareness",
+    "question": "Where is the headquarters of the World Health Organization (WHO) located?",
+    "options": ["New York, USA", "Geneva, Switzerland", "Paris, France", "Vienna, Austria"],
+    "correct": "Geneva, Switzerland",
+    "explanation": "The World Health Organization is headquartered in Geneva, Switzerland."
+  },
+  {
+    "id": 190,
+    "category": "General Awareness",
+    "question": "Who was the Last Governor-General of independent India?",
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Dr. Rajendra Prasad", "Jawaharlal Nehru"],
+    "correct": "C. Rajagopalachari",
+    "explanation": "Chakravarti Rajagopalachari served as the last and only Indian Governor-General of India from 1948 to 1950."
+  },
+  {
+    "id": 191,
+    "category": "General Awareness",
+    "question": "What unit is used to measure the intensity or loudness of sound?",
+    "options": ["Hertz", "Decibel", "Joule", "Watt"],
+    "correct": "Decibel",
+    "explanation": "The decibel (dB) is a logarithmic unit used to express the ratio of a physical sound intensity to a reference level."
+  },
+  {
+    "id": 192,
+    "category": "General Awareness",
+    "question": "Who invented the Universal Periodic Table of chemical elements?",
+    "options": ["Dmitri Mendeleev", "John Dalton", "Niels Bohr", "Marie Curie"],
+    "correct": "Dmitri Mendeleev",
+    "explanation": "Russian chemist Dmitri Mendeleev published the first widely recognized periodic table in 1869."
+  },
+  {
+    "id": 193,
+    "category": "General Awareness",
+    "question": "Which scheduled list of the Indian Constitution contains allocations of seats for states in the Rajya Sabha?",
+    "options": ["Second Schedule", "Third Schedule", "Fourth Schedule", "Fifth Schedule"],
+    "correct": "Fourth Schedule",
+    "explanation": "The Fourth Schedule deals with the allocation of seats for States and Union Territories in the Rajya Sabha."
+  },
+  {
+    "id": 194,
+    "category": "General Awareness",
+    "question": "What is the official currency used in South Africa?",
+    "options": ["Dinar", "Rand", "Shilling", "Pound"],
+    "correct": "Rand",
+    "explanation": "The South African Rand (ZAR) is the official currency of South Africa."
+  },
+  {
+    "id": 195,
+    "category": "General Awareness",
+    "question": "What is the primary cause of global ocean tides?",
+    "options": ["Earth's internal heat", "Gravitational pull of the Moon and Sun", "Oceanic volcanic activity", "Strong trade winds"],
+    "correct": "Gravitational pull of the Moon and Sun",
+    "explanation": "Tides are long-period waves caused by the gravitational forces exerted by the Moon and the Sun on the oceans."
+  },
+  {
+    "id": 196,
+    "category": "General Awareness",
+    "question": "Who appoints the Comptroller and Auditor General (CAG) of India?",
+    "options": ["The Prime Minister", "The President", "The Chief Justice of India", "The Finance Minister"],
+    "correct": "The President",
+    "explanation": "The Comptroller and Auditor General of India is appointed by the President by warrant under his hand and seal."
+  },
+  {
+    "id": 197,
+    "category": "General Awareness",
+    "question": "In which state is the ancient historical archaeological site Lothal located?",
+    "options": ["Rajasthan", "Gujarat", "Punjab", "Haryana"],
+    "correct": "Gujarat",
+    "explanation": "Lothal was one of the southernmost cities of the ancient Indus Valley Civilization, located in modern-day Gujarat."
+  },
+  {
+    "id": 198,
+    "category": "General Awareness",
+    "question": "Which country is the largest producer of coffee in the world?",
+    "options": ["Colombia", "Vietnam", "Brazil", "Ethiopia"],
+    "correct": "Brazil",
+    "explanation": "Brazil is the world's leading producer of coffee, a position it has held for over a century."
+  },
+  {
+    "id": 199,
+    "category": "General Awareness",
+    "question": "What pigment gives human skin and hair its characteristic color shade?",
+    "options": ["Hemoglobin", "Melanin", "Keratin", "Chlorophyll"],
+    "correct": "Melanin",
+    "explanation": "Melanin is a complex biological pigment responsible for skin, hair, and eye color pigmentation."
+  },
+  {
+    "id": 200,
+    "category": "General Awareness",
+    "question": "Who was the author of the classical Sanskrit play 'Abhijnanasakuntalam'?",
+    "options": ["Kalidasa", "Tulsidas", "Valmiki", "Vyasa"],
+    "correct": "Kalidasa",
+    "explanation": "Abhijnanasakuntalam is a celebrated Sanskrit play written by the ancient Indian poet Kalidasa."
   }
 ]
