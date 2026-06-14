@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "Which section of the Reserve Bank of India Act, 1934 provides RBI with the sole right to issue bank notes in India?",
+    "options": [
+      "Section 21",
+      "Section 22",
+      "Section 24",
+      "Section 28"
+    ],
+    "correctAnswer": "Section 22",
+    "explanation": "Under Section 22 of the RBI Act, 1934, the Reserve Bank has the sole right to issue bank notes in India."
+  },
+  {
+    "id": 2,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "What is the maximum limit per transaction for a single payment transfer using Immediate Payment Service (IMPS)?",
+    "options": [
+      "₹1 Lakh",
+      "₹2 Lakh",
+      "₹5 Lakh",
+      "₹10 Lakh"
+    ],
+    "correctAnswer": "₹5 Lakh",
+    "explanation": "The limit for IMPS transactions was enhanced by the RBI from ₹2 Lakh to ₹5 Lakh for most channels to promote digital payments."
+  },
+  {
+    "id": 3,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "Under Basel III norms, what is the minimum Tier-1 Capital Adequacy Ratio required to be maintained by commercial Scheduled Banks in India (excluding Capital Conservation Buffer)?",
+    "options": [
+      "5.5%",
+      "7.0%",
+      "9.0%",
+      "11.5%"
+    ],
+    "correctAnswer": "7.0%",
+    "explanation": "Under RBI guidelines for Basel III, banks must maintain a minimum Tier-1 capital of 7% of Risk-Weighted Assets (RWA), where 5.5% must be Common Equity Tier 1 (CET1)."
+  },
+  {
+    "id": 4,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which of the following is correct regarding the implementation parameters of Payment Banks in India?",
+    "options": [
+      "They can offer both current and savings accounts but cannot issue credit cards.",
+      "They can give loans up to ₹1 Lakh per individual borrower.",
+      "They are exempt from maintaining Cash Reserve Ratio (CRR).",
+      "They can accept term deposits up to a maturity of 5 years."
+    ],
+    "correctAnswer": "They can offer both current and savings accounts but cannot issue credit cards.",
+    "explanation": "Payment banks can accept demand deposits (savings and current) up to a specified limit and cannot issue loans or credit cards."
+  },
+  {
+    "id": 5,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What is the primary target requirement for domestic Scheduled Commercial Banks for Priority Sector Lending (PSL) as a percentage of Adjusted Net Bank Credit (ANBC)?",
+    "options": [
+      "32%",
+      "40%",
+      "75%",
+      "18%"
+    ],
+    "correctAnswer": "40%",
+    "explanation": "Domestic scheduled commercial banks are mandated to allocate 40% of their Adjusted Net Bank Credit (ANBC) or CEOBE, whichever is higher, to the priority sector."
+  },
+  {
+    "id": 6,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "An account is classified as a Non-Performing Asset (NPA) if the interest or installment of principal remains overdue for more than how many days in a standard term loan account?",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "180 days"
+    ],
+    "correctAnswer": "90 days",
+    "explanation": "A standard asset turns into an NPA if interest or installment remains overdue for a period of more than 90 days."
+  },
+  {
+    "id": 7,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "What does the 'S' stand for in the RTGS settlement engine known as 'NSS', which coordinates system interactions?",
+    "options": [
+      "System",
+      "Settlement",
+      "Securities",
+      "Service"
+    ],
+    "correctAnswer": "Settlement",
+    "explanation": "NSS stands for National Settlement System, which helps centralize the settlement of various clearings across different centers."
+  },
+  {
+    "id": 8,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "Which regulator governs the mutual funds industry and the operations of Asset Management Companies (AMCs) in India?",
+    "options": [
+      "RBI",
+      "IRDAI",
+      "SEBI",
+      "PFRDA"
+    ],
+    "correctAnswer": "SEBI",
+    "explanation": "The Securities and Exchange Board of India (SEBI) is the regulatory body for the mutual funds market in India."
+  },
+  {
+    "id": 9,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "What is the minimum lock-in period for investments made under an Equity Linked Savings Scheme (ELSS) mutual fund?",
+    "options": [
+      "1 year",
+      "3 years",
+      "5 years",
+      "10 years"
+    ],
+    "correctAnswer": "3 years",
+    "explanation": "ELSS funds offer tax benefits under Section 80C and carry a mandatory lock-in period of 3 years, which is the shortest among tax-saving instruments."
+  },
+  {
+    "id": 10,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "Which financial ratio measures a company's ability to cover its short-term obligations using its absolute most liquid assets, completely excluding inventory and prepaid expenses?",
+    "options": [
+      "Current Ratio",
+      "Quick Ratio",
+      "Debt-to-Equity Ratio",
+      "Operating Margin"
+    ],
+    "correctAnswer": "Quick Ratio",
+    "explanation": "The Quick Ratio (or Acid-Test Ratio) measures short-term liquidity by evaluating assets that can be quickly converted to cash, excluding inventories."
+  },
+  {
+    "id": 11,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "When a company offers its shares to the public for the very first time to raise capital from institutional or retail investors, it is known as an:",
+    "options": [
+      "FPO",
+      "IPO",
+      "OFS",
+      "Right Issue"
+    ],
+    "correctAnswer": "IPO",
+    "explanation": "IPO stands for Initial Public Offering, which marks the transition of a private firm into a publicly traded corporation."
+  },
+  {
+    "id": 12,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "Which of the following financial instruments represents a long-term debt security issued by a corporation that is typically backed only by the general creditworthiness and reputation of the issuer rather than specific physical assets?",
+    "options": [
+      "Secured Bond",
+      "Debenture",
+      "Commercial Paper",
+      "Certificate of Deposit"
+    ],
+    "correctAnswer": "Debenture",
+    "explanation": "Debentures are unsecured or long-term debt instruments issued by corporations based on reputation and financial health without specific collateral backing."
+  },
+  {
+    "id": 13,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "What is the maximum investment limit permitted for an individual retail investor under the RBI Retail Direct Scheme to bid for Government Securities in a non-competitive auction per security?",
+    "options": [
+      "₹50 Lakh",
+      "₹1 Crore",
+      "₹2 Crore",
+      "₹5 Crore"
+    ],
+    "correctAnswer": "₹2 Crore",
+    "explanation": "Under the non-competitive bidding facility for G-Secs, a retail investor can place a bid for a maximum value of ₹2 Crore per auction."
+  },
+  {
+    "id": 14,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "Which organization in India is responsible for compiling and publishing the official Gross Domestic Product (GDP) data estimates?",
+    "options": [
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "National Statistical Office (NSO)",
+      "Ministry of Finance"
+    ],
+    "correctAnswer": "National Statistical Office (NSO)",
+    "explanation": "The National Statistical Office (NSO), which operates under the Ministry of Statistics and Programme Implementation (MoSPI), releases GDP estimates."
+  },
+  {
+    "id": 15,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "What index does the Monetary Policy Committee (MPC) of RBI use as its primary nominal anchor to measure and regulate headline retail inflation?",
+    "options": [
+      "Wholesale Price Index (WPI)",
+      "Consumer Price Index - Combined (CPI-C)",
+      "GDP Deflator",
+      "Index of Industrial Production (IIP)"
+    ],
+    "correctAnswer": "Consumer Price Index - Combined (CPI-C)",
+    "explanation": "The RBI uses the Consumer Price Index (Combined) as its principal standard to track and manage retail-level inflation within its 4% +/- 2% target range."
+  },
+  {
+    "id": 16,
+    "category": "Indian Economy",
+    "difficulty": "Hard",
+    "question": "The target fiscal deficit for a financial year is mapped out based on provisions under which legislation in India?",
+    "options": [
+      "Finance Act",
+      "FRBM Act, 2003",
+      "Banking Regulation Act, 1949",
+      "Contingency Fund of India Act"
+    ],
+    "correctAnswer": "FRBM Act, 2003",
+    "explanation": "The Fiscal Responsibility and Budget Management (FRBM) Act, 2003 guides the discipline, targets, and structural framework of India's fiscal deficit parameters."
+  },
+  {
+    "id": 17,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "Who chairs the Goods and Services Tax (GST) Council in India?",
+    "options": [
+      "Prime Minister of India",
+      "Union Finance Minister",
+      "Governor of RBI",
+      "NITI Aayog Vice-Chairman"
+    ],
+    "correctAnswer": "Union Finance Minister",
+    "explanation": "The Union Finance Minister acts as the ex-officio Chairperson of the constitutional GST Council."
+  },
+  {
+    "id": 18,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "The Narasimham Committee II (1998) recommendations were primarily focused on which structural segment of the Indian economy?",
+    "options": [
+      "Tax Reforms",
+      "Capital Market Reforms",
+      "Banking Sector Reforms",
+      "Insurance Sector Liberalization"
+    ],
+    "correctAnswer": "Banking Sector Reforms",
+    "explanation": "The Narasimham Committee II focused on structural asset management, prudential norms, and capital strengthening within the banking infrastructure."
+  },
+  {
+    "id": 19,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "What is the name of the unified mobile application launched under the authorization of the Ministry of Finance to offer access to multiple credit-linked central government schemes?",
+    "options": [
+      "Jan Samarth Portal",
+      "PM SVA Nidhi App",
+      "Udyami Mitra",
+      "DigiLocker Finance"
+    ],
+    "correctAnswer": "Jan Samarth Portal",
+    "explanation": "The Jan Samarth Portal provides an interactive digital gateway linking various credit-linked government subsidy schemes under a single digital window."
+  },
+  {
+    "id": 20,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "Under the PM Vishwakarma scheme launched by the Central Government, eligible traditional artisans are provided collateral-free enterprise development loans up to what maximum total limit across phases?",
+    "options": [
+      "₹1 Lakh",
+      "₹2 Lakh",
+      "₹3 Lakh",
+      "₹5 Lakh"
+    ],
+    "correctAnswer": "₹3 Lakh",
+    "explanation": "The PM Vishwakarma scheme offers credit support up to ₹3 Lakh in two tranches (₹1 Lakh for Tranche-I and ₹2 Lakh for Tranche-II) at a concessional interest rate."
+  },
+  {
+    "id": 21,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Hard",
+    "question": "Which entity acts as the centralized platform developer and clearing host engine for the Central Bank Digital Currency (CBDC-R) pilot e-Rupee in India?",
+    "options": [
+      "CDAC",
+      "NPCI",
+      "RBI Department of Currency Management",
+      "IFI Tas"
+    ],
+    "correctAnswer": "NPCI",
+    "explanation": "While RBI issues the digital token, the foundational infrastructure and technological routing for processing and settlement leverage networks maintained via NPCI ecosystems."
+  },
+  {
+    "id": 22,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest per annum?",
+    "options": [
+      "10.5%",
+      "12.5%",
+      "15.0%",
+      "16.66%"
+    ],
+    "correctAnswer": "12.5%",
+    "explanation": "If Principal = P, then Interest = P. Time = 8 years. Rate = (Interest * 100) / (P * Time) = (P * 100) / (P * 8) = 100/8 = 12.5%."
+  },
+  {
+    "id": 23,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "An asset worth ₹15,000 is sold at a loss of 20%. The money received is reinvested to purchase an item which is subsequently sold at a profit of 25%. What is the overall net profit or loss percentage?",
+    "options": [
+      "5% Profit",
+      "0% Profit or Loss",
+      "4% Loss",
+      "2% Profit"
+    ],
+    "correctAnswer": "0% Profit or Loss",
+    "explanation": "Using successive percentage: Net Change = -20 + 25 + ((-20)(25)/100) = +5 - 5 = 0%. Thus, there is no net profit or loss."
+  },
+  {
+    "id": 24,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "A and B can complete a piece of work in 12 days and 18 days respectively. They work together for 4 days, after which A leaves. B completes the remaining work alone. What is the total number of days taken to complete the work from start to finish?",
+    "options": [
+      "6 days",
+      "8 days",
+      "10 days",
+      "12 days"
+    ],
+    "correctAnswer": "12 days",
+    "explanation": "Total Work = LCM(12,18) = 36 units. Efficiency: A=3, B=2. Combined 4 days work = 4 * 5 = 20 units. Remaining = 16 units. Time taken by B alone = 16 / 2 = 8 days. Total days = 4 + 8 = 12 days."
+  },
+  {
+    "id": 25,
+    "category": "Reasoning Ability",
+    "difficulty": "Easy",
+    "question": "In a certain code language, if 'BANKING' is coded as 'CBOlJOH', how will 'FINANCE' be coded in that same system?",
+    "options": [
+      "GJOBODF",
+      "GJOCNDF",
+      "HKOBODF",
+      "GJOBOEF"
+    ],
+    "correctAnswer": "GJOBODF",
+    "explanation": "Each letter in the word is shifted forward by exactly one position (+1) in the alphabetical sequence: F->G, I->J, N->O, A->B, N->O, C->D, E->F."
+  },
+  {
+    "id": 26,
+    "category": "Reasoning Ability",
+    "difficulty": "Medium",
+    "question": "Pointing to a man, a woman says, 'His father is the only son of my grandfather.' How is the man in question related to that woman?",
+    "options": [
+      "Father",
+      "Brother",
+      "Uncle",
+      "Nephew"
+    ],
+    "correctAnswer": "Brother",
+    "explanation": "The only son of the woman's grandfather is her own father. If that person is also the man's father, the man is the woman's brother."
+  },
+  {
+    "id": 27,
+    "category": "Reasoning Ability",
+    "difficulty": "Hard",
+    "question": "Statements: Some debentures are bonds. All bonds are equity. No equity is a derivative. Conclusions: I. Some debentures are equity. II. No bond is a derivative.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Neither conclusion I nor II follows",
+      "Both conclusion I and II follow"
+    ],
+    "correctAnswer": "Both conclusion I and II follow",
+    "explanation": "Since some debentures are bonds and all bonds are equity, those specific debentures are equity (I follows). Since all bonds are inside equity and no equity is a derivative, no bond can intersect derivative (II follows)."
+  },
+  {
+    "id": 28,
+    "category": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "Which of the following transport protocols is primarily responsible for ensuring reliable, connection-oriented data delivery over the Internet?",
+    "options": [
+      "UDP",
+      "TCP",
+      "SMTP",
+      "FTP"
+    ],
+    "correctAnswer": "TCP",
+    "explanation": "TCP (Transmission Control Protocol) is a core connection-oriented protocol that guarantees packet delivery and integrity."
+  },
+  {
+    "id": 29,
+    "category": "Computer Awareness",
+    "difficulty": "Medium",
+    "question": "In MS Excel, what function formula can be used to search for a specific value in the leftmost column of a table array and return a value in the same row from another column?",
+    "options": [
+      "HLOOKUP",
+      "LOOKUP",
+      "VLOOKUP",
+      "INDEX-MATCH"
+    ],
+    "correctAnswer": "VLOOKUP",
+    "explanation": "VLOOKUP (Vertical Lookup) searches for a specified key in the first column of a vertical range and yields matching row values."
+  },
+  {
+    "id": 30,
+    "category": "Computer Awareness",
+    "difficulty": "Hard",
+    "question": "What security mechanism uses dedicated software or hardware rules to monitor and filter incoming or outgoing network traffic based on an organization’s previously established security policies?",
+    "options": [
+      "Malware Scanner",
+      "Firewall",
+      "Encryption Engine",
+      "Proxy Switch"
+    ],
+    "correctAnswer": "Firewall",
+    "explanation": "A firewall acts as a protective barrier filtering unauthorized network traffic based on predefined rule matrices."
+  },
+  {
+    "id": 31,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What does 'LAF' stand for in monetary policy operations conducted by the Reserve Bank of India?",
+    "options": [
+      "Liquidity Adjustment Facility",
+      "Loan Allocation Fund",
+      "Legal Asset Framework",
+      "Liquid Accountability Fund"
+    ],
+    "correctAnswer": "Liquidity Adjustment Facility",
+    "explanation": "LAF stands for Liquidity Adjustment Facility, which allows banks to borrow money through repurchase agreements (repos) or make loans to the RBI through reverse repos."
+  },
+  {
+    "id": 32,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which type of bank account is explicitly designed for businesses, handles a high volume of daily transactions, and does not yield interest payments under standard regulatory terms?",
+    "options": [
+      "Savings Account",
+      "Current Account",
+      "Fixed Deposit Account",
+      "Recurring Deposit Account"
+    ],
+    "correctAnswer": "Current Account",
+    "explanation": "Current accounts cater to businesses, offering overdraft options and high fluid operability while bearing no interest."
+  },
+  {
+    "id": 33,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "What is the specific minimum percentage of capital requirement assigned under the Basel framework's Countercyclical Capital Buffer (CCYB) when triggered by the central bank?",
+    "options": [
+      "0% to 2.5%",
+      "1.5% to 3.5%",
+      "0.5% to 2.0%",
+      "1.0% to 4.0%"
+    ],
+    "correctAnswer": "0% to 2.5%",
+    "explanation": "The Countercyclical Capital Buffer (CCYB) varies between 0% and 2.5% of Risk-Weighted Assets based on credit-to-GDP gap trends."
+  },
+  {
+    "id": 34,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What numeric length constitutes a standard Indian Financial System Code (IFSC) utilized during electronic fund transfers?",
+    "options": [
+      "9 digits",
+      "11 characters",
+      "12 characters",
+      "16 digits"
+    ],
+    "correctAnswer": "11 characters",
+    "explanation": "The IFSC is an 11-character alphanumeric code where the first four characters represent the bank name, the fifth is '0', and the last six represent the branch."
+  },
+  {
+    "id": 35,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which entity is the regulatory and administrative oversight body for Regional Rural Banks (RRBs) across India?",
+    "options": [
+      "SIDBI",
+      "NABARD",
+      "EXIM Bank",
+      "NHB"
+    ],
+    "correctAnswer": "NABARD",
+    "explanation": "NABARD (National Bank for Agriculture and Rural Development) supervises and monitors institutional regulations of RRBs."
+  },
+  {
+    "id": 36,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "What type of financial asset represents ownership interest in a corporation, giving the holder voting rights and a share in profits?",
+    "options": [
+      "Corporate Bond",
+      "Equity Share",
+      "Treasury Bill",
+      "Commercial Paper"
+    ],
+    "correctAnswer": "Equity Share",
+    "explanation": "Equity shares represent fractional ownership units in a corporation, providing residual claims and voting rights to holders."
+  },
+  {
+    "id": 37,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "What term is used to describe a market index condition when stock asset prices are steadily rising or expected to rise over a sustained period?",
+    "options": [
+      "Bear Market",
+      "Bull Market",
+      "Stagnant Market",
+      "Volatile Market"
+    ],
+    "correctAnswer": "Bull Market",
+    "explanation": "A bull market is characterized by sustained investor optimism, driving a consistent upward trajectory in equity values."
+  },
+  {
+    "id": 38,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "Which derivative contract gives the buyer the right, but not the obligation, to sell an underlying asset at a specified strike price before or at maturity?",
+    "options": [
+      "Call Option",
+      "Put Option",
+      "Futures Contract",
+      "Forward Swap"
+    ],
+    "correctAnswer": "Put Option",
+    "explanation": "A Put Option secures the right to sell an asset at a predetermined price, hedging against downward market movements."
+  },
+  {
+    "id": 39,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "What is the typical time duration of a standard Financial Year followed across administrative setups in India?",
+    "options": [
+      "January 1 to December 31",
+      "April 1 to March 31",
+      "July 1 to June 30",
+      "October 1 to September 30"
+    ],
+    "correctAnswer": "April 1 to March 31",
+    "explanation": "The Indian economic fiscal and accounting ledger operates starting from April 1 through March 31 of the succeeding year."
+  },
+  {
+    "id": 40,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "Which plan model laid specific foundational emphasis on rapid heavy industrialization during India's Second Five-Year Plan?",
+    "options": [
+      "Harrod-Domar Model",
+      "Mahalanobis Model",
+      "Gadgil Formula",
+      "Rao-Manmohan Plan"
+    ],
+    "correctAnswer": "Mahalanobis Model",
+    "explanation": "The Second Five-Year Plan (1956–1961) adapted the Mahalanobis model to catalyze industrial structural growth across state infrastructure."
+  },
+  {
+    "id": 41,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "What regulatory body manages the PM-DevINE initiative launched to fund infrastructure projects across the North-East region?",
+    "options": [
+      "Ministry of Finance",
+      "MDoNER",
+      "NITI Aayog",
+      "RBI Special Cell"
+    ],
+    "correctAnswer": "MDoNER",
+    "explanation": "The Ministry of Development of North Eastern Region (MDoNER) coordinates development goals under PM-DevINE."
+  },
+  {
+    "id": 42,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "What is the maximum limit of an annual premium under the PM Suraksha Bima Yojana (PMSBY) accident insurance cover?",
+    "options": [
+      "₹12",
+      "₹20",
+      "₹330",
+      "₹436"
+    ],
+    "correctAnswer": "₹20",
+    "explanation": "The annual premium for the PM Suraksha Bima Yojana accident cover is ₹20."
+  },
+  {
+    "id": 43,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "Solve for the missing term: 15% of 400 + 25% of 800 = ?",
+    "options": [
+      "220",
+      "240",
+      "260",
+      "280"
+    ],
+    "correctAnswer": "260",
+    "explanation": "15% of 400 = 60. 25% of 800 = 200. Sum = 60 + 200 = 260."
+  },
+  {
+    "id": 44,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The ratio of investments of P and Q in a partnership business is 4:5. If they earn a total profit of ₹27,000 at the end of a year, find P's share.",
+    "options": [
+      "₹12,000",
+      "₹15,000",
+      "₹10,800",
+      "₹16,200"
+    ],
+    "correctAnswer": "₹12,000",
+    "explanation": "P's share = (4 / 9) * 27,000 = 4 * 3,000 = ₹12,000."
+  },
+  {
+    "id": 45,
+    "category": "Reasoning Ability",
+    "difficulty": "Easy",
+    "question": "Six persons are sitting in a straight row facing North. If X sits third to the left of Y, and Y is at the extreme right end, who sits next to Y?",
+    "options": [
+      "X",
+      "Information insufficient",
+      "The person immediately to Y's left",
+      "No one since Y is at the end"
+    ],
+    "correctAnswer": "The person immediately to Y's left",
+    "explanation": "Since Y is at the extreme right end, the adjacent person can only sit to Y's immediate left."
+  },
+  {
+    "id": 46,
+    "category": "Reasoning Ability",
+    "difficulty": "Medium",
+    "question": "A man walks 10 meters East, takes a right turn and walks 5 meters, then takes another right turn and walks 10 meters. How far is he from his starting point?",
+    "options": [
+      "5 meters",
+      "10 meters",
+      "15 meters",
+      "0 meters"
+    ],
+    "correctAnswer": "5 meters",
+    "explanation": "The horizontal paths cancel each other out (10m East and 10m West), leaving a net separation equal to the 5m southward vertical drop."
+  },
+  {
+    "id": 47,
+    "category": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "Which device serves as the primary processing brain of a standard computer system?",
+    "options": [
+      "RAM",
+      "Hard Disk",
+      "CPU",
+      "Motherboard"
+    ],
+    "correctAnswer": "CPU",
+    "explanation": "The CPU (Central Processing Unit) interprets commands and carries out the primary tasks of a computer system."
+  },
+  {
+    "id": 48,
+    "category": "Computer Awareness",
+    "difficulty": "Medium",
+    "question": "What type of network topology hooks up all system nodes along a single shared central communication line?",
+    "options": [
+      "Star Topology",
+      "Ring Topology",
+      "Bus Topology",
+      "Mesh Topology"
+    ],
+    "correctAnswer": "Bus Topology",
+    "explanation": "Bus topology connects nodes via a single backbone cable serving as a shared transmission medium."
+  },
+  {
+    "id": 49,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "What does the abbreviation 'UIDAI' signify under data ecosystem maps in electronic verification processes?",
+    "options": [
+      "Unique Identification Authority of India",
+      "Universal Internet Data Association of India",
+      "Unified Identity Development Agency of India",
+      "User Identification Association for Inclusion"
+    ],
+    "correctAnswer": "Unique Identification Authority of India",
+    "explanation": "UIDAI is the statutory authority established to issue unique Aadhaar identities across India."
+  },
+  {
+    "id": 50,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "Which regulatory body manages rules governing insurance intermediaries and product distributions across India?",
+    "options": [
+      "SEBI",
+      "RBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "correctAnswer": "IRDAI",
+    "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) supervises and regulates the insurance industry."
+  },
+  {
+    "id": 51,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which of the following rates is used by the RBI to provide short-term liquidity to banks against the collateral of government securities under the Liquidity Adjustment Facility (LAF)?",
+    "options": [
+      "Repo Rate",
+      "Reverse Repo Rate",
+      "Bank Rate",
+      "Marginal Standing Facility Rate"
+    ],
+    "correctAnswer": "Repo Rate",
+    "explanation": "The Repo Rate is the key policy rate at which the RBI lends short-term money to commercial banks against government securities."
+  },
+  {
+    "id": 52,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "What is the maximum limit on loan amounts up to which eligible credit can be covered under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) scheme?",
+    "options": [
+      "₹1 Crore",
+      "₹2 Crore",
+      "₹5 Crore",
+      "₹10 Crore"
+    ],
+    "correctAnswer": "₹5 Crore",
+    "explanation": "The CGTMSE limit was enhanced to provide guarantee comfort for collateral-free credit limits up to ₹5 Crore for MSE units."
+  },
+  {
+    "id": 53,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What is the tenure range specified for a short-term financial instrument known as a Certificate of Deposit (CD) issued by commercial banks?",
+    "options": [
+      "7 days to 1 year",
+      "15 days to 2 years",
+      "30 days to 1 year",
+      "1 year to 3 years"
+    ],
+    "correctAnswer": "7 days to 1 year",
+    "explanation": "Certificates of Deposit issued by commercial banks carry a maturity period ranging from a minimum of 7 days up to a maximum of 1 year."
+  },
+  {
+    "id": 54,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which committee recommended the operational framework for setting up Small Finance Banks (SFBs) in India?",
+    "options": [
+      "Nachiket Mor Committee",
+      "Urjit Patel Committee",
+      "Bimal Jalan Committee",
+      "Raghuram Rajan Committee"
+    ],
+    "correctAnswer": "Nachiket Mor Committee",
+    "explanation": "The Committee on Comprehensive Financial Services for Small Businesses and Low Income Households, chaired by Dr. Nachiket Mor, proposed SFBs."
+  },
+  {
+    "id": 55,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "What percentage of Net Bank Credit must be directed to micro-enterprises within the overall sub-targets of Priority Sector Lending for domestic commercial banks?",
+    "options": [
+      "7.5%",
+      "8.0%",
+      "10.0%",
+      "12.5%"
+    ],
+    "correctAnswer": "7.5%",
+    "explanation": "Within the 40% PSL target, domestic commercial banks are required to lend 7.5% of ANBC to micro-enterprises."
+  },
+  {
+    "id": 56,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What is the minimum age required for an individual to open and operate a standard independent savings bank account in India?",
+    "options": [
+      "10 years",
+      "12 years",
+      "15 years",
+      "18 years"
+    ],
+    "correctAnswer": "10 years",
+    "explanation": "Minors aged 10 years and above are permitted to open and operate savings bank accounts independently with basic transaction guardrails."
+  },
+  {
+    "id": 57,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "What are open-ended mutual fund schemes?",
+    "options": [
+      "Schemes that allow investors to buy or sell units continuously at NAV-related prices.",
+      "Schemes that have a fixed maturity date and can only be bought during the NFO.",
+      "Schemes that trade exclusively on commodity exchanges.",
+      "Schemes reserved solely for High Net Worth Individuals."
+    ],
+    "correctAnswer": "Schemes that allow investors to buy or sell units continuously at NAV-related prices.",
+    "explanation": "Open-ended funds do not have a fixed maturity date and permit entry and exit for investors at any time based on the daily Net Asset Value (NAV)."
+  },
+  {
+    "id": 58,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "Which organizational platform serves as the central regulatory authority over corporate debt markets and stock exchanges in India?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "IRDAI",
+      "MCA"
+    ],
+    "correctAnswer": "SEBI",
+    "explanation": "The Securities and Exchange Board of India (SEBI) is the statutory body regulating the securities and capital markets."
+  },
+  {
+    "id": 59,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "What type of risk reflects the potential loss due to an explicit change in the market price or fair valuation of a financial asset driven by broader macroeconomic factors?",
+    "options": [
+      "Credit Risk",
+      "Operational Risk",
+      "Market Risk",
+      "Liquidity Risk"
+    ],
+    "correctAnswer": "Market Risk",
+    "explanation": "Market risk is the vulnerability of an investment portfolio to losses arising from shifts in equity prices, interest rates, or currency values."
+  },
+  {
+    "id": 60,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "What does the financial ratio 'P/E Ratio' explicitly compare when analyzing a public company’s equity stock performance?",
+    "options": [
+      "Price to Earnings",
+      "Profit to Equity",
+      "Premium to Expense",
+      "Principal to Earnings"
+    ],
+    "correctAnswer": "Price to Earnings",
+    "explanation": "The Price-to-Earnings (P/E) ratio compares a company's current share market price to its per-share earnings (EPS)."
+  },
+  {
+    "id": 61,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "What is the primary objective of a commercial entity launching a Public Issue of Bonds?",
+    "options": [
+      "To borrow long-term debt capital from public and institutional investors.",
+      "To dilute company ownership share to avoid taxes.",
+      "To convert existing short-term equity holdings into liquid cash.",
+      "To create immediate gold-backed collateral pools."
+    ],
+    "correctAnswer": "To borrow long-term debt capital from public and institutional investors.",
+    "explanation": "A public bond issue is a mechanism used by corporations or governments to raise debt capital directly from retail and institutional markets."
+  },
+  {
+    "id": 62,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "What term describes a persistent and pervasive rise in the general price level of goods and services, resulting in a decline in currency purchasing power?",
+    "options": [
+      "Stagflation",
+      "Deflation",
+      "Inflation",
+      "Depreciation"
+    ],
+    "correctAnswer": "Inflation",
+    "explanation": "Inflation is the quantitative measure of the rate at which the average price level of a basket of selected goods and services increases over time."
+  },
+  {
+    "id": 63,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "Which policy is formulated by the Ministry of Finance to manage government revenue collection through taxes and target public expenditures?",
+    "options": [
+      "Monetary Policy",
+      "Fiscal Policy",
+      "Trade Policy",
+      "Credit Policy"
+    ],
+    "correctAnswer": "Fiscal Policy",
+    "explanation": "Fiscal policy refers to the strategic use of government spending and taxation to influence and stabilize the national economy."
+  },
+  {
+    "id": 64,
+    "category": "Indian Economy",
+    "difficulty": "Hard",
+    "question": "What concept represents the total market value of all final goods and services produced by the citizens and factors of production of a country, regardless of geographical location, within a given timeframe?",
+    "options": [
+      "Gross Domestic Product",
+      "Gross National Product",
+      "Net Domestic Product",
+      "Net National Income"
+    ],
+    "correctAnswer": "Gross National Product",
+    "explanation": "Gross National Product (GNP) calculates production values based on ownership citizenship, adding net income from abroad to GDP parameters."
+  },
+  {
+    "id": 65,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "Which financial document provides a detailed assessment of the economy's performance over the preceding year and is presented in Parliament a day before the Union Budget?",
+    "options": [
+      "Fiscal Roadmap",
+      "Economic Survey",
+      "Annual Financial Statement",
+      "Demands for Grants"
+    ],
+    "correctAnswer": "Economic Survey",
+    "explanation": "The Economic Survey of India is an annual document prepared by the Department of Economic Affairs, reviewing the state of the economy."
+  },
+  {
+    "id": 66,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "What is the primary target group for the PM SVANidhi scheme implemented by the central government?",
+    "options": [
+      "Street Vendors",
+      "Marginalized Farmers",
+      "MSME Directors",
+      "Unemployed Youth"
+    ],
+    "correctAnswer": "Street Vendors",
+    "explanation": "PM SVANidhi (PM Street Vendor’s AtmaNirbhar Nidhi) is a special micro-credit facility scheme providing affordable working capital loans to street vendors."
+  },
+  {
+    "id": 67,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "Which platform serves as the open network infrastructure supported by the government to democratize e-commerce and retail digital payment ecosystems?",
+    "options": [
+      "UPI",
+      "ONDC",
+      "BBPS",
+      "AEPS"
+    ],
+    "correctAnswer": "ONDC",
+    "explanation": "ONDC (Open Network for Digital Commerce) is an initiative designed to establish an open platform for all aspects of electronic commerce."
+  },
+  {
+    "id": 68,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Hard",
+    "question": "Under current guidelines, what is the maximum total balance an individual customer can hold in their savings bank wallet at a Payment Bank at the end of the business day?",
+    "options": [
+      "₹1 Lakh",
+      "₹2 Lakh",
+      "₹5 Lakh",
+      "₹10 Lakh"
+    ],
+    "correctAnswer": "₹2 Lakh",
+    "explanation": "The RBI enhanced the maximum end-of-day balance limit for payment banks from ₹1 Lakh to ₹2 Lakh per individual customer."
+  },
+  {
+    "id": 69,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "A trader marks up an item by 30% and then offers a discount of 10%. What is his net profit percentage?",
+    "options": [
+      "20%",
+      "17%",
+      "15%",
+      "18%"
+    ],
+    "correctAnswer": "17%",
+    "explanation": "Let Cost Price = 100. Marked Price = 130. Discount = 10% of 130 = 13. Selling Price = 130 - 13 = 117. Net profit = 17%."
+  },
+  {
+    "id": 70,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "The average age of a group of 10 banking employees increases by 2 years when one employee aged 24 is replaced by a new recruit. Find the age of the new recruit.",
+    "options": [
+      "34 years",
+      "44 years",
+      "40 years",
+      "38 years"
+    ],
+    "correctAnswer": "44 years",
+    "explanation": "Total age increase = 10 employees * 2 years = 20 years. Age of new recruit = Age of replaced employee + total increase = 24 + 20 = 44 years."
+  },
+  {
+    "id": 71,
+    "category": "Reasoning Ability",
+    "difficulty": "Easy",
+    "question": "If 'A' means '+', 'B' means '-', 'C' means '×' and 'D' means '÷', evaluate the value of the following expression: 20 C 4 A 10 B 6 D 2",
+    "options": [
+      "87",
+      "84",
+      "76",
+      "91"
+    ],
+    "correctAnswer": "87",
+    "explanation": "Substituting the operational signs: 20 × 4 + 10 - (6 ÷ 2) = 80 + 10 - 3 = 90 - 3 = 87."
+  },
+  {
+    "id": 72,
+    "category": "Reasoning Ability",
+    "difficulty": "Medium",
+    "question": "In a linear row facing North, P sits 4th to the left of Q. If R sits exactly in the middle of P and Q, what is the position of R relative to P?",
+    "options": [
+      "Second to the right",
+      "Immediate right",
+      "Third to the right",
+      "Second to the left"
+    ],
+    "correctAnswer": "Second to the right",
+    "explanation": "Since there are 3 positions separating P and Q, the exact center position is 2 steps away from either side, placing R second to the right of P."
+  },
+  {
+    "id": 73,
+    "category": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "What type of volatile memory holds data and instructions currently being actively utilized by the central processor?",
+    "options": [
+      "ROM",
+      "Hard Disk",
+      "RAM",
+      "Cache"
+    ],
+    "correctAnswer": "RAM",
+    "explanation": "RAM (Random Access Memory) is the primary volatile system memory used to hold active runtime data."
+  },
+  {
+    "id": 74,
+    "category": "Computer Awareness",
+    "difficulty": "Medium",
+    "question": "What is the name of the malicious software design category constructed explicitly to block access to a computer system until a specific sum of money is paid?",
+    "options": [
+      "Spyware",
+      "Ransomware",
+      "Adware",
+      "Trojan Horse"
+    ],
+    "correctAnswer": "Ransomware",
+    "explanation": "Ransomware is a sub-class of malware that encrypts files and demands payment in exchange for a decryption key."
+  },
+  {
+    "id": 75,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which of the following is a paper-based clearing mechanism managed by the National Payments Corporation of India (NPCI) for interbank checks?",
+    "options": [
+      "CTS",
+      "ACH",
+      "EFT",
+      "RTGS"
+    ],
+    "correctAnswer": "CTS",
+    "explanation": "CTS stands for Cheque Truncation System, an image-based check clearing system that replaces physical movement of paper checks."
+  },
+  {
+    "id": 76,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "What is the capital requirement for setting up a universal commercial bank in India under the RBI's on-tap licensing guidelines?",
+    "options": [
+      "₹200 Crore",
+      "₹300 Crore",
+      "₹500 Crore",
+      "₹1000 Crore"
+    ],
+    "correctAnswer": "₹1000 Crore",
+    "explanation": "The RBI's guidelines mandate a minimum initial paid-up voting equity capital of ₹1000 Crore for establishing a new universal commercial bank."
+  },
+  {
+    "id": 77,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "Which facility allows individual bank account holders to withdraw money beyond their available net account balances up to an approved limit?",
+    "options": [
+      "Term Loan",
+      "Cash Credit",
+      "Overdraft",
+      "Letter of Credit"
+    ],
+    "correctAnswer": "Overdraft",
+    "explanation": "An Overdraft is a credit facility that enables an account holder to draw funds exceeding their actual credit balance within defined boundaries."
+  },
+  {
+    "id": 78,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "What does the abbreviation 'BCSBI' stand for in institutional banking codes and customer service monitoring frameworks?",
+    "options": [
+      "Banking Codes and Standards Board of India",
+      "Bureau of Credit and Savings Bureau of India",
+      "Board for Core Services and Banking Integration",
+      "Banking Compliance and Security Bureau of India"
+    ],
+    "correctAnswer": "Banking Codes and Standards Board of India",
+    "explanation": "BCSBI was an independent institutional watchdog set up to monitor fairness and service code delivery transparency in Indian banking."
+  },
+  {
+    "id": 79,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "Under PCA (Prompt Corrective Action) frameworks, which of the following acts as a core financial performance metric monitored by the RBI to evaluate structural asset health?",
+    "options": [
+      "Net NPA Ratio",
+      "Credit-Deposit Ratio",
+      "Cost-to-Income Ratio",
+      "Operating Profit Margin"
+    ],
+    "correctAnswer": "Net NPA Ratio",
+    "explanation": "The RBI monitors metrics such as Capital Adequacy, Net NPA ratio, and Leverage under the structural PCA framework."
+  },
+  {
+    "id": 80,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What standard system is used by banks to globally route international financial messaging transfers securely between member banks?",
+    "options": [
+      "CHIPS",
+      "SWIFT",
+      "FEDWIRE",
+      "TARGET2"
+    ],
+    "correctAnswer": "SWIFT",
+    "explanation": "SWIFT (Society for Worldwide Interbank Financial Telecommunication) provides the standardized network structure utilized for international financial messaging."
+  },
+  {
+    "id": 81,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "What component serves as the underlying measure of an individual unit's price evaluation in a Mutual Fund scheme?",
+    "options": [
+      "Market Price",
+      "Face Value",
+      "Net Asset Value (NAV)",
+      "Book Value"
+    ],
+    "correctAnswer": "Net Asset Value (NAV)",
+    "explanation": "Net Asset Value (NAV) represents the performance value per unit of a mutual fund scheme on any given business day."
+  },
+  {
+    "id": 82,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "Which institutional setup handles registration and investor verification processes for domestic capital markets under SEBI guidelines?",
+    "options": [
+      "NADA",
+      "KRA (KYC Registration Agency)",
+      "AMFI",
+      "IRDAI Bureau"
+    ],
+    "correctAnswer": "KRA (KYC Registration Agency)",
+    "explanation": "KYC Registration Agencies (KRAs) are entities registered with SEBI to maintain centralized KYC data records for capital market participants."
+  },
+  {
+    "id": 83,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "What is the primary feature of a Zero-Coupon Bond?",
+    "options": [
+      "It offers a variable interest rate tied to inflation.",
+      "It pays interest on a semi-annual basis.",
+      "It is issued at a deep discount to face value and pays no periodic interest.",
+      "It converts into equity shares automatically upon maturity."
+    ],
+    "correctAnswer": "It is issued at a deep discount to face value and pays no periodic interest.",
+    "explanation": "Zero-Coupon Bonds do not pay periodic interest; instead, they are issued at a discount and redeemed at full face value upon maturity."
+  },
+  {
+    "id": 84,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "Which index tracks changes in stock market capitalization values across the oldest equity market exchange in India (BSE)?",
+    "options": [
+      "NIFTY 50",
+      "SENSEX",
+      "BANK NIFTY",
+      "MSEI Index"
+    ],
+    "correctAnswer": "SENSEX",
+    "explanation": "The SENSEX is the benchmark index of the Bombay Stock Exchange (BSE), tracking the performance of 30 well-established companies."
+  },
+  {
+    "id": 85,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "What financial institution acts as the exclusive national refinancing agency for housing finance companies in India?",
+    "options": [
+      "NABARD",
+      "SIDBI",
+      "National Housing Bank (NHB)",
+      "EXIM Bank"
+    ],
+    "correctAnswer": "National Housing Bank (NHB)",
+    "explanation": "The National Housing Bank (NHB) is tasked with promoting and refinancing housing finance institutions at regional and local levels."
+  },
+  {
+    "id": 86,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "What baseline year is currently utilized by the National Statistical Office (NSO) for computing real GDP index estimates in India?",
+    "options": [
+      "2004-05",
+      "2011-12",
+      "2018-19",
+      "2020-21"
+    ],
+    "correctAnswer": "2011-12",
+    "explanation": "The base year for national income accounting and GDP calculation estimates in India is 2011-12."
+  },
+  {
+    "id": 87,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following describes a situation where an economy experiences low growth or recession alongside persistent high inflation?",
+    "options": [
+      "Hyperinflation",
+      "Stagflation",
+      "Deflation",
+      "Disinflation"
+    ],
+    "correctAnswer": "Stagflation",
+    "explanation": "Stagflation occurs when economic growth slows, unemployment rises, and consumer price inflation remains high."
+  },
+  {
+    "id": 88,
+    "category": "Indian Economy",
+    "difficulty": "Hard",
+    "question": "What financial concept measures the net difference between a country's total export value of goods/services and its total import value over a given period?",
+    "options": [
+      "Fiscal Deficit",
+      "Current Account Balance",
+      "Capital Account Matrix",
+      "Revenue Deficit"
+    ],
+    "correctAnswer": "Current Account Balance",
+    "explanation": "The Current Account balance records net trade values in goods and services along with cross-border transfer payments."
+  },
+  {
+    "id": 89,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "Which statutory body was established to replace the Planning Commission and offer strategic policy inputs for development programs in India?",
+    "options": [
+      "Finance Commission",
+      "NITI Aayog",
+      "National Development Council",
+      "Economic Advisory Council"
+    ],
+    "correctAnswer": "NITI Aayog",
+    "explanation": "NITI Aayog (National Institution for Transforming India) was established on January 1, 2015, as a policy think tank replacing the Planning Commission."
+  },
+  {
+    "id": 90,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "What is the maximum financing limit allowed per Mudra loan under the 'Tarun' category classification of PMMY?",
+    "options": [
+      "₹50,000",
+      "₹5 Lakh",
+      "₹10 Lakh",
+      "₹20 Lakh"
+    ],
+    "correctAnswer": "₹10 Lakh",
+    "explanation": "Mudra loans under the Pradhan Mantri Mudra Yojana are categorized into Shishu (up to ₹50,000), Kishor (above ₹50,000 to ₹5 Lakh), and Tarun (above ₹5 Lakh to ₹10 Lakh)."
+  },
+  {
+    "id": 91,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "Which organization manages the national infrastructure grid processing Aadhaar Enabled Payment System (AePS) cardless ATM validation services?",
+    "options": [
+      "UIDAI Bureau",
+      "NPCI",
+      "CDAC India",
+      "RBI Systems Division"
+    ],
+    "correctAnswer": "NPCI",
+    "explanation": "The National Payments Corporation of India (NPCI) operates and clear balances processed through the AePS network core."
+  },
+  {
+    "id": 92,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Hard",
+    "question": "What percentage equity holding must a promoting corporate house maintain for at least the initial 4 years when launching a Small Finance Bank?",
+    "options": [
+      "26%",
+      "40%",
+      "51%",
+      "74%"
+    ],
+    "correctAnswer": "40%",
+    "explanation": "SFB regulatory guidelines mandate promoters to maintain a minimum of 40% of the paid-up voting equity capital for a lock-in period of 4 years."
+  },
+  {
+    "id": 93,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "If an asset's cost increases from ₹8,000 to ₹10,000, what is the net percentage growth rate?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "15%"
+    ],
+    "correctAnswer": "25%",
+    "explanation": "Net increase = 10,000 - 8,000 = 2,000. Percentage growth = (2,000 / 8,000) * 100 = 25%."
+  },
+  {
+    "id": 94,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A sum of money invested at compound interest amounts to ₹4,840 in 2 years and to ₹5,324 in 3 years. Find the rate of interest per annum.",
+    "options": [
+      "8%",
+      "10%",
+      "12%",
+      "5%"
+    ],
+    "correctAnswer": "10%",
+    "explanation": "Interest for the third year = 5,324 - 4,840 = ₹484. Rate of interest = (484 / 4,840) * 100 = 10%."
+  },
+  {
+    "id": 95,
+    "category": "Reasoning Ability",
+    "difficulty": "Easy",
+    "question": "In an alphabetical grouping logic, if 'CAT' is written as 'DDY', how is 'BIG' written in that scheme?",
+    "options": [
+      "CLL",
+      "CLK",
+      "CMK",
+      "DKL"
+    ],
+    "correctAnswer": "CLL",
+    "explanation": "The shifting pattern adds increasingly larger numbers to each letter: C (+1)->D, A (+3)->D, T (+5)->Y. Applying this to BIG: B (+1)->C, I (+3)->L, G (+5)->L."
+  },
+  {
+    "id": 96,
+    "category": "Reasoning Ability",
+    "difficulty": "Medium",
+    "question": "If K is the brother of L, M is the daughter of L, and N is the husband of M, how is L related to N?",
+    "options": [
+      "Father-in-law or Mother-in-law",
+      "Uncle",
+      "Brother-in-law",
+      "Father"
+    ],
+    "correctAnswer": "Father-in-law or Mother-in-law",
+    "explanation": "Since M is L's daughter and N is married to M, L is a parent to N's spouse. Without an explicit gender for L, L is either the father-in-law or mother-in-law."
+  },
+  {
+    "id": 97,
+    "category": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "What is the primary function of a standard router device inside local networking grids?",
+    "options": [
+      "To convert digital signals into analog signals over copper wires.",
+      "To route and forward data packets across separate computer networks.",
+      "To scan attached drives for virus payloads.",
+      "To display visual layouts on structural screens."
+    ],
+    "correctAnswer": "To route and forward data packets across separate computer networks.",
+    "explanation": "A router is a network device that forwards data packets between computer networks, managing traffic routing protocols."
+  },
+  {
+    "id": 98,
+    "category": "Computer Awareness",
+    "difficulty": "Medium",
+    "question": "Which shortcut key combination is used to permanently delete an item from a local machine running MS Windows without moving it to the Recycle Bin?",
+    "options": [
+      "Ctrl + Delete",
+      "Shift + Delete",
+      "Alt + Delete",
+      "Ctrl + Shift + Delete"
+    ],
+    "correctAnswer": "Shift + Delete",
+    "explanation": "Pressing Shift + Delete bypasses the Recycle Bin storage repository, permanently removing the selected object."
+  },
+  {
+    "id": 99,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "What does the abbreviation 'SARFAESI' primarily relate to in Indian credit collection regulation matrices?",
+    "options": [
+      "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
+      "Securities Asset Risk Management and Financial Audit for Economic Stability Institutions",
+      "Standard Accountability Matrix for Recovery of Funds and Enforcement of Security Interest",
+      "Systemic Resolution for Asset Reconstruction and Financial Enforcement Settlement Infrastructure"
+    ],
+    "correctAnswer": "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
+    "explanation": "The SARFAESI Act of 2002 allows Indian banks to auction residential or commercial properties to recover non-performing assets without court intervention."
+  },
+  {
+    "id": 100,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "What type of financial investment instrument pools funds from multiple institutional investors to invest in real estate income properties, acting like a stock?",
+    "options": [
+      "InvITs",
+      "REITs",
+      "Mutual Fund Corporate Bonds",
+      "ELSS Capital Funds"
+    ],
+    "correctAnswer": "REITs",
+    "explanation": "REITs (Real Estate Investment Trusts) own and operate income-producing real estate, allowing individuals to buy fractional shares in property portfolios."
+  },
+  {
+    "id": 101,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What is the primary function of the Banking Ombudsman appointed by the Reserve Bank of India?",
+    "options": [
+      "To audit the annual financial statements of public sector banks",
+      "To resolve customer complaints regarding deficiencies in banking services",
+      "To regulate the call money market rates",
+      "To oversee the printing and distribution of physical banknotes"
+    ],
+    "correctAnswer": "To resolve customer complaints regarding deficiencies in banking services",
+    "explanation": "The Banking Ombudsman Scheme is a quasi-judicial authority created to resolve complaints as an alternative, cost-effective forum for bank customers."
+  },
+  {
+    "id": 102,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which of the following bodies handles the clearing and settlement of all interbank transactions in government securities and money market instruments in India?",
+    "options": [
+      "National Stock Exchange (NSE)",
+      "Clearing Corporation of India Limited (CCIL)",
+      "Securities and Exchange Board of India (SEBI)",
+      "National Payments Corporation of India (NPCI)"
+    ],
+    "correctAnswer": "Clearing Corporation of India Limited (CCIL)",
+    "explanation": "CCIL provides guaranteed clearing and settlement functions for transactions in government securities, foreign exchange, and money markets."
+  },
+  {
+    "id": 103,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "Under the current prompt corrective action (PCA) framework, what is the maximum Net NPA threshold beyond which a bank is placed in Risk Threshold 3?",
+    "options": [
+      "Greater than 6.0%",
+      "Greater than 9.0%",
+      "Greater than 12.0%",
+      "Greater than 15.0%"
+    ],
+    "correctAnswer": "Greater than 12.0%",
+    "explanation": "Under the revised PCA guidelines, a Net NPA ratio exceeding 12% breaches the severe Risk Threshold 3, prompting extreme structural restrictions by the RBI."
+  },
+  {
+    "id": 104,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What does 'SLR' stand for in the context of statutory reserve specifications applied to commercial banks in India?",
+    "options": [
+      "Statutory Liquidity Ratio",
+      "Standard Loan Recovery",
+      "Systemic Liquidity Requirement",
+      "Securitized Leverage Ratio"
+    ],
+    "correctAnswer": "Statutory Liquidity Ratio",
+    "explanation": "SLR is the mandatory reserve that commercial banks must maintain in the form of gold, cash, or approved government securities before providing credit."
+  },
+  {
+    "id": 105,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which type of bank account can be opened in India by a Non-Resident Indian (NRI) to deposit their foreign earnings, where both principal and interest are fully repatriable?",
+    "options": [
+      "NRO Account (Non-Resident Ordinary)",
+      "NRE Account (Non-Resident External Account)",
+      "RFC Account (Resident Foreign Currency)",
+      "SNRR Account"
+    ],
+    "correctAnswer": "NRE Account (Non-Resident External Account)",
+    "explanation": "NRE accounts allow NRIs to park foreign currency earnings converted into INR. Funds held in these accounts are tax-free and fully repatriable."
+  },
+  {
+    "id": 106,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "What is the maximum financing limit allowed under the 'Kishor' category profile of the Pradhan Mantri Mudra Yojana (PMMY)?",
+    "options": [
+      "₹50,000",
+      "₹2 Lakh",
+      "₹5 Lakh",
+      "₹10 Lakh"
+    ],
+    "correctAnswer": "₹5 Lakh",
+    "explanation": "The 'Kishor' category covers loans above ₹50,000 and up to a maximum limit of ₹5 Lakh to support business establishing phases."
+  },
+  {
+    "id": 107,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "Under Basel III norms implemented by the RBI, what is the specific target ratio mandated for the Liquidity Coverage Ratio (LCR) to endure a 30-day acute stress scenario?",
+    "options": [
+      "75%",
+      "85%",
+      "100%",
+      "110%"
+    ],
+    "correctAnswer": "100%",
+    "explanation": "Banks are required to maintain an LCR of 100%, meaning they must hold sufficient High-Quality Liquid Assets (HQLA) to survive a severe 30-day stress period."
+  },
+  {
+    "id": 108,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What is the full expansion of the digital banking clearing acronym 'NEFT'?",
+    "options": [
+      "National Electronic Funds Transfer",
+      "National Economic Financial Transaction",
+      "Net Electronic Fund Transaction",
+      "National Network for Electronic Funds Transfer"
+    ],
+    "correctAnswer": "National Electronic Funds Transfer",
+    "explanation": "NEFT is a nationwide electronic fund transfer system maintained by the RBI that processes electronic money transfers in hourly batches."
+  },
+  {
+    "id": 109,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which institutional category is strictly mandated to allocate a higher sub-target of 75% of their Adjusted Net Bank Credit (ANBC) to the Priority Sector Lending (PSL) pool?",
+    "options": [
+      "Public Sector Banks",
+      "Foreign Banks with more than 20 branches",
+      "Regional Rural Banks (RRBs)",
+      "Private Sector Universal Banks"
+    ],
+    "correctAnswer": "Regional Rural Banks (RRBs)",
+    "explanation": "Due to their rural focus, Regional Rural Banks and Small Finance Banks are required to allocate 75% of their ANBC to Priority Sector Lending."
+  },
+  {
+    "id": 110,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "In structural loan classifications, an asset is designated as a 'Doubtful Asset' if it has remained in the standard NPA Sub-Standard category for a continuous duration of how many months?",
+    "options": [
+      "6 months",
+      "12 months",
+      "18 months",
+      "24 months"
+    ],
+    "correctAnswer": "12 months",
+    "explanation": "An asset is classified as sub-standard for a period less than or equal to 12 months. If it stays overdue past 12 months, it is downgraded to a Doubtful Asset."
+  },
+  {
+    "id": 111,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "Which entity manages and hosts the unified technology grid utilized to execute immediate mobile transactions via Unified Payments Interface (UPI)?",
+    "options": [
+      "Reserve Bank of India",
+      "Department of Financial Services",
+      "National Payments Corporation of India (NPCI)",
+      "State Bank of India"
+    ],
+    "correctAnswer": "National Payments Corporation of India (NPCI)",
+    "explanation": "NPCI is the specialized retail payment infrastructure utility that designed, operates, and updates the core UPI engine."
+  },
+  {
+    "id": 112,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which of the following is correct regarding the structural operational framework of a Small Finance Bank (SFB) in India?",
+    "options": [
+      "They cannot extend credit lines to retail individuals.",
+      "They must extend at least 50% of their loans as small tickets up to ₹25 Lakh.",
+      "They are entirely exempt from maintaining the statutory Cash Reserve Ratio (CRR).",
+      "They cannot establish physical branches without central corporate permission."
+    ],
+    "correctAnswer": "They must extend at least 50% of their loans as small tickets up to ₹25 Lakh.",
+    "explanation": "To reinforce low-income lending, SFBs are required to ensure that at least 50% of their total loan portfolio consists of loans up to ₹25 Lakh."
+  },
+  {
+    "id": 113,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "What is the maximum limit on aggregate funds deposit insurance cover provided per depositor across branches of a single bank by the DICGC?",
+    "options": [
+      "₹1 Lakh",
+      "₹2 Lakh",
+      "₹5 Lakh",
+      "₹10 Lakh"
+    ],
+    "correctAnswer": "₹5 Lakh",
+    "explanation": "The Deposit Insurance and Credit Guarantee Corporation (DICGC) protects aggregate principal and interest amounts up to a maximum of ₹5 Lakh per depositor per bank."
+  },
+  {
+    "id": 114,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "When a bank collects checks, bills of exchange, or drafts on behalf of its customers, it operates in what specific legal capacity?",
+    "options": [
+      "Bailor",
+      "Agent",
+      "Trustee",
+      "Pledgee"
+    ],
+    "correctAnswer": "Agent",
+    "explanation": "When clearing instruments on behalf of a customer, the bank functions as a collecting agent, establishing an Agent-Principal relationship."
+  },
+  {
+    "id": 115,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which index or database is utilized during customer on-boarding to track credit settlement histories and calculate individual credit rating scores in India?",
+    "options": [
+      "CIBIL",
+      "SEBI Grid",
+      "FIU-IND Ledger",
+      "IRDAI Registry"
+    ],
+    "correctAnswer": "CIBIL",
+    "explanation": "The Credit Information Bureau (India) Limited (CIBIL) is India's premier credit bureau. It collects and maintains credit records of individuals and commercial entities."
+  },
+  {
+    "id": 116,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "What does 'S' denote in the abbreviation 'SEBI', the regulatory body oversight entity for Indian capital markets?",
+    "options": [
+      "Securities",
+      "Stock",
+      "Savings",
+      "Systemic"
+    ],
+    "correctAnswer": "Securities",
+    "explanation": "SEBI stands for the Securities and Exchange Board of India, established as a statutory body in 1992."
+  },
+  {
+    "id": 117,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "Which structural asset category characterizes a Mutual Fund scheme that invests primarily in government securities, treasury bills, and short-term corporate bonds?",
+    "options": [
+      "Equity Mutual Fund",
+      "Debt Mutual Fund",
+      "Balanced Fund",
+      "Sectoral Fund"
+    ],
+    "correctAnswer": "Debt Mutual Fund",
+    "explanation": "Debt mutual funds invest in fixed-income debt securities, offering lower risk profiles compared to equity-linked market assets."
+  },
+  {
+    "id": 118,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "What corporate finance dynamic describes the process when a publicly listed company offers its existing shareholders the option to purchase additional shares at a discounted price directly?",
+    "options": [
+      "Initial Public Offering",
+      "Rights Issue",
+      "Offer for Sale",
+      "Bonus Issue"
+    ],
+    "correctAnswer": "Rights Issue",
+    "explanation": "A Rights Issue allows existing shareholders to buy new shares in proportion to their current holdings, typically at a discount to the market price."
+  },
+  {
+    "id": 119,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "What term describes the regular, periodic share of a corporation's earnings distributed directly to its shareholders as a reward for equity investment?",
+    "options": [
+      "Premium",
+      "Dividend",
+      "Interest",
+      "Capital Gain"
+    ],
+    "correctAnswer": "Dividend",
+    "explanation": "Dividends are corporate profits allocated to shareholders on a per-share basis, determined by the company's board of directors."
+  },
+  {
+    "id": 120,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "Which of the following is a key feature of a Commercial Paper (CP) transaction in Indian financial markets?",
+    "options": [
+      "It is a long-term secured bank asset.",
+      "It is an unsecured money market promissory note issued at a discount.",
+      "It carries a minimum lock-in structural tenure of 5 years.",
+      "It is explicitly issued only to rural agricultural cooperatives."
+    ],
+    "correctAnswer": "It is an unsecured money market promissory note issued at a discount.",
+    "explanation": "Commercial Paper is a short-term, unsecured debt instrument issued by highly-rated corporations to meet short-term liabilities."
+  },
+  {
+    "id": 121,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "Which metric evaluates a company's financial leverage by dividing its total operational earnings before interest and taxes (EBIT) by its periodic debt interest obligations?",
+    "options": [
+      "Current Ratio",
+      "Interest Coverage Ratio",
+      "Return on Equity",
+      "Net Profit Margin"
+    ],
+    "correctAnswer": "Interest Coverage Ratio",
+    "explanation": "The Interest Coverage Ratio measures how easily a company can pay interest on its outstanding debt using its current operating profits."
+  },
+  {
+    "id": 122,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "Which national institution acts as the primary developmental refinancing authority for Small and Medium Enterprises (SMEs) across India?",
+    "options": [
+      "NABARD",
+      "NHB",
+      "SIDBI",
+      "EXIM Bank"
+    ],
+    "correctAnswer": "SIDBI",
+    "explanation": "SIDBI (Small Industries Development Bank of India) acts as the principal financial institution for the promotion, financing, and development of the MSME sector."
+  },
+  {
+    "id": 123,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "What type of life insurance policy combines pure death protection cover alongside an explicit savings component that pays a lump sum upon either maturity or death?",
+    "options": [
+      "Term Insurance Policy",
+      "Endowment Policy",
+      "Annuity Scheme",
+      "Whole Life Floating Cover"
+    ],
+    "correctAnswer": "Endowment Policy",
+    "explanation": "Endowment policies serve dual purposes by acting both as a life insurance risk cover and a disciplined wealth accumulation vehicle."
+  },
+  {
+    "id": 124,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "What financial regulatory setup describes an alternative investment vehicle that pools private capital to invest in distressed corporate debt or seed stage startups, carrying higher risk?",
+    "options": [
+      "AIF (Alternative Investment Fund)",
+      "ELSS Fund",
+      "Liquid G-Sec Fund",
+      "Public Provident Refinance"
+    ],
+    "correctAnswer": "AIF (Alternative Investment Fund)",
+    "explanation": "Alternative Investment Funds (AIFs) represent private pooled investment vehicles established to target venture capital, hedge funds, or private equity."
+  },
+  {
+    "id": 125,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "What is the official term used in the Indian Constitution to describe the annual budget statement presented in Parliament?",
+    "options": [
+      "Union Budget Account",
+      "Annual Financial Statement",
+      "Revenue Allocation Matrix",
+      "Fiscal Distribution Bill"
+    ],
+    "correctAnswer": "Annual Financial Statement",
+    "explanation": "Under Article 112 of the Indian Constitution, the budget is officially designated as the Annual Financial Statement."
+  },
+  {
+    "id": 126,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "What index serves as the measurement metric to evaluate structural production output shifts across core infrastructure sectors like electricity, crude oil, and steel?",
+    "options": [
+      "Wholesale Price Index",
+      "Index of Industrial Production (IIP)",
+      "Purchasing Managers' Index",
+      "Gross Capital Formation"
+    ],
+    "correctAnswer": "Index of Industrial Production (IIP)",
+    "explanation": "IIP is a key macroeconomic composite indicator that measures short-term volume changes in the output of a basket of industrial products."
+  },
+  {
+    "id": 127,
+    "category": "Indian Economy",
+    "difficulty": "Hard",
+    "question": "Which of the following components is deducted from Gross National Product (GNP) to derive the net national productivity income parameter (Net National Product)?",
+    "options": [
+      "Indirect Corporate Taxes",
+      "Subsidies",
+      "Depreciation",
+      "Net Factor Income from Abroad"
+    ],
+    "correctAnswer": "Depreciation",
+    "explanation": "Net National Product (NNP) is calculated by subtracting capital consumption value or depreciation from Gross National Product (GNP)."
+  },
+  {
+    "id": 128,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "Which historical economic reform milestone in India is widely known as the LPG policy launch?",
+    "options": [
+      "1969 Banking Nationalization",
+      "1991 Economic Reforms",
+      "2005 Tax Structuring",
+      "2016 Demonetization Drive"
+    ],
+    "correctAnswer": "1991 Economic Reforms",
+    "explanation": "The 1991 structural reforms introduced Liberalization, Privatization, and Globalization (LPG) to stabilize India's balance of payments crisis."
+  },
+  {
+    "id": 129,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "What type of unemployment occurs when workers are temporarily between jobs or looking for new positions within an evolving corporate ecosystem?",
+    "options": [
+      "Structural Unemployment",
+      "Cyclical Unemployment",
+      "Frictional Unemployment",
+      "Disguised Unemployment"
+    ],
+    "correctAnswer": "Frictional Unemployment",
+    "explanation": "Frictional unemployment is the short-term joblessness experienced by individuals who are voluntarily changing careers or relocating."
+  },
+  {
+    "id": 130,
+    "category": "Indian Economy",
+    "difficulty": "Hard",
+    "question": "The baseline recommendations determining the devolution percentage of central tax revenues to Indian states are formulated by which constitutional entity?",
+    "options": [
+      "GST Council",
+      "NITI Aayog Council",
+      "Finance Commission",
+      "Public Accounts Committee"
+    ],
+    "correctAnswer": "Finance Commission",
+    "explanation": "Article 280 mandates the Finance Commission to recommend the fiscal distribution formulas governing tax revenue sharing between the Center and individual States."
+  },
+  {
+    "id": 131,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "What specific sector constitutes the largest contributor to India’s Gross Value Added (GVA) calculation?",
+    "options": [
+      "Agriculture and Allied Sector",
+      "Manufacturing Sector",
+      "Services Sector",
+      "Mining and Quarrying"
+    ],
+    "correctAnswer": "Services Sector",
+    "explanation": "The services sector (tertiary sector) is the largest contributor to India’s economy, accounting for over 50% of national GVA."
+  },
+  {
+    "id": 132,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "What type of budget deficit is calculated when the government's total interest payments on past debts are subtracted from its primary fiscal deficit?",
+    "options": [
+      "Revenue Deficit",
+      "Primary Deficit",
+      "Effective Revenue Deficit",
+      "Monetized Deficit"
+    ],
+    "correctAnswer": "Primary Deficit",
+    "explanation": "Primary Deficit is derived by deducting interest payments from the overall Fiscal Deficit, highlighting current net borrowing requirements."
+  },
+  {
+    "id": 133,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "Under the Pradhan Mantri Jan Dhan Yojana (PMJDY), what is the maximum available financial overdraft facility limit extended to eligible account operators?",
+    "options": [
+      "₹2,000",
+      "₹5,000",
+      "₹10,000",
+      "₹20,000"
+    ],
+    "correctAnswer": "₹10,000",
+    "explanation": "The upper limit for the overdraft facility linked to verified basic PMJDY accounts is set at ₹10,000 with age-relaxed boundaries."
+  },
+  {
+    "id": 134,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "Which of the following represents the correct threshold framework for classifying an enterprise as a 'Medium Enterprise' under modified MSME definitions?",
+    "options": [
+      "Investment up to ₹10 Crore; Turnover up to ₹50 Crore",
+      "Investment up to ₹50 Crore; Turnover up to ₹250 Crore",
+      "Investment up to ₹20 Crore; Turnover up to ₹100 Crore",
+      "Investment up to ₹100 Crore; Turnover up to ₹500 Crore"
+    ],
+    "correctAnswer": "Investment up to ₹50 Crore; Turnover up to ₹250 Crore",
+    "explanation": "Under the unified composite criteria, a Medium Enterprise is defined as an entity with investment in plant/machinery up to ₹50 Crore and annual turnover up to ₹250 Crore."
+  },
+  {
+    "id": 135,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Hard",
+    "question": "What structural tracking index was introduced by the RBI to quantitatively evaluate and publish the compound degree of digital payment adoption and expansion across India?",
+    "options": [
+      "DPI (Digital Payments Index)",
+      "DTI (Digital Transaction Indicator)",
+      "FinTech Growth Matrix",
+      "Unified Electronic Cleared Index"
+    ],
+    "correctAnswer": "DPI (Digital Payments Index)",
+    "explanation": "The RBI Digital Payments Index (RBI-DPI) tracks digital payment metrics using a multi-factor parameter framework with a base period of March 2018."
+  },
+  {
+    "id": 136,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "What is the maximum investment entry limit allowed per individual senior citizen investor under the modified Senior Citizens Savings Scheme (SCSS)?",
+    "options": [
+      "₹15 Lakh",
+      "₹20 Lakh",
+      "₹30 Lakh",
+      "₹50 Lakh"
+    ],
+    "correctAnswer": "₹30 Lakh",
+    "explanation": "The maximum deposit limit allowed under the Senior Citizens Savings Scheme (SCSS) was enhanced from ₹15 Lakh to ₹30 Lakh to secure retirement returns."
+  },
+  {
+    "id": 137,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "What structural entity setup describes the Mahila Samman Savings Certificate scheme launched by the Ministry of Finance?",
+    "options": [
+      "A regular recurring dynamic checking wallet line.",
+      "A small savings scheme for women with a fixed investment tenure of 2 years.",
+      "A long-term equity-linked retirement annuity bond.",
+      "An exclusive digital currency wallet accessible only via local post offices."
+    ],
+    "correctAnswer": "A small savings scheme for women with a fixed investment tenure of 2 years.",
+    "explanation": "The Mahila Samman Savings Certificate is a specialized, one-time small savings instrument for women with a 2-year tenure and a fixed interest rate."
+  },
+  {
+    "id": 138,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Hard",
+    "question": "Which of the following central public sector financial agencies was officially granted the upgrade designation status of 'Maharatna' to expand corporate financial autonomy?",
+    "options": [
+      "REC Limited",
+      "SIDBI Capital",
+      "ECGC Limited",
+      "National Housing Bank"
+    ],
+    "correctAnswer": "REC Limited",
+    "explanation": "REC Limited was inducted as a Maharatna Central Public Sector Enterprise, giving it greater operational flexibility to structure strategic infrastructure investments."
+  },
+  {
+    "id": 139,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "What term is used to describe the corporate banking restructuring process when several independent Public Sector Banks (PSBs) are permanently integrated into a single large anchor bank?",
+    "options": [
+      "Amalgamation / Merger",
+      "Liquidation",
+      "Disinvestment",
+      "Strategic Divestment"
+    ],
+    "correctAnswer": "Amalgamation / Merger",
+    "explanation": "Bank mergers aim to consolidate banking infrastructure, reduce operational costs, and build global-scale financial institutions."
+  },
+  {
+    "id": 140,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "The PM-PRANAM scheme launched under national economic plans focuses on which environmental development parameter?",
+    "options": [
+      "Promoting alternative fertilizers and balanced use of chemical nutrients in agriculture.",
+      "Providing immediate green bonds for urban clean transport systems.",
+      "Subsidizing solar installation arrays across urban retail banks.",
+      "Establishing tech clearing grids for carbon offset units."
+    ],
+    "correctAnswer": "Promoting alternative fertilizers and balanced use of chemical nutrients in agriculture.",
+    "explanation": "PM-PRANAM aims to encourage states to optimize soil health by reducing reliance on chemical fertilizers and promoting organic alternatives."
+  },
+  {
+    "id": 141,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "What is the simple interest accrued on a loan principal of ₹12,000 borrowed for a tenure of 3 years at an annual interest rate of 8%?",
+    "options": [
+      "₹2,400",
+      "₹2,880",
+      "₹3,200",
+      "₹1,880"
+    ],
+    "correctAnswer": "₹2,880",
+    "explanation": "Simple Interest = (P × R × T) / 100 = (12,000 × 8 × 3) / 100 = 120 × 24 = ₹2,880."
+  },
+  {
+    "id": 142,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A bank clerk typing records can finish an assignment data deck in 6 hours. A senior officer can type the identical data deck in 4 hours. If they work simultaneously, how many hours will it take to finish the work?",
+    "options": [
+      "2.0 hours",
+      "2.4 hours",
+      "3.0 hours",
+      "5.0 hours"
+    ],
+    "correctAnswer": "2.4 hours",
+    "explanation": "Combined Time = (A × B) / (A + B) = (6 × 4) / (6 + 4) = 24 / 10 = 2.4 hours."
+  },
+  {
+    "id": 143,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "The ratio of cash assets to liquid security portfolios across an investment fund branch is 3:5. If the total combined value of these assets is ₹64 Crore, what is the net value of the liquid security portfolio?",
+    "options": [
+      "₹24 Crore",
+      "₹40 Crore",
+      "₹36 Crore",
+      "₹48 Crore"
+    ],
+    "correctAnswer": "₹40 Crore",
+    "explanation": "The value of one ratio part = 64 / (3 + 5) = 64 / 8 = ₹8 Crore. The security portfolio component = 5 parts × 8 = ₹40 Crore."
+  },
+  {
+    "id": 144,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "Evaluate the value of 'x' in the given equation: √(x) + 40 = 15% of 400",
+    "options": [
+      "400",
+      "200",
+      "100",
+      "300"
+    ],
+    "correctAnswer": "400",
+    "explanation": "15% of 400 = 60. The equation becomes: √(x) + 40 = 60 => √(x) = 20. Squaring both sides yields x = 400."
+  },
+  {
+    "id": 145,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "An asset item bought for ₹5,000 is sold for ₹6,200. Find the net profit percentage.",
+    "options": [
+      "20%",
+      "24%",
+      "25%",
+      "12%"
+    ],
+    "correctAnswer": "24%",
+    "explanation": "Net Profit Amount = 6,200 - 5,000 = 1,200. Profit Percentage = (1,200 / 5,000) × 100 = 24%."
+  },
+  {
+    "id": 146,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "A principal sum of ₹20,000 is invested for 2 years at a compound interest rate of 10% per annum, compounded annually. What is the total interest accrued at maturity?",
+    "options": [
+      "₹4,000",
+      "₹4,200",
+      "₹4,400",
+      "₹24,200"
+    ],
+    "correctAnswer": "₹4,400",
+    "explanation": "Compound Amount = P(1 + R/100)^T = 20,000 × (1.1)^2 = 20,000 × 1.21 = ₹24,200. Net Interest = 24,200 - 20,000 = ₹4,400."
+  },
+  {
+    "id": 147,
+    "category": "Reasoning Ability",
+    "difficulty": "Easy",
+    "question": "Complete the logical alphanumeric sequence pattern: SEC1, TFV4, UGI9, ?",
+    "options": [
+      "VHJ16",
+      "VIJ16",
+      "VHK12",
+      "WHJ16"
+    ],
+    "correctAnswer": "VHJ16",
+    "explanation": "First letters increase +1 (S, T, U, V). Middle letters increase +1 (E, F, G, H). Third letters increase +1 (C, D, E replaced logic skips: C, F, G context adds steps C->F->G error maps +1 order C,F,G,J or standard shift matching H to J). Numbers are consecutive squares: 1, 4, 9, 16."
+  },
+  {
+    "id": 148,
+    "category": "Reasoning Ability",
+    "difficulty": "Medium",
+    "question": "A corporate manager starts from his office and walks 4 km West, then turns left and walks 3 km. How far is he from his initial office starting point?",
+    "options": [
+      "5 km",
+      "7 km",
+      "6 km",
+      "1 km"
+    ],
+    "correctAnswer": "5 km",
+    "explanation": "Using the Pythagorean theorem: Diagonal distance = √(4^2 + 3^2) = √(16 + 9) = √25 = 5 km."
+  },
+  {
+    "id": 149,
+    "category": "Reasoning Ability",
+    "difficulty": "Hard",
+    "question": "Statements: All managers are specialists. Some specialists are advisors. Conclusions: I. Some managers are advisors. II. Some specialists are managers.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both conclusion I and II follow",
+      "Neither conclusion I nor II follows"
+    ],
+    "correctAnswer": "Only conclusion II follows",
+    "explanation": "Since all managers are specialists, the manager circle is entirely inside the specialist circle, meaning some specialists are managers (II follows). However, there is no guaranteed intersection between managers and advisors (I does not follow)."
+  },
+  {
+    "id": 150,
+    "category": "Reasoning Ability",
+    "difficulty": "Easy",
+    "question": "If in a specialized accounting dictionary code, 'INVEST' is explicitly written as 'TSEVNI', how will 'PROFIT' be written?",
+    "options": [
+      "TIFORP",
+      "TIFPRO",
+      "TFIRPO",
+      "TIFOPR"
+    ],
+    "correctAnswer": "TIFORP",
+    "explanation": "The word coding logic simply reverses the chronological arrangement of the letters: P-R-O-F-I-T becomes T-I-F-O-R-P."
+  },
+  {
+    "id": 151,
+    "category": "Reasoning Ability",
+    "difficulty": "Medium",
+    "question": "Six people (A, B, C, D, E, F) are sitting in a circle facing the center. A sits to the immediate left of B. If E sits exactly opposite to B, and C sits adjacent to E on his right side, who sits to the immediate right of B?",
+    "options": [
+      "C",
+      "A",
+      "Information insufficient to deduce alternative spots",
+      "The person occupying the position opposite to A"
+    ],
+    "correctAnswer": "Information insufficient to deduce alternative spots",
+    "explanation": "While several key positions are locked in, the remaining empty slots can be interchangeably filled by D or F, leaving certain adjacent relationships unverified."
+  },
+  {
+    "id": 152,
+    "category": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "What is the primary function of the operating system inside a banking workstation terminal?",
+    "options": [
+      "To directly compute multi-digit loan compounding calculations.",
+      "To manage hardware resources and provide a user interface for applications.",
+      "To scan checking instruments for physical magnetic patterns.",
+      "To establish physical copper line telecom links."
+    ],
+    "correctAnswer": "To manage hardware resources and provide a user interface for applications.",
+    "explanation": "The operating system is the core system software that coordinates hardware components and provides a platform for application software."
+  },
+  {
+    "id": 153,
+    "category": "Computer Awareness",
+    "difficulty": "Medium",
+    "question": "What type of internet communication protocol secures transactions over the web by encrypting sensitive data transfers?",
+    "options": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "SMTP"
+    ],
+    "correctAnswer": "HTTPS",
+    "explanation": "HTTPS (Hypertext Transfer Protocol Secure) uses SSL/TLS encryption to protect communication between a web browser and a website."
+  },
+  {
+    "id": 154,
+    "category": "Computer Awareness",
+    "difficulty": "Hard",
+    "question": "Which of the following database concepts describes a specific field key that uniquely identifies each individual record row within an internal database table?",
+    "options": [
+      "Foreign Key",
+      "Primary Key",
+      "Composite Index",
+      "Secondary Pointer"
+    ],
+    "correctAnswer": "Primary Key",
+    "explanation": "A primary key is a unique identifier for a specific database row, ensuring no two records share identical key identifiers."
+  },
+  {
+    "id": 155,
+    "category": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "What standard shortcut key combination is used in MS Word to save a modified document file?",
+    "options": [
+      "Ctrl + S",
+      "Ctrl + O",
+      "Ctrl + P",
+      "Ctrl + X"
+    ],
+    "correctAnswer": "Ctrl + S",
+    "explanation": "The shortcut combination Ctrl + S triggers the system save script function in standard office suites."
+  },
+  {
+    "id": 156,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "What is the primary objective of introducing a 'Legal Entity Identifier' (LEI) code for large-value financial transactions?",
+    "options": [
+      "To calculate individual consumer credit rating benchmarks.",
+      "To uniquely identify distinct parties to financial transactions globally to mitigate systemic risk.",
+      "To provide instant tax exemption vouchers to public organizations.",
+      "To manage automated physical safe locker entries across currency vaults."
+    ],
+    "correctAnswer": "To uniquely identify distinct parties to financial transactions globally to mitigate sensitive risk.",
+    "explanation": "The LEI is a 20-digit global reference code that uniquely identifies legal entities participating in financial transactions."
+  },
+  {
+    "id": 157,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "Under current RBI guidelines, what is the maximum tenor allowed for an absolute short-term money market lending tool known as 'Call Money'?",
+    "options": [
+      "1 day (Overnight)",
+      "14 days",
+      "91 days",
+      "182 days"
+    ],
+    "correctAnswer": "1 day (Overnight)",
+    "explanation": "Call Money refers to interbank lending transactions that are settled on an overnight, 1-day basis. Loans extending from 2 to 14 days are classified as Notice Money."
+  },
+  {
+    "id": 158,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "Which of the following banking instruments is commonly referred to as a plastic money card?",
+    "options": [
+      "Demand Draft",
+      "Credit Card",
+      "Cheque",
+      "Fixed Deposit Receipt"
+    ],
+    "correctAnswer": "Credit Card",
+    "explanation": "Credit cards, debit cards, and prepaid payment cards are colloquially known as plastic money due to their physical composition and payment utility."
+  },
+  {
+    "id": 159,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "Which specific committee proposed structural guidelines for establishing the institutional framework of Regional Rural Banks (RRBs) in India?",
+    "options": [
+      "Narasimham Working Group",
+      "Gadgil Committee",
+      "Urjit Patel Bureau",
+      "Shivaraman Committee"
+    ],
+    "correctAnswer": "Narasimham Working Group",
+    "explanation": "The Narasimham Working Group (1975) recommended setting up RRBs to bridge the rural credit gap and improve financial inclusion."
+  },
+  {
+    "id": 160,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "What specific percentage share of equity capital is contributed by the central government when sponsoring a Regional Rural Bank?",
+    "options": [
+      "15%",
+      "35%",
+      "50%",
+      "75%"
+    ],
+    "correctAnswer": "50%",
+    "explanation": "The equity capital of an RRB is structured among the Central Government (50%), the Sponsor Bank (35%), and the concerned State Government (15%)."
+  },
+  {
+    "id": 161,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "What does 'NAV' signify in the asset tracking and evaluation metrics of Indian Mutual Funds?",
+    "options": [
+      "Net Asset Value",
+      "Nominal Account Verification",
+      "Net Annual Volume",
+      "National Asset Valuation"
+    ],
+    "correctAnswer": "Net Asset Value",
+    "explanation": "NAV is the per-unit market value of a mutual fund scheme, calculated by dividing the net value of its assets by the total number of outstanding units."
+  },
+  {
+    "id": 162,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "Which segment of the capital market handles the issuance of brand-new equity securities by corporations looking to raise initial funding?",
+    "options": [
+      "Secondary Market",
+      "Primary Market",
+      "Commodities Exchange",
+      "Derivatives Counter"
+    ],
+    "correctAnswer": "Primary Market",
+    "explanation": "The primary market deals with new securities being issued for the first time through mechanisms like Initial Public Offerings (IPOs)."
+  },
+  {
+    "id": 163,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "What type of risk describes a situation where an investor cannot find a counterparty to execute a trade, preventing them from converting an asset into cash quickly without significant value loss?",
+    "options": [
+      "Credit Risk",
+      "Liquidity Risk",
+      "Market Risk",
+      "Sovereign Default Risk"
+    ],
+    "correctAnswer": "Liquidity Risk",
+    "explanation": "Liquidity risk arises when an asset cannot be bought or sold quickly enough in the market to prevent a loss or meet short-term obligations."
+  },
+  {
+    "id": 164,
+    "category": "Financial Awareness",
+    "difficulty": "Easy",
+    "question": "Which public regulatory authority handles corporate grievance filings and updates registration data for corporate entities across India?",
+    "options": [
+      "Ministry of Corporate Affairs (MCA)",
+      "SEBI Secretariat",
+      "RBI Non-Banking Cell",
+      "NITI Aayog Infrastructure Division"
+    ],
+    "correctAnswer": "Ministry of Corporate Affairs (MCA)",
+    "explanation": "The Ministry of Corporate Affairs regulates corporate operations in India in accordance with the Companies Act, 2013."
+  },
+  {
+    "id": 165,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "What financial status is designated to a corporate entity that is legally declared unable to repay its outstanding financial debts to creditors?",
+    "options": [
+      "Liquidated",
+      "Insolvent / Bankrupt",
+      "Amalgamated",
+      "Restructured"
+    ],
+    "correctAnswer": "Insolvent / Bankrupt",
+    "explanation": "Insolvency is the state of financial distress where an entity's liabilities exceed its assets, rendering it unable to meet debt obligations."
+  },
+  {
+    "id": 166,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "What macroeconomic index evaluates shifts in production cost trends by tracking price changes at the wholesale transaction level in India?",
+    "options": [
+      "Consumer Price Index",
+      "Wholesale Price Index (WPI)",
+      "GDP Price Deflator",
+      "Index of Industrial Production"
+    ],
+    "correctAnswer": "Wholesale Price Index (WPI)",
+    "explanation": "WPI tracks price movements at the wholesale level and is published by the Office of the Economic Adviser under the Ministry of Commerce and Industry."
+  },
+  {
+    "id": 167,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "Which of the following describes a tax system where the tax rate increases as the taxpayer's taxable income increases?",
+    "options": [
+      "Regressive Tax",
+      "Proportional Tax",
+      "Progressive Tax",
+      "Indirect Flat Tax"
+    ],
+    "correctAnswer": "Progressive Tax",
+    "explanation": "A progressive tax places a higher tax burden on higher-income earners, aiming to reduce income inequality."
+  },
+  {
+    "id": 168,
+    "category": "Indian Economy",
+    "difficulty": "Hard",
+    "question": "The concept of 'Hot Money' in international macroeconomics refers to which category of foreign investment inflows?",
+    "options": [
+      "Foreign Direct Investment (FDI)",
+      "Foreign Portfolio Investment (FPI)",
+      "Official Development Assistance Loans",
+      "External Commercial Borrowings"
+    ],
+    "correctAnswer": "Foreign Portfolio Investment (FPI)",
+    "explanation": "FPI is often called 'hot money' because investors can quickly pull their capital out of a country's stock or bond markets at the first sign of financial instability."
+  },
+  {
+    "id": 169,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "Which national agency manages the procurement, storage, and nationwide distribution of food grains for social welfare programs in India?",
+    "options": [
+      "NABARD",
+      "Food Corporation of India (FCI)",
+      "NITI Aayog Agricultural Cell",
+      "Ministry of Agriculture"
+    ],
+    "correctAnswer": "Food Corporation of India (FCI)",
+    "explanation": "FCI is a statutory body that safeguards food security by managing price support operations, procurement, and storage grain grids."
+  },
+  {
+    "id": 170,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "What type of deficit represents the excess of the government's total revenue expenditure over its total revenue receipts?",
+    "options": [
+      "Fiscal Deficit",
+      "Budget Deficit",
+      "Revenue Deficit",
+      "Primary Deficit"
+    ],
+    "correctAnswer": "Revenue Deficit",
+    "explanation": "A revenue deficit occurs when the government's day-to-day operational expenditures exceed its current revenue earnings."
+  },
+  {
+    "id": 171,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "What is the maximum annual pension guaranteed to eligible subscribers under the Atal Pension Yojana (APY) small savings scheme?",
+    "options": [
+      "₹12,000",
+      "₹24,000",
+      "₹36,000",
+      "₹60,000"
+    ],
+    "correctAnswer": "₹60,000",
+    "explanation": "The maximum guaranteed monthly pension under APY is ₹5,000, which translates to a total guaranteed annual payout of ₹60,000."
+  },
+  {
+    "id": 172,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "Which of the following accurately describes the primary mandate of the National Asset Reconstruction Company Limited (NARCL) in India?",
+    "options": [
+      "To issue credit score cards to retail individuals.",
+      "To acquire and consolidate stressed high-value non-performing assets (NPAs) from banks.",
+      "To manage agricultural crop refinancing applications.",
+      "To regulate daily liquidity volumes across stock markets."
+    ],
+    "correctAnswer": "To acquire and consolidate stressed high-value non-performing assets (NPAs) from banks.",
+    "explanation": "NARCL was incorporated as a specialized asset reconstruction company (bad bank) to acquire legacy bad loans from commercial banks and accelerate asset resolution."
+  },
+  {
+    "id": 173,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Hard",
+    "question": "What is the targeted total core capital adequacy ratio (CRAR) threshold that a Regional Rural Bank (RRB) must maintain under the RBI's prudential safety framework?",
+    "options": [
+      "8.0%",
+      "9.0%",
+      "12.0%",
+      "15.0%"
+    ],
+    "correctAnswer": "9.0%",
+    "explanation": "The RBI mandates that RRBs must maintain a minimum Capital to Risk-Weighted Assets Ratio (CRAR) of 9% to guard against institutional insolvency."
+  },
+  {
+    "id": 174,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "Which public sector digital infrastructure platform serves as an electronic document safe repository, enabling cardless and paperless document verification?",
+    "options": [
+      "Jan Samarth Portal",
+      "DigiLocker",
+      "UMANG App",
+      "e-Shram Portal"
+    ],
+    "correctAnswer": "DigiLocker",
+    "explanation": "DigiLocker is a key initiative under the Digital India program that provides citizens with access to authentic digital documents."
+  },
+  {
+    "id": 175,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "Under modified priority sector frameworks, what is the maximum loan limit permitted for solar power generation plants under the renewable energy sub-classification?",
+    "options": [
+      "₹10 Crore",
+      "₹15 Crore",
+      "₹30 Crore",
+      "₹50 Crore"
+    ],
+    "correctAnswer": "₹30 Crore",
+    "explanation": "Bank loans up to a limit of ₹30 Crore to borrowers for public utility purposes like solar or biomass power plants are classified under Priority Sector Lending."
+  },
+  {
+    "id": 176,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "Find the simple average of the given banking data values: 45, 55, 60, 65, 75",
+    "options": [
+      "55",
+      "60",
+      "62",
+      "65"
+    ],
+    "correctAnswer": "60",
+    "explanation": "Average = Sum / Total Count = (45 + 55 + 60 + 65 + 75) / 5 = 300 / 5 = 60."
+  },
+  {
+    "id": 177,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A principal investment grows by 21% when placed for 2 years at a compound interest rate compounded annually. Find the annual interest rate.",
+    "options": [
+      "9%",
+      "10%",
+      "10.5%",
+      "11%"
+    ],
+    "correctAnswer": "10%",
+    "explanation": "Using the compound effect formula: Net Growth = R + R + (R^2/100). If R = 10%, Net Growth = 10 + 10 + (100/100) = 21%."
+  },
+  {
+    "id": 178,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Hard",
+    "question": "The ages of two banking assistants are in the ratio 4:7. In 6 years, the ratio of their ages becomes 5:8. Find the current age of the senior assistant.",
+    "options": [
+      "24 years",
+      "42 years",
+      "35 years",
+      "48 years"
+    ],
+    "correctAnswer": "42 years",
+    "explanation": "Let ages be 4x and 7x. Equation: (4x + 6) / (7x + 6) = 5 / 8 => 32x + 48 = 35x + 30 => 3x = 18 => x = 6. Senior age = 7 × 6 = 42 years."
+  },
+  {
+    "id": 179,
+    "category": "Reasoning Ability",
+    "difficulty": "Easy",
+    "question": "In an analytical arrangement puzzle, if 'LOAN' is coded as '12-15-1-14', what will the numeric code for 'RISK' be?",
+    "options": [
+      "18-9-19-11",
+      "18-8-19-12",
+      "17-9-18-11",
+      "19-9-20-11"
+    ],
+    "correctAnswer": "18-9-19-11",
+    "explanation": "Each letter is represented directly by its standard chronological rank position in the alphabet: R=18, I=9, S=19, K=11."
+  },
+  {
+    "id": 180,
+    "category": "Reasoning Ability",
+    "difficulty": "Medium",
+    "question": "A person travels 6 km North, takes a right turn and travels 8 km. How far is he from his initial starting point?",
+    "options": [
+      "10 km",
+      "14 km",
+      "12 km",
+      "2 km"
+    ],
+    "correctAnswer": "10 km",
+    "explanation": "Forms a right-angled triangle. Hypotenuse = √(6^2 + 8^2) = √(36 + 64) = √100 = 10 km."
+  },
+  {
+    "id": 181,
+    "category": "Reasoning Ability",
+    "difficulty": "Hard",
+    "question": "Statements: Some equity options are derivatives. No derivative is a basic cash asset. Conclusions: I. No equity option is a basic cash asset. II. Some equity options are not basic cash assets.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both conclusion I and II follow",
+      "Neither conclusion I nor II follows"
+    ],
+    "correctAnswer": "Only conclusion II follows",
+    "explanation": "The specific equity options that intersect with derivatives cannot be basic cash assets, making conclusion II definitively true. However, other equity options could potentially intersect with basic cash assets, so conclusion I is not guaranteed."
+  },
+  {
+    "id": 182,
+    "category": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "Which of the following functions as the primary long-term non-volatile storage repository inside a standard computer system?",
+    "options": [
+      "RAM",
+      "Hard Disk Drive (HDD) / Solid State Drive (SSD)",
+      "Cache Memory",
+      "Registers"
+    ],
+    "correctAnswer": "Hard Disk Drive (HDD) / Solid State Drive (SSD)",
+    "explanation": "HDDs and SSDs provide non-volatile storage, meaning they retain digital data even when the system is powered off."
+  },
+  {
+    "id": 183,
+    "category": "Computer Awareness",
+    "difficulty": "Medium",
+    "question": "What is the network security term for a deceptive attempt to acquire sensitive credentials like passwords and PINs by masquerading as a trustworthy financial institution via email?",
+    "options": [
+      "Phishing",
+      "Spoofing",
+      "DDoS Attack",
+      "SQL Injection"
+    ],
+    "correctAnswer": "Phishing",
+    "explanation": "Phishing involves sending fraudulent communications designed to trick recipients into revealing sensitive personal data or financial credentials."
+  },
+  {
+    "id": 184,
+    "category": "Computer Awareness",
+    "difficulty": "Hard",
+    "question": "In networking infrastructure, which layer of the OSI model handles the routing of data packets across separate network addresses?",
+    "options": [
+      "Physical Layer",
+      "Data Link Layer",
+      "Network Layer",
+      "Transport Layer"
+    ],
+    "correctAnswer": "Network Layer",
+    "explanation": "The Network Layer (Layer 3) is responsible for packet routing, logical addressing (IP addresses), and path determination."
+  },
+  {
+    "id": 185,
+    "category": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "In Microsoft Excel, what standard character symbol must precede any functional formula calculation inside a cell?",
+    "options": [
+      "@",
+      "=",
+      "#",
+      "$"
+    ],
+    "correctAnswer": "=",
+    "explanation": "All formulas and operational functions in Excel must begin with an equals (=) sign to denote an active calculation parameter."
+  },
+  {
+    "id": 186,
+    "category": "Banking Awareness",
+    "difficulty": "Medium",
+    "question": "What structural tracking setup characterizes a 'Sovereign Gold Bond' (SGB) issued by the RBI on behalf of the government?",
+    "options": [
+      "A physical commodity receipt stored in a safety vault.",
+      "An interest-bearing government security denominated in grams of gold.",
+      "A speculative option asset traded on overseas livestock boards.",
+      "A non-repatriable digital wallet credit line reserved for corporate miners."
+    ],
+    "correctAnswer": "An interest-bearing government security denominated in grams of gold.",
+    "explanation": "SGBs are government securities denominated in grams of gold. They serve as a secure alternative to holding physical gold and offer a periodic interest payout."
+  },
+  {
+    "id": 187,
+    "category": "Banking Awareness",
+    "difficulty": "Hard",
+    "question": "Under guidelines governing the pricing of microfinance credit lines, banks must ensure that their interest rate structures comply with which regulatory ceiling parameter?",
+    "options": [
+      "A uniform interest cap of 12% across all borrowers.",
+      "A well-regulated margin cap that prevents usurious pricing practices.",
+      "A flat floor rate tied directly to the price of sovereign silver.",
+      "A complete waiver of interest for urban corporate borrowers."
+    ],
+    "correctAnswer": "A well-regulated margin cap that prevents usurious pricing practices.",
+    "explanation": "The RBI's harmonized microfinance framework requires lenders to put in place a board-approved policy for pricing loans that includes a clear ceiling on interest margins."
+  },
+  {
+    "id": 188,
+    "category": "Banking Awareness",
+    "difficulty": "Easy",
+    "question": "What type of endorsement occurs when a check's payee signs their name on the back of the instrument without specifying a specific endorsee, making it payable to bearer?",
+    "options": [
+      "Special Endorsement",
+      "Blank Endorsement",
+      "Restrictive Endorsement",
+      "Conditional Endorsement"
+    ],
+    "correctAnswer": "Blank Endorsement",
+    "explanation": "A blank endorsement specifies no particular endorsee, transforming the instrument into a bearer check that can be negotiated by delivery alone."
+  },
+  {
+    "id": 189,
+    "category": "Financial Awareness",
+    "difficulty": "Medium",
+    "question": "Which of the following describes the core objective of a corporate organization initiating a 'Share Buyback' program?",
+    "options": [
+      "To issue additional voting shares to reduce retail control.",
+      "To repurchase its own outstanding shares from the market, reducing equity dilution.",
+      "To convert short-term debt instruments into fixed-term real estate portfolios.",
+      "To declare corporate bankruptcy under international tax rules."
+    ],
+    "correctAnswer": "To repurchase its own outstanding shares from the market, reducing equity dilution.",
+    "explanation": "A share buyback reduces the total number of outstanding shares in the market, which can increase earnings per share (EPS) and return surplus cash to investors."
+  },
+  {
+    "id": 190,
+    "category": "Financial Awareness",
+    "difficulty": "Hard",
+    "question": "What corporate finance metric divides an asset's annual dividend payout by its current per-share market price to evaluate immediate cash returns?",
+    "options": [
+      "Dividend Yield",
+      "Payout Ratio",
+      "Price-to-Book Ratio",
+      "Retention Factor"
+    ],
+    "correctAnswer": "Dividend Yield",
+    "explanation": "Dividend Yield is a financial ratio that shows how much a company pays out in dividends each year relative to its current stock price."
+  },
+  {
+    "id": 191,
+    "category": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "Which of the following directly constitutes a core component of the government's Capital Receipts framework inside the national budget?",
+    "options": [
+      "Income Tax Collections",
+      "Market Borrowings and Disinvestment Proceeds",
+      "GST Revenues",
+      "Interest received on loans granted to states"
+    ],
+    "correctAnswer": "Market Borrowings and Disinvestment Proceeds",
+    "explanation": "Capital receipts either create liabilities or reduce public assets. They include market borrowings, recovery of loans, and disinvestment proceeds."
+  },
+  {
+    "id": 192,
+    "category": "Indian Economy",
+    "difficulty": "Medium",
+    "question": "What condition characterizes a 'Balanced Balance of Payments' (BOP) scenario inside an open trading economy?",
+    "options": [
+      "When a country's total international financial receipts equal its total international financial payments.",
+      "When structural gold assets match the volume of physical corporate exports.",
+      "When internal domestic tax collections cover external corporate subsidy lines.",
+      "When all foreign portfolio allocations are permanently frozen by the central regulator."
+    ],
+    "correctAnswer": "When a country's total international financial receipts equal its total international financial payments.",
+    "explanation": "The BOP ledger balances perfectly when the combined credit and debit operations across current, capital, and financial accounts net out to zero."
+  },
+  {
+    "id": 193,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Easy",
+    "question": "What is the maximum loan limit permitted under the Stand-Up India scheme to support greenfield enterprises promoted by SC, ST, or women entrepreneurs?",
+    "options": [
+      "₹10 Lakh",
+      "₹50 Lakh",
+      "₹1 Crore",
+      "₹5 Crore"
+    ],
+    "correctAnswer": "₹1 Crore",
+    "explanation": "The Stand-Up India scheme facilitates bank loans between ₹10 Lakh and ₹1 Crore to at least one SC or ST borrower and at least one woman borrower per bank branch."
+  },
+  {
+    "id": 194,
+    "category": "Current Affairs (Banking & Finance)",
+    "difficulty": "Medium",
+    "question": "Which corporate platform setup characterizes the PM-KUSUM scheme launched to secure financial independence for Indian farmers?",
+    "options": [
+      "A direct cash transfer to purchase imported hybrid seeds.",
+      "An initiative to install solar water pumps and generate clean grid power.",
+      "A subsidized warehouse storage scheme for minor forest produce.",
+      "A digital tracking dashboard to evaluate regional wholesale crop prices."
+    ],
+    "correctAnswer": "An initiative to install solar water pumps and generate clean grid power.",
+    "explanation": "PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan) focuses on solarizing water pumps to provide energy security and a potential secondary income stream to farmers."
+  },
+  {
+    "id": 195,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Easy",
+    "question": "If an administrative banking department processes 120 loan applications in April and 150 applications in May, what is the percentage growth rate?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "15%"
+    ],
+    "correctAnswer": "25%",
+    "explanation": "Absolute Increase = 150 - 120 = 30. Percentage Growth = (30 / 120) × 100 = 25%."
+  },
+  {
+    "id": 196,
+    "category": "Quantitative Aptitude",
+    "difficulty": "Medium",
+    "question": "A specific security bundle loses 10% of its asset valuation during a market correction. By what percentage must its new valuation increase to return to its original baseline value?",
+    "options": [
+      "10%",
+      "11.11%",
+      "12.5%",
+      "15%"
+    ],
+    "correctAnswer": "11.11%",
+    "explanation": "Let original value = 100. Reduced value = 90. Increase needed = 10. Required Percentage Increase = (10 / 90) × 100 = 11.11%."
+  },
+  {
+    "id": 197,
+    "category": "Reasoning Ability",
+    "difficulty": "Medium",
+    "question": "If M is the sister of N, O is the father of N, and P is the wife of O, how is P related to M?",
+    "options": [
+      "Mother",
+      "Aunt",
+      "Sister",
+      "Daughter"
+    ],
+    "correctAnswer": "Mother",
+    "explanation": "M and N are siblings, and O is their father. Since P is married to O, P is the mother of both M and N."
+  },
+  {
+    "id": 198,
+    "category": "Reasoning Ability",
+    "difficulty": "Easy",
+    "question": "Identify the odd logical parameters group from the following sets of corporate assets:",
+    "options": [
+      "Fixed Deposits",
+      "Savings Accounts",
+      "Current Accounts",
+      "Commercial Building Properties"
+    ],
+    "correctAnswer": "Commercial Building Properties",
+    "explanation": "Fixed Deposits, Savings, and Current Accounts are liquid financial assets held within the banking system, whereas a commercial building is a tangible real estate fixed asset."
+  },
+  {
+    "id": 199,
+    "category": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "Which of the following serves as the standard transmission link connecting local computers across a global network infrastructure?",
+    "options": [
+      "RAM Card",
+      "Network Interface Card (NIC)",
+      "Sound Board",
+      "ALU System"
+    ],
+    "correctAnswer": "Network Interface Card (NIC)",
+    "explanation": "An NIC is a hardware component that enables a computer to connect and communicate over a localized or wide-area network."
+  },
+  {
+    "id": 200,
+    "category": "Computer Awareness",
+    "difficulty": "Medium",
+    "question": "In cybersecurity terminology, what is a 'Trojan Horse'?",
+    "options": [
+      "A physical hardware loop that burns processor chips.",
+      "Malicious software that misleads users by appearing as a legitimate program but executes harmful scripts in the background.",
+      "An automated system tool that accelerates network data speeds.",
+      "An encrypted ledger file utilized to process digital asset payments."
+    ],
+    "correctAnswer": "Malicious software that misleads users by appearing as a legitimate program but executes harmful scripts in the background.",
+    "explanation": "Trojan horses disguise themselves as safe applications to trick users into executing them, allowing malware to breach system security frameworks."
+  }
+]
